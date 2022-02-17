@@ -1,0 +1,12 @@
+RLCraft_DecentSkeleton,-2878,-2878,-3060,-3060
+RLCraft_UndergroundRuin2,-2883,-2876,-3065,-3055
+StoneBoulder,-2808,-2799,-3027,-3018
+StoneBoulder,-3005,-2996,-3025,-3016
+StonePlantMound1,-2969,-2963,-3007,-3001
+StonePlantMound1,-2904,-2898,-3015,-3009
+StonePlantMound3,-2892,-2881,-3011,-3002
+RLCraft_SmallUndergroundSkeleton,-3049,-3041,-3030,-3022
+WoodWallRemains,-2908,-2880,-3000,-2992
+StoneBoulder,-2759,-2750,-3005,-2996
+P_VillageFarmhouse,-2728,-2716,-2997,-2985
+StonePlantMound4,-2643,-2636,-3060,-3053

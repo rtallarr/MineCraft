@@ -1,0 +1,7 @@
+RLCraft_DecentWitch,-1484,-1484,-3422,-3422
+RLCraft_UndergroundRuin3,-1486,-1478,-3427,-3419
+SmallWoodenCottage,-1439,-1431,-3265,-3254
+BlazeSpawnerCrystal,-1418,-1412,-3101,-3095
+RLCraft_BasicCaveSpider,-1409,-1409,-3108,-3108
+RLCraft_UndergroundRuin1,-1412,-1403,-3111,-3102
+ShrineSmallFire,-1334,-1324,-3200,-3190

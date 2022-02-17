@@ -1,0 +1,1399 @@
+[PREINITIALIZATION][SERVER][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
+TriosGaminG Pro
+Psyberition
+AdaraChristine
+Yamraiha
+WaterMoon
+Robijnvogel
+Belathus
+Quaternary
+Genryu
+Niketats
+Ncc1702
+Spencer Gilbert
+Pongo Sapiens
+BrÃ¸nsted
+Ivy_
+DreamThorn
+Tyrone McLean
+NerdyWhiteGuy
+Barrier
+SquidDev
+If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
+
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: LootTweaker_FMB.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: LootTweaker_LostCities.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Shiv.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Shiv2.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:contenttweaker]: why.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 2ms
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [contenttweaker]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [contenttweaker]
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: LootTweaker_FMB.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: LootTweaker_LostCities.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Shiv.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Shiv2.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Loading Script: {[0:contenttweaker]: why.zs}
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 216ms
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [contenttweaker], [recipeevent | crafttweaker]]
+[INITIALIZATION][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: LootTweaker_FMB.zs}
+[INITIALIZATION][SERVER][INFO] Queued all pools of table fishingmadebetter:fishing_combined for removal
+[INITIALIZATION][SERVER][INFO] Queued pool rlcraftfishing for addition to table fishingmadebetter:fishing_combined
+[INITIALIZATION][SERVER][INFO] Queued item entry 'treasure_1' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'treasure_2' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'treasure_3' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'treasure_4' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'treasure_5' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'treasure_6' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'treasure_7' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'treasure_8' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'treasure_9' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'treasure_10' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'junk_1' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'junk_2' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'junk_3' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'junk_4' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'junk_5' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'junk_6' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'junk_7' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'junk_8' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'junk_9' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'junk_10' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'junk_11' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'junk_12' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'junk_13' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'junk_14' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'junk_15' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'junk_16' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'junk_17' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'junk_18' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'junk_19' for addition to pool 'rlcraftfishing' of table 'fishingmadebetter:fishing_combined'
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: LootTweaker_LostCities.zs}
+[INITIALIZATION][SERVER][INFO] Created new table 'loottweaker:lostcityhighrise'
+[INITIALIZATION][SERVER][INFO] Created new table 'loottweaker:lostcityground'
+[INITIALIZATION][SERVER][INFO] Created new table 'loottweaker:lostcitybasement'
+[INITIALIZATION][SERVER][INFO] Created new table 'loottweaker:lostcitysubway'
+[INITIALIZATION][SERVER][INFO] Created new table 'loottweaker:lostcityrare'
+[INITIALIZATION][SERVER][INFO] Created new table 'loottweaker:lostcityuncommon'
+[INITIALIZATION][SERVER][INFO] Created new table 'loottweaker:lostcitycommon'
+[INITIALIZATION][SERVER][INFO] Created new table 'loottweaker:lowtable'
+[INITIALIZATION][SERVER][INFO] Created new table 'loottweaker:medtable'
+[INITIALIZATION][SERVER][INFO] Created new table 'loottweaker:hightable'
+[INITIALIZATION][SERVER][INFO] Created new table 'loottweaker:buildertable'
+[INITIALIZATION][SERVER][INFO] Queued pool highrise for addition to table loottweaker:lostcityhighrise
+[INITIALIZATION][SERVER][INFO] Queued pool ground for addition to table loottweaker:lostcityground
+[INITIALIZATION][SERVER][INFO] Queued pool basement for addition to table loottweaker:lostcitybasement
+[INITIALIZATION][SERVER][INFO] Queued pool subway for addition to table loottweaker:lostcitysubway
+[INITIALIZATION][SERVER][INFO] Queued pool rare for addition to table loottweaker:lostcityrare
+[INITIALIZATION][SERVER][INFO] Queued pool uncommon for addition to table loottweaker:lostcityuncommon
+[INITIALIZATION][SERVER][INFO] Queued pool common for addition to table loottweaker:lostcitycommon
+[INITIALIZATION][SERVER][INFO] Queued pool low for addition to table loottweaker:lowtable
+[INITIALIZATION][SERVER][INFO] Queued pool medium for addition to table loottweaker:medtable
+[INITIALIZATION][SERVER][INFO] Queued pool high for addition to table loottweaker:hightable
+[INITIALIZATION][SERVER][INFO] Queued pool builder for addition to table loottweaker:buildertable
+[INITIALIZATION][SERVER][INFO] Queued item entry '1' for addition to pool 'low' of table 'loottweaker:lowtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '2' for addition to pool 'low' of table 'loottweaker:lowtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '3' for addition to pool 'low' of table 'loottweaker:lowtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '4' for addition to pool 'low' of table 'loottweaker:lowtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '5' for addition to pool 'low' of table 'loottweaker:lowtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '6' for addition to pool 'low' of table 'loottweaker:lowtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '7' for addition to pool 'low' of table 'loottweaker:lowtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '8' for addition to pool 'low' of table 'loottweaker:lowtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '9' for addition to pool 'low' of table 'loottweaker:lowtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '10' for addition to pool 'low' of table 'loottweaker:lowtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '11' for addition to pool 'low' of table 'loottweaker:lowtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '12' for addition to pool 'low' of table 'loottweaker:lowtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '1' for addition to pool 'medium' of table 'loottweaker:medtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '1bi' for addition to pool 'medium' of table 'loottweaker:medtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '1bd' for addition to pool 'medium' of table 'loottweaker:medtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '2' for addition to pool 'medium' of table 'loottweaker:medtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '2ia' for addition to pool 'medium' of table 'loottweaker:medtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '2da' for addition to pool 'medium' of table 'loottweaker:medtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '3' for addition to pool 'medium' of table 'loottweaker:medtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '4' for addition to pool 'medium' of table 'loottweaker:medtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '5' for addition to pool 'medium' of table 'loottweaker:medtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '6' for addition to pool 'medium' of table 'loottweaker:medtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '7' for addition to pool 'medium' of table 'loottweaker:medtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '8' for addition to pool 'medium' of table 'loottweaker:medtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '9' for addition to pool 'medium' of table 'loottweaker:medtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '10' for addition to pool 'medium' of table 'loottweaker:medtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '11' for addition to pool 'medium' of table 'loottweaker:medtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '1' for addition to pool 'high' of table 'loottweaker:hightable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '2' for addition to pool 'high' of table 'loottweaker:hightable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '3' for addition to pool 'high' of table 'loottweaker:hightable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '4' for addition to pool 'high' of table 'loottweaker:hightable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '5' for addition to pool 'high' of table 'loottweaker:hightable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '6' for addition to pool 'high' of table 'loottweaker:hightable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '7' for addition to pool 'high' of table 'loottweaker:hightable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '8' for addition to pool 'high' of table 'loottweaker:hightable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '9' for addition to pool 'high' of table 'loottweaker:hightable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '10' for addition to pool 'high' of table 'loottweaker:hightable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '11' for addition to pool 'high' of table 'loottweaker:hightable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '12' for addition to pool 'high' of table 'loottweaker:hightable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '1' for addition to pool 'builder' of table 'loottweaker:buildertable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '2' for addition to pool 'builder' of table 'loottweaker:buildertable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '3' for addition to pool 'builder' of table 'loottweaker:buildertable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '4' for addition to pool 'builder' of table 'loottweaker:buildertable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '5' for addition to pool 'builder' of table 'loottweaker:buildertable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '6' for addition to pool 'builder' of table 'loottweaker:buildertable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '7' for addition to pool 'builder' of table 'loottweaker:buildertable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '8' for addition to pool 'builder' of table 'loottweaker:buildertable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '9' for addition to pool 'builder' of table 'loottweaker:buildertable'
+[INITIALIZATION][SERVER][INFO] Queued item entry '10' for addition to pool 'builder' of table 'loottweaker:buildertable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'fairy_ring' for addition to pool 'highrise' of table 'loottweaker:lostcityhighrise'
+[INITIALIZATION][SERVER][INFO] Queued loot table entry 'loottweaker#1' for addition to pool 'highrise' of table 'loottweaker:lostcityhighrise'
+[INITIALIZATION][SERVER][INFO] Queued loot table entry 'loottweaker#2' for addition to pool 'highrise' of table 'loottweaker:lostcityhighrise'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'elf_ring' for addition to pool 'ground' of table 'loottweaker:lostcityground'
+[INITIALIZATION][SERVER][INFO] Queued loot table entry 'loottweaker#1' for addition to pool 'ground' of table 'loottweaker:lostcityground'
+[INITIALIZATION][SERVER][INFO] Queued loot table entry 'loottweaker#2' for addition to pool 'ground' of table 'loottweaker:lostcityground'
+[INITIALIZATION][SERVER][INFO] Queued loot table entry 'loottweaker#3' for addition to pool 'ground' of table 'loottweaker:lostcityground'
+[INITIALIZATION][SERVER][INFO] Queued loot table entry 'loottweaker#4' for addition to pool 'ground' of table 'loottweaker:lostcityground'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'dwarf_ring' for addition to pool 'basement' of table 'loottweaker:lostcitybasement'
+[INITIALIZATION][SERVER][INFO] Queued loot table entry 'loottweaker#1' for addition to pool 'basement' of table 'loottweaker:lostcitybasement'
+[INITIALIZATION][SERVER][INFO] Queued loot table entry 'loottweaker#2' for addition to pool 'basement' of table 'loottweaker:lostcitybasement'
+[INITIALIZATION][SERVER][INFO] Queued loot table entry 'loottweaker#3' for addition to pool 'basement' of table 'loottweaker:lostcitybasement'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'goblin_ring' for addition to pool 'subway' of table 'loottweaker:lostcitysubway'
+[INITIALIZATION][SERVER][INFO] Queued loot table entry 'loottweaker#1' for addition to pool 'subway' of table 'loottweaker:lostcitysubway'
+[INITIALIZATION][SERVER][INFO] Queued loot table entry 'loottweaker#2' for addition to pool 'subway' of table 'loottweaker:lostcitysubway'
+[INITIALIZATION][SERVER][INFO] Queued loot table entry 'loottweaker#3' for addition to pool 'subway' of table 'loottweaker:lostcitysubway'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'dragon_ring' for addition to pool 'rare' of table 'loottweaker:lostcityrare'
+[INITIALIZATION][SERVER][INFO] Queued loot table entry 'loottweaker#1' for addition to pool 'rare' of table 'loottweaker:lostcityrare'
+[INITIALIZATION][SERVER][INFO] Queued loot table entry 'loottweaker#2' for addition to pool 'rare' of table 'loottweaker:lostcityrare'
+[INITIALIZATION][SERVER][INFO] Queued loot table entry 'loottweaker#3' for addition to pool 'rare' of table 'loottweaker:lostcityrare'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'titan_ring' for addition to pool 'uncommon' of table 'loottweaker:lostcityuncommon'
+[INITIALIZATION][SERVER][INFO] Queued loot table entry 'loottweaker#1' for addition to pool 'uncommon' of table 'loottweaker:lostcityuncommon'
+[INITIALIZATION][SERVER][INFO] Queued loot table entry 'loottweaker#2' for addition to pool 'uncommon' of table 'loottweaker:lostcityuncommon'
+[INITIALIZATION][SERVER][INFO] Queued loot table entry 'loottweaker#3' for addition to pool 'uncommon' of table 'loottweaker:lostcityuncommon'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'faelis_ring' for addition to pool 'common' of table 'loottweaker:lostcitycommon'
+[INITIALIZATION][SERVER][INFO] Queued loot table entry 'loottweaker#1' for addition to pool 'common' of table 'loottweaker:lostcitycommon'
+[INITIALIZATION][SERVER][INFO] Queued loot table entry 'loottweaker#2' for addition to pool 'common' of table 'loottweaker:lostcitycommon'
+[INITIALIZATION][SERVER][INFO] Queued loot table entry 'loottweaker#3' for addition to pool 'common' of table 'loottweaker:lostcitycommon'
+[INITIALIZATION][SERVER][INFO] Queued loot table entry 'loottweaker#4' for addition to pool 'common' of table 'loottweaker:lostcitycommon'
+[INITIALIZATION][SERVER][INFO] Queued loot table entry 'loottweaker#5' for addition to pool 'common' of table 'loottweaker:lostcitycommon'
+[INITIALIZATION][SERVER][INFO] Queued loot table entry 'loottweaker#6' for addition to pool 'common' of table 'loottweaker:lostcitycommon'
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Shiv.zs}
+[INITIALIZATION][SERVER][INFO] Script starting!
+[INITIALIZATION][SERVER][INFO] Setting hardness of Monster Spawner to 15.0
+[INITIALIZATION][SERVER][INFO] Queued pool wut for addition to table minecraft:entities/skeleton
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#1' for addition to pool 'wut' of table 'minecraft:entities/skeleton'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#2' for addition to pool 'wut' of table 'minecraft:entities/skeleton'
+[INITIALIZATION][SERVER][INFO] Queued pool lul for addition to table minecraft:entities/zombie
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#1' for addition to pool 'lul' of table 'minecraft:entities/zombie'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#2' for addition to pool 'lul' of table 'minecraft:entities/zombie'
+[INITIALIZATION][SERVER][INFO] Queued pool yep for addition to table minecraft:entities/creeper
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#1' for addition to pool 'yep' of table 'minecraft:entities/creeper'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#2' for addition to pool 'yep' of table 'minecraft:entities/creeper'
+[INITIALIZATION][SERVER][INFO] Adding Silver Axe to ore dictionary entry toolAxe
+[INITIALIZATION][SERVER][INFO] Adding Dragon Bone Axe to ore dictionary entry toolAxe
+[INITIALIZATION][SERVER][INFO] Adding Steel Quarterstaff to ore dictionary entry spartanStaff
+[INITIALIZATION][SERVER][INFO] Adding Wooden Quarterstaff to ore dictionary entry spartanStaff
+[INITIALIZATION][SERVER][INFO] Adding Stone Quarterstaff to ore dictionary entry spartanStaff
+[INITIALIZATION][SERVER][INFO] Adding Iron Quarterstaff to ore dictionary entry spartanStaff
+[INITIALIZATION][SERVER][INFO] Adding Golden Quarterstaff to ore dictionary entry spartanStaff
+[INITIALIZATION][SERVER][INFO] Adding Diamond Quarterstaff to ore dictionary entry spartanStaff
+[INITIALIZATION][SERVER][INFO] Adding Bronze Quarterstaff to ore dictionary entry spartanStaff
+[INITIALIZATION][SERVER][INFO] Adding Silver Quarterstaff to ore dictionary entry spartanStaff
+[INITIALIZATION][SERVER][INFO] Adding Steel Glaive to ore dictionary entry spartanGlaive
+[INITIALIZATION][SERVER][INFO] Adding Wooden Glaive to ore dictionary entry spartanGlaive
+[INITIALIZATION][SERVER][INFO] Adding Stone Glaive to ore dictionary entry spartanGlaive
+[INITIALIZATION][SERVER][INFO] Adding Iron Glaive to ore dictionary entry spartanGlaive
+[INITIALIZATION][SERVER][INFO] Adding Golden Glaive to ore dictionary entry spartanGlaive
+[INITIALIZATION][SERVER][INFO] Adding Diamond Glaive to ore dictionary entry spartanGlaive
+[INITIALIZATION][SERVER][INFO] Adding Bronze Glaive to ore dictionary entry spartanGlaive
+[INITIALIZATION][SERVER][INFO] Adding Silver Glaive to ore dictionary entry spartanGlaive
+[INITIALIZATION][SERVER][INFO] Adding Steel Flanged Mace to ore dictionary entry spartanMace
+[INITIALIZATION][SERVER][INFO] Adding Wooden Flanged Mace to ore dictionary entry spartanMace
+[INITIALIZATION][SERVER][INFO] Adding Stone Flanged Mace to ore dictionary entry spartanMace
+[INITIALIZATION][SERVER][INFO] Adding Iron Flanged Mace to ore dictionary entry spartanMace
+[INITIALIZATION][SERVER][INFO] Adding Golden Flanged Mace to ore dictionary entry spartanMace
+[INITIALIZATION][SERVER][INFO] Adding Diamond Flanged Mace to ore dictionary entry spartanMace
+[INITIALIZATION][SERVER][INFO] Adding Bronze Flanged Mace to ore dictionary entry spartanMace
+[INITIALIZATION][SERVER][INFO] Adding Silver Flanged Mace to ore dictionary entry spartanMace
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Stinger Flanged Mace to ore dictionary entry spartanMace
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Stinger Flanged Mace to ore dictionary entry spartanMace
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Flanged Mace to ore dictionary entry spartanMace
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Flanged Mace to ore dictionary entry spartanMace
+[INITIALIZATION][SERVER][INFO] Adding Iced Dragonbone Flanged Mace to ore dictionary entry spartanMace
+[INITIALIZATION][SERVER][INFO] Adding Flamed Dragonbone Flanged Mace to ore dictionary entry spartanMace
+[INITIALIZATION][SERVER][INFO] Adding Dragonbone Flanged Mace to ore dictionary entry spartanMace
+[INITIALIZATION][SERVER][INFO] Adding Steel Battleaxe to ore dictionary entry spartanBattleaxe
+[INITIALIZATION][SERVER][INFO] Adding Wooden Battleaxe to ore dictionary entry spartanBattleaxe
+[INITIALIZATION][SERVER][INFO] Adding Stone Battleaxe to ore dictionary entry spartanBattleaxe
+[INITIALIZATION][SERVER][INFO] Adding Iron Battleaxe to ore dictionary entry spartanBattleaxe
+[INITIALIZATION][SERVER][INFO] Adding Golden Battleaxe to ore dictionary entry spartanBattleaxe
+[INITIALIZATION][SERVER][INFO] Adding Diamond Battleaxe to ore dictionary entry spartanBattleaxe
+[INITIALIZATION][SERVER][INFO] Adding Bronze Battleaxe to ore dictionary entry spartanBattleaxe
+[INITIALIZATION][SERVER][INFO] Adding Silver Battleaxe to ore dictionary entry spartanBattleaxe
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Stinger Battleaxe to ore dictionary entry spartanBattleaxe
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Stinger Battleaxe to ore dictionary entry spartanBattleaxe
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Battleaxe to ore dictionary entry spartanBattleaxe
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Battleaxe to ore dictionary entry spartanBattleaxe
+[INITIALIZATION][SERVER][INFO] Adding Iced Dragonbone Battleaxe to ore dictionary entry spartanBattleaxe
+[INITIALIZATION][SERVER][INFO] Adding Flamed Dragonbone Battleaxe to ore dictionary entry spartanBattleaxe
+[INITIALIZATION][SERVER][INFO] Adding Dragonbone Battleaxe to ore dictionary entry spartanBattleaxe
+[INITIALIZATION][SERVER][INFO] Adding Steel Boomerang to ore dictionary entry spartanBoomerang
+[INITIALIZATION][SERVER][INFO] Adding Wooden Boomerang to ore dictionary entry spartanBoomerang
+[INITIALIZATION][SERVER][INFO] Adding Stone Boomerang to ore dictionary entry spartanBoomerang
+[INITIALIZATION][SERVER][INFO] Adding Iron Boomerang to ore dictionary entry spartanBoomerang
+[INITIALIZATION][SERVER][INFO] Adding Golden Boomerang to ore dictionary entry spartanBoomerang
+[INITIALIZATION][SERVER][INFO] Adding Diamond Boomerang to ore dictionary entry spartanBoomerang
+[INITIALIZATION][SERVER][INFO] Adding Bronze Boomerang to ore dictionary entry spartanBoomerang
+[INITIALIZATION][SERVER][INFO] Adding Silver Boomerang to ore dictionary entry spartanBoomerang
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Stinger Boomerang to ore dictionary entry spartanBoomerang
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Stinger Boomerang to ore dictionary entry spartanBoomerang
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Boomerang to ore dictionary entry spartanBoomerang
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Boomerang to ore dictionary entry spartanBoomerang
+[INITIALIZATION][SERVER][INFO] Adding Iced Dragonbone Boomerang to ore dictionary entry spartanBoomerang
+[INITIALIZATION][SERVER][INFO] Adding Flamed Dragonbone Boomerang to ore dictionary entry spartanBoomerang
+[INITIALIZATION][SERVER][INFO] Adding Dragonbone Boomerang to ore dictionary entry spartanBoomerang
+[INITIALIZATION][SERVER][INFO] Adding Steel Javelin to ore dictionary entry spartanjavelin
+[INITIALIZATION][SERVER][INFO] Adding Wooden Javelin to ore dictionary entry spartanjavelin
+[INITIALIZATION][SERVER][INFO] Adding Stone Javelin to ore dictionary entry spartanjavelin
+[INITIALIZATION][SERVER][INFO] Adding Iron Javelin to ore dictionary entry spartanjavelin
+[INITIALIZATION][SERVER][INFO] Adding Golden Javelin to ore dictionary entry spartanjavelin
+[INITIALIZATION][SERVER][INFO] Adding Diamond Javelin to ore dictionary entry spartanjavelin
+[INITIALIZATION][SERVER][INFO] Adding Bronze Javelin to ore dictionary entry spartanjavelin
+[INITIALIZATION][SERVER][INFO] Adding Silver Javelin to ore dictionary entry spartanjavelin
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Stinger Javelin to ore dictionary entry spartanjavelin
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Stinger Javelin to ore dictionary entry spartanjavelin
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Javelin to ore dictionary entry spartanjavelin
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Javelin to ore dictionary entry spartanjavelin
+[INITIALIZATION][SERVER][INFO] Adding Iced Dragonbone Javelin to ore dictionary entry spartanjavelin
+[INITIALIZATION][SERVER][INFO] Adding Flamed Dragonbone Javelin to ore dictionary entry spartanjavelin
+[INITIALIZATION][SERVER][INFO] Adding Dragonbone Javelin to ore dictionary entry spartanjavelin
+[INITIALIZATION][SERVER][INFO] Adding Steel Throwing Axe to ore dictionary entry spartanThrowingAxe
+[INITIALIZATION][SERVER][INFO] Adding Wooden Throwing Axe to ore dictionary entry spartanThrowingAxe
+[INITIALIZATION][SERVER][INFO] Adding Stone Throwing Axe to ore dictionary entry spartanThrowingAxe
+[INITIALIZATION][SERVER][INFO] Adding Iron Throwing Axe to ore dictionary entry spartanThrowingAxe
+[INITIALIZATION][SERVER][INFO] Adding Golden Throwing Axe to ore dictionary entry spartanThrowingAxe
+[INITIALIZATION][SERVER][INFO] Adding Diamond Throwing Axe to ore dictionary entry spartanThrowingAxe
+[INITIALIZATION][SERVER][INFO] Adding Bronze Throwing Axe to ore dictionary entry spartanThrowingAxe
+[INITIALIZATION][SERVER][INFO] Adding Silver Throwing Axe to ore dictionary entry spartanThrowingAxe
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Stinger Throwing Axe to ore dictionary entry spartanThrowingAxe
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Stinger Throwing Axe to ore dictionary entry spartanThrowingAxe
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Throwing Axe to ore dictionary entry spartanThrowingAxe
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Throwing Axe to ore dictionary entry spartanThrowingAxe
+[INITIALIZATION][SERVER][INFO] Adding Iced Dragonbone Throwing Axe to ore dictionary entry spartanThrowingAxe
+[INITIALIZATION][SERVER][INFO] Adding Flamed Dragonbone Throwing Axe to ore dictionary entry spartanThrowingAxe
+[INITIALIZATION][SERVER][INFO] Adding Dragonbone Throwing Axe to ore dictionary entry spartanThrowingAxe
+[INITIALIZATION][SERVER][INFO] Adding Steel Throwing Knife to ore dictionary entry spartanThrowingKnife
+[INITIALIZATION][SERVER][INFO] Adding Wooden Throwing Knife to ore dictionary entry spartanThrowingKnife
+[INITIALIZATION][SERVER][INFO] Adding Stone Throwing Knife to ore dictionary entry spartanThrowingKnife
+[INITIALIZATION][SERVER][INFO] Adding Iron Throwing Knife to ore dictionary entry spartanThrowingKnife
+[INITIALIZATION][SERVER][INFO] Adding Golden Throwing Knife to ore dictionary entry spartanThrowingKnife
+[INITIALIZATION][SERVER][INFO] Adding Diamond Throwing Knife to ore dictionary entry spartanThrowingKnife
+[INITIALIZATION][SERVER][INFO] Adding Bronze Throwing Knife to ore dictionary entry spartanThrowingKnife
+[INITIALIZATION][SERVER][INFO] Adding Silver Throwing Knife to ore dictionary entry spartanThrowingKnife
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Stinger Throwing Knife to ore dictionary entry spartanThrowingKnife
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Stinger Throwing Knife to ore dictionary entry spartanThrowingKnife
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Throwing Knife to ore dictionary entry spartanThrowingKnife
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Throwing Knife to ore dictionary entry spartanThrowingKnife
+[INITIALIZATION][SERVER][INFO] Adding Iced Dragonbone Throwing Knife to ore dictionary entry spartanThrowingKnife
+[INITIALIZATION][SERVER][INFO] Adding Flamed Dragonbone Throwing Knife to ore dictionary entry spartanThrowingKnife
+[INITIALIZATION][SERVER][INFO] Adding Dragonbone Throwing Knife to ore dictionary entry spartanThrowingKnife
+[INITIALIZATION][SERVER][INFO] Adding Steel-Strengthened Crossbow to ore dictionary entry spartanCrossbow
+[INITIALIZATION][SERVER][INFO] Adding Wooden Crossbow to ore dictionary entry spartanCrossbow
+[INITIALIZATION][SERVER][INFO] Adding Iron-Strengthened Crossbow to ore dictionary entry spartanCrossbow
+[INITIALIZATION][SERVER][INFO] Adding Diamond-Strengthened Crossbow to ore dictionary entry spartanCrossbow
+[INITIALIZATION][SERVER][INFO] Adding Bronze-Strengthened Crossbow to ore dictionary entry spartanCrossbow
+[INITIALIZATION][SERVER][INFO] Adding Silver-Strengthened Crossbow to ore dictionary entry spartanCrossbow
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Stinger-Strengthened Crossbow to ore dictionary entry spartanCrossbow
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Stinger-Strengthened Crossbow to ore dictionary entry spartanCrossbow
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex-Strengthened Crossbow to ore dictionary entry spartanCrossbow
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex-Strengthened Crossbow to ore dictionary entry spartanCrossbow
+[INITIALIZATION][SERVER][INFO] Adding Iced Dragonbone-Strengthened Crossbow to ore dictionary entry spartanCrossbow
+[INITIALIZATION][SERVER][INFO] Adding Flamed Dragonbone-Strengthened Crossbow to ore dictionary entry spartanCrossbow
+[INITIALIZATION][SERVER][INFO] Adding Dragonbone-Strengthened Crossbow to ore dictionary entry spartanCrossbow
+[INITIALIZATION][SERVER][INFO] Adding Steel Katana to ore dictionary entry spartanKatana
+[INITIALIZATION][SERVER][INFO] Adding Wooden Katana to ore dictionary entry spartanKatana
+[INITIALIZATION][SERVER][INFO] Adding Stone Katana to ore dictionary entry spartanKatana
+[INITIALIZATION][SERVER][INFO] Adding Iron Katana to ore dictionary entry spartanKatana
+[INITIALIZATION][SERVER][INFO] Adding Golden Katana to ore dictionary entry spartanKatana
+[INITIALIZATION][SERVER][INFO] Adding Diamond Katana to ore dictionary entry spartanKatana
+[INITIALIZATION][SERVER][INFO] Adding Bronze Katana to ore dictionary entry spartanKatana
+[INITIALIZATION][SERVER][INFO] Adding Silver Katana to ore dictionary entry spartanKatana
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Stinger Katana to ore dictionary entry spartanKatana
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Stinger Katana to ore dictionary entry spartanKatana
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Katana to ore dictionary entry spartanKatana
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Katana to ore dictionary entry spartanKatana
+[INITIALIZATION][SERVER][INFO] Adding Iced Dragonbone Katana to ore dictionary entry spartanKatana
+[INITIALIZATION][SERVER][INFO] Adding Flamed Dragonbone Katana to ore dictionary entry spartanKatana
+[INITIALIZATION][SERVER][INFO] Adding Dragonbone Katana to ore dictionary entry spartanKatana
+[INITIALIZATION][SERVER][INFO] Adding Steel Longsword to ore dictionary entry spartanLongsword
+[INITIALIZATION][SERVER][INFO] Adding Wooden Longsword to ore dictionary entry spartanLongsword
+[INITIALIZATION][SERVER][INFO] Adding Stone Longsword to ore dictionary entry spartanLongsword
+[INITIALIZATION][SERVER][INFO] Adding Iron Longsword to ore dictionary entry spartanLongsword
+[INITIALIZATION][SERVER][INFO] Adding Golden Longsword to ore dictionary entry spartanLongsword
+[INITIALIZATION][SERVER][INFO] Adding Diamond Longsword to ore dictionary entry spartanLongsword
+[INITIALIZATION][SERVER][INFO] Adding Bronze Longsword to ore dictionary entry spartanLongsword
+[INITIALIZATION][SERVER][INFO] Adding Silver Longsword to ore dictionary entry spartanLongsword
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Stinger Longsword to ore dictionary entry spartanLongsword
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Stinger Longsword to ore dictionary entry spartanLongsword
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Longsword to ore dictionary entry spartanLongsword
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Longsword to ore dictionary entry spartanLongsword
+[INITIALIZATION][SERVER][INFO] Adding Iced Dragonbone Longsword to ore dictionary entry spartanLongsword
+[INITIALIZATION][SERVER][INFO] Adding Flamed Dragonbone Longsword to ore dictionary entry spartanLongsword
+[INITIALIZATION][SERVER][INFO] Adding Dragonbone Longsword to ore dictionary entry spartanLongsword
+[INITIALIZATION][SERVER][INFO] Adding Steel Greatsword to ore dictionary entry spartanGreatsword
+[INITIALIZATION][SERVER][INFO] Adding Wooden Greatsword to ore dictionary entry spartanGreatsword
+[INITIALIZATION][SERVER][INFO] Adding Stone Greatsword to ore dictionary entry spartanGreatsword
+[INITIALIZATION][SERVER][INFO] Adding Iron Greatsword to ore dictionary entry spartanGreatsword
+[INITIALIZATION][SERVER][INFO] Adding Golden Greatsword to ore dictionary entry spartanGreatsword
+[INITIALIZATION][SERVER][INFO] Adding Diamond Greatsword to ore dictionary entry spartanGreatsword
+[INITIALIZATION][SERVER][INFO] Adding Bronze Greatsword to ore dictionary entry spartanGreatsword
+[INITIALIZATION][SERVER][INFO] Adding Silver Greatsword to ore dictionary entry spartanGreatsword
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Stinger Greatsword to ore dictionary entry spartanGreatsword
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Stinger Greatsword to ore dictionary entry spartanGreatsword
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Greatsword to ore dictionary entry spartanGreatsword
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Greatsword to ore dictionary entry spartanGreatsword
+[INITIALIZATION][SERVER][INFO] Adding Iced Dragonbone Greatsword to ore dictionary entry spartanGreatsword
+[INITIALIZATION][SERVER][INFO] Adding Flamed Dragonbone Greatsword to ore dictionary entry spartanGreatsword
+[INITIALIZATION][SERVER][INFO] Adding Dragonbone Greatsword to ore dictionary entry spartanGreatsword
+[INITIALIZATION][SERVER][INFO] Adding Steel Rapier to ore dictionary entry spartanRapier
+[INITIALIZATION][SERVER][INFO] Adding Wooden Saber to ore dictionary entry spartanRapier
+[INITIALIZATION][SERVER][INFO] Adding Stone Rapier to ore dictionary entry spartanRapier
+[INITIALIZATION][SERVER][INFO] Adding Iron Rapier to ore dictionary entry spartanRapier
+[INITIALIZATION][SERVER][INFO] Adding Golden Rapier to ore dictionary entry spartanRapier
+[INITIALIZATION][SERVER][INFO] Adding Diamond Rapier to ore dictionary entry spartanRapier
+[INITIALIZATION][SERVER][INFO] Adding Bronze Rapier to ore dictionary entry spartanRapier
+[INITIALIZATION][SERVER][INFO] Adding Silver Rapier to ore dictionary entry spartanRapier
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Stinger Rapier to ore dictionary entry spartanRapier
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Stinger Rapier to ore dictionary entry spartanRapier
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Rapier to ore dictionary entry spartanRapier
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Rapier to ore dictionary entry spartanRapier
+[INITIALIZATION][SERVER][INFO] Adding Iced Dragonbone Rapier to ore dictionary entry spartanRapier
+[INITIALIZATION][SERVER][INFO] Adding Flamed Dragonbone Rapier to ore dictionary entry spartanRapier
+[INITIALIZATION][SERVER][INFO] Adding Dragonbone Rapier to ore dictionary entry spartanRapier
+[INITIALIZATION][SERVER][INFO] Adding Steel Saber to ore dictionary entry spartanSaber
+[INITIALIZATION][SERVER][INFO] Adding Stone Saber to ore dictionary entry spartanSaber
+[INITIALIZATION][SERVER][INFO] Adding Iron Saber to ore dictionary entry spartanSaber
+[INITIALIZATION][SERVER][INFO] Adding Golden Saber to ore dictionary entry spartanSaber
+[INITIALIZATION][SERVER][INFO] Adding Diamond Saber to ore dictionary entry spartanSaber
+[INITIALIZATION][SERVER][INFO] Adding Bronze Saber to ore dictionary entry spartanSaber
+[INITIALIZATION][SERVER][INFO] Adding Silver Saber to ore dictionary entry spartanSaber
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Stinger Saber to ore dictionary entry spartanSaber
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Stinger Saber to ore dictionary entry spartanSaber
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Saber to ore dictionary entry spartanSaber
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Saber to ore dictionary entry spartanSaber
+[INITIALIZATION][SERVER][INFO] Adding Iced Dragonbone Saber to ore dictionary entry spartanSaber
+[INITIALIZATION][SERVER][INFO] Adding Flamed Dragonbone Saber to ore dictionary entry spartanSaber
+[INITIALIZATION][SERVER][INFO] Adding Dragonbone Saber to ore dictionary entry spartanSaber
+[INITIALIZATION][SERVER][INFO] Adding Steel Lance to ore dictionary entry spartanLance
+[INITIALIZATION][SERVER][INFO] Adding Wooden Lance to ore dictionary entry spartanLance
+[INITIALIZATION][SERVER][INFO] Adding Stone Lance to ore dictionary entry spartanLance
+[INITIALIZATION][SERVER][INFO] Adding Iron Lance to ore dictionary entry spartanLance
+[INITIALIZATION][SERVER][INFO] Adding Golden Lance to ore dictionary entry spartanLance
+[INITIALIZATION][SERVER][INFO] Adding Diamond Lance to ore dictionary entry spartanLance
+[INITIALIZATION][SERVER][INFO] Adding Bronze Lance to ore dictionary entry spartanLance
+[INITIALIZATION][SERVER][INFO] Adding Silver Lance to ore dictionary entry spartanLance
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Stinger Lance to ore dictionary entry spartanLance
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Stinger Lance to ore dictionary entry spartanLance
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Lance to ore dictionary entry spartanLance
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Lance to ore dictionary entry spartanLance
+[INITIALIZATION][SERVER][INFO] Adding Iced Dragonbone Lance to ore dictionary entry spartanLance
+[INITIALIZATION][SERVER][INFO] Adding Flamed Dragonbone Lance to ore dictionary entry spartanLance
+[INITIALIZATION][SERVER][INFO] Adding Dragonbone Lance to ore dictionary entry spartanLance
+[INITIALIZATION][SERVER][INFO] Adding Steel Pike to ore dictionary entry spartanPike
+[INITIALIZATION][SERVER][INFO] Adding Wooden Pike to ore dictionary entry spartanPike
+[INITIALIZATION][SERVER][INFO] Adding Stone Pike to ore dictionary entry spartanPike
+[INITIALIZATION][SERVER][INFO] Adding Iron Pike to ore dictionary entry spartanPike
+[INITIALIZATION][SERVER][INFO] Adding Golden Pike to ore dictionary entry spartanPike
+[INITIALIZATION][SERVER][INFO] Adding Diamond Pike to ore dictionary entry spartanPike
+[INITIALIZATION][SERVER][INFO] Adding Bronze Pike to ore dictionary entry spartanPike
+[INITIALIZATION][SERVER][INFO] Adding Silver Pike to ore dictionary entry spartanPike
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Stinger Pike to ore dictionary entry spartanPike
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Stinger Pike to ore dictionary entry spartanPike
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Pike to ore dictionary entry spartanPike
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Pike to ore dictionary entry spartanPike
+[INITIALIZATION][SERVER][INFO] Adding Iced Dragonbone Pike to ore dictionary entry spartanPike
+[INITIALIZATION][SERVER][INFO] Adding Flamed Dragonbone Pike to ore dictionary entry spartanPike
+[INITIALIZATION][SERVER][INFO] Adding Dragonbone Pike to ore dictionary entry spartanPike
+[INITIALIZATION][SERVER][INFO] Adding Steel Spear to ore dictionary entry spartanSpear
+[INITIALIZATION][SERVER][INFO] Adding Wooden Spear to ore dictionary entry spartanSpear
+[INITIALIZATION][SERVER][INFO] Adding Stone Spear to ore dictionary entry spartanSpear
+[INITIALIZATION][SERVER][INFO] Adding Iron Spear to ore dictionary entry spartanSpear
+[INITIALIZATION][SERVER][INFO] Adding Golden Spear to ore dictionary entry spartanSpear
+[INITIALIZATION][SERVER][INFO] Adding Diamond Spear to ore dictionary entry spartanSpear
+[INITIALIZATION][SERVER][INFO] Adding Bronze Spear to ore dictionary entry spartanSpear
+[INITIALIZATION][SERVER][INFO] Adding Silver Spear to ore dictionary entry spartanSpear
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Stinger Spear to ore dictionary entry spartanSpear
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Stinger Spear to ore dictionary entry spartanSpear
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Spear to ore dictionary entry spartanSpear
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Spear to ore dictionary entry spartanSpear
+[INITIALIZATION][SERVER][INFO] Adding Iced Dragonbone Spear to ore dictionary entry spartanSpear
+[INITIALIZATION][SERVER][INFO] Adding Flamed Dragonbone Spear to ore dictionary entry spartanSpear
+[INITIALIZATION][SERVER][INFO] Adding Dragonbone Spear to ore dictionary entry spartanSpear
+[INITIALIZATION][SERVER][INFO] Adding Steel-Strengthened Longbow to ore dictionary entry spartanLongbow
+[INITIALIZATION][SERVER][INFO] Adding Wooden Longbow to ore dictionary entry spartanLongbow
+[INITIALIZATION][SERVER][INFO] Adding Iron-Strengthened Longbow to ore dictionary entry spartanLongbow
+[INITIALIZATION][SERVER][INFO] Adding Diamond-Strengthened Longbow to ore dictionary entry spartanLongbow
+[INITIALIZATION][SERVER][INFO] Adding Bronze-Strengthened Longbow to ore dictionary entry spartanLongbow
+[INITIALIZATION][SERVER][INFO] Adding Silver-Strengthened Longbow to ore dictionary entry spartanLongbow
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Stinger-Strengthened Longbow to ore dictionary entry spartanLongbow
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Stinger-Strengthened Longbow to ore dictionary entry spartanLongbow
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex-Strengthened Longbow to ore dictionary entry spartanLongbow
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex-Strengthened Longbow to ore dictionary entry spartanLongbow
+[INITIALIZATION][SERVER][INFO] Adding Iced Dragonbone-Strengthened Longbow to ore dictionary entry spartanLongbow
+[INITIALIZATION][SERVER][INFO] Adding Flamed Dragonbone-Strengthened Longbow to ore dictionary entry spartanLongbow
+[INITIALIZATION][SERVER][INFO] Adding Dragonbone-Strengthened Longbow to ore dictionary entry spartanLongbow
+[INITIALIZATION][SERVER][INFO] Adding Steel Halberd to ore dictionary entry spartanHalberd
+[INITIALIZATION][SERVER][INFO] Adding Wooden Halberd to ore dictionary entry spartanHalberd
+[INITIALIZATION][SERVER][INFO] Adding Stone Halberd to ore dictionary entry spartanHalberd
+[INITIALIZATION][SERVER][INFO] Adding Iron Halberd to ore dictionary entry spartanHalberd
+[INITIALIZATION][SERVER][INFO] Adding Golden Halberd to ore dictionary entry spartanHalberd
+[INITIALIZATION][SERVER][INFO] Adding Diamond Halberd to ore dictionary entry spartanHalberd
+[INITIALIZATION][SERVER][INFO] Adding Bronze Halberd to ore dictionary entry spartanHalberd
+[INITIALIZATION][SERVER][INFO] Adding Silver Halberd to ore dictionary entry spartanHalberd
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Stinger Halberd to ore dictionary entry spartanHalberd
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Stinger Halberd to ore dictionary entry spartanHalberd
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Halberd to ore dictionary entry spartanHalberd
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Halberd to ore dictionary entry spartanHalberd
+[INITIALIZATION][SERVER][INFO] Adding Iced Dragonbone Halberd to ore dictionary entry spartanHalberd
+[INITIALIZATION][SERVER][INFO] Adding Flamed Dragonbone Halberd to ore dictionary entry spartanHalberd
+[INITIALIZATION][SERVER][INFO] Adding Dragonbone Halberd to ore dictionary entry spartanHalberd
+[INITIALIZATION][SERVER][INFO] Adding Steel Hammer to ore dictionary entry spartanHammer
+[INITIALIZATION][SERVER][INFO] Adding Wooden Hammer to ore dictionary entry spartanHammer
+[INITIALIZATION][SERVER][INFO] Adding Stone Hammer to ore dictionary entry spartanHammer
+[INITIALIZATION][SERVER][INFO] Adding Iron Hammer to ore dictionary entry spartanHammer
+[INITIALIZATION][SERVER][INFO] Adding Golden Hammer to ore dictionary entry spartanHammer
+[INITIALIZATION][SERVER][INFO] Adding Diamond Hammer to ore dictionary entry spartanHammer
+[INITIALIZATION][SERVER][INFO] Adding Bronze Hammer to ore dictionary entry spartanHammer
+[INITIALIZATION][SERVER][INFO] Adding Silver Hammer to ore dictionary entry spartanHammer
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Stinger Hammer to ore dictionary entry spartanHammer
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Stinger Hammer to ore dictionary entry spartanHammer
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Hammer to ore dictionary entry spartanHammer
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Hammer to ore dictionary entry spartanHammer
+[INITIALIZATION][SERVER][INFO] Adding Iced Dragonbone Hammer to ore dictionary entry spartanHammer
+[INITIALIZATION][SERVER][INFO] Adding Flamed Dragonbone Hammer to ore dictionary entry spartanHammer
+[INITIALIZATION][SERVER][INFO] Adding Dragonbone Hammer to ore dictionary entry spartanHammer
+[INITIALIZATION][SERVER][INFO] Adding Steel Warhammer to ore dictionary entry spartanWarhammer
+[INITIALIZATION][SERVER][INFO] Adding Wooden Warhammer to ore dictionary entry spartanWarhammer
+[INITIALIZATION][SERVER][INFO] Adding Stone Warhammer to ore dictionary entry spartanWarhammer
+[INITIALIZATION][SERVER][INFO] Adding Iron Warhammer to ore dictionary entry spartanWarhammer
+[INITIALIZATION][SERVER][INFO] Adding Golden Warhammer to ore dictionary entry spartanWarhammer
+[INITIALIZATION][SERVER][INFO] Adding Diamond Warhammer to ore dictionary entry spartanWarhammer
+[INITIALIZATION][SERVER][INFO] Adding Bronze Warhammer to ore dictionary entry spartanWarhammer
+[INITIALIZATION][SERVER][INFO] Adding Silver Warhammer to ore dictionary entry spartanWarhammer
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Stinger Warhammer to ore dictionary entry spartanWarhammer
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Stinger Warhammer to ore dictionary entry spartanWarhammer
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Warhammer to ore dictionary entry spartanWarhammer
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Warhammer to ore dictionary entry spartanWarhammer
+[INITIALIZATION][SERVER][INFO] Adding Iced Dragonbone Warhammer to ore dictionary entry spartanWarhammer
+[INITIALIZATION][SERVER][INFO] Adding Flamed Dragonbone Warhammer to ore dictionary entry spartanWarhammer
+[INITIALIZATION][SERVER][INFO] Adding Dragonbone Warhammer to ore dictionary entry spartanWarhammer
+[INITIALIZATION][SERVER][INFO] Adding Steel Dagger to ore dictionary entry spartanDagger
+[INITIALIZATION][SERVER][INFO] Adding Wooden Dagger to ore dictionary entry spartanDagger
+[INITIALIZATION][SERVER][INFO] Adding Stone Dagger to ore dictionary entry spartanDagger
+[INITIALIZATION][SERVER][INFO] Adding Iron Dagger to ore dictionary entry spartanDagger
+[INITIALIZATION][SERVER][INFO] Adding Golden Dagger to ore dictionary entry spartanDagger
+[INITIALIZATION][SERVER][INFO] Adding Diamond Dagger to ore dictionary entry spartanDagger
+[INITIALIZATION][SERVER][INFO] Adding Bronze Dagger to ore dictionary entry spartanDagger
+[INITIALIZATION][SERVER][INFO] Adding Silver Dagger to ore dictionary entry spartanDagger
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Stinger Dagger to ore dictionary entry spartanDagger
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Stinger Dagger to ore dictionary entry spartanDagger
+[INITIALIZATION][SERVER][INFO] Adding Desert Myrmex Dagger to ore dictionary entry spartanDagger
+[INITIALIZATION][SERVER][INFO] Adding Jungle Myrmex Dagger to ore dictionary entry spartanDagger
+[INITIALIZATION][SERVER][INFO] Adding Iced Dragonbone Dagger to ore dictionary entry spartanDagger
+[INITIALIZATION][SERVER][INFO] Adding Flamed Dragonbone Dagger to ore dictionary entry spartanDagger
+[INITIALIZATION][SERVER][INFO] Adding Dragonbone Dagger to ore dictionary entry spartanDagger
+[INITIALIZATION][SERVER][INFO] Adding Plant Treat to ore dictionary entry lycaniteTreat
+[INITIALIZATION][SERVER][INFO] Adding Dragon Treat to ore dictionary entry lycaniteTreat
+[INITIALIZATION][SERVER][INFO] Adding Anthronian Treat to ore dictionary entry lycaniteTreat
+[INITIALIZATION][SERVER][INFO] Adding Undead Treat to ore dictionary entry lycaniteTreat
+[INITIALIZATION][SERVER][INFO] Adding Demon Treat to ore dictionary entry lycaniteTreat
+[INITIALIZATION][SERVER][INFO] Adding Imp Treat to ore dictionary entry lycaniteTreat
+[INITIALIZATION][SERVER][INFO] Adding Aberration Treat to ore dictionary entry lycaniteTreat
+[INITIALIZATION][SERVER][INFO] Adding Avian Treat to ore dictionary entry lycaniteTreat
+[INITIALIZATION][SERVER][INFO] Adding Amphibian Treat to ore dictionary entry lycaniteTreat
+[INITIALIZATION][SERVER][INFO] Adding Arachnid Treat to ore dictionary entry lycaniteTreat
+[INITIALIZATION][SERVER][INFO] Adding Worm Treat to ore dictionary entry lycaniteTreat
+[INITIALIZATION][SERVER][INFO] Adding Beast Treat to ore dictionary entry lycaniteTreat
+[INITIALIZATION][SERVER][INFO] Adding Insect Treat to ore dictionary entry lycaniteTreat
+[INITIALIZATION][SERVER][INFO] Adding Aquatic Treat to ore dictionary entry lycaniteTreat
+[INITIALIZATION][SERVER][INFO] Adding Reptile Treat to ore dictionary entry lycaniteTreat
+[INITIALIZATION][SERVER][INFO] Adding Beast Saddle to ore dictionary entry lycaniteSaddle
+[INITIALIZATION][SERVER][INFO] Adding Insect Saddle to ore dictionary entry lycaniteSaddle
+[INITIALIZATION][SERVER][INFO] Adding Dragon Saddle to ore dictionary entry lycaniteSaddle
+[INITIALIZATION][SERVER][INFO] Adding Amphibian Saddle to ore dictionary entry lycaniteSaddle
+[INITIALIZATION][SERVER][INFO] Adding Reptile Saddle to ore dictionary entry lycaniteSaddle
+[INITIALIZATION][SERVER][INFO] Adding Avian Saddle to ore dictionary entry lycaniteSaddle
+[INITIALIZATION][SERVER][INFO] Adding Aquatic Saddle to ore dictionary entry lycaniteSaddle
+[INITIALIZATION][SERVER][INFO] Adding Aberration Saddle to ore dictionary entry lycaniteSaddle
+[INITIALIZATION][SERVER][INFO] Adding Demon Saddle to ore dictionary entry lycaniteSaddle
+[INITIALIZATION][SERVER][INFO] Adding Oak Crate to ore dictionary entry charmCrate
+[INITIALIZATION][SERVER][INFO] Adding Spruce Crate to ore dictionary entry charmCrate
+[INITIALIZATION][SERVER][INFO] Adding Birch Crate to ore dictionary entry charmCrate
+[INITIALIZATION][SERVER][INFO] Adding Jungle Crate to ore dictionary entry charmCrate
+[INITIALIZATION][SERVER][INFO] Adding Acacia Crate to ore dictionary entry charmCrate
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Crate to ore dictionary entry charmCrate
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <rustic:chili_pepper_seeds>: "Fertile Seasons:"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <rustic:chili_pepper_seeds>: " Summer"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <rustic:tomato_seeds>: "Fertile Seasons:"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <rustic:tomato_seeds>: " Summer"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <rustic:tomato_seeds>: " Autumn"
+[INITIALIZATION][SERVER][INFO] Translating item.fishingRod.name to Ancient Fishing Rod
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <minecraft:fishing_rod:*>: "Only used for crafting!"
+[INITIALIZATION][SERVER][INFO] Translating item.advanced-fishing.blazing_fishing_pole.name to Ancient Lava Fishing Rod
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <advanced-fishing:blazing_fishing_pole:*>: "Only used for crafting!"
+[INITIALIZATION][SERVER][INFO] Translating item.iceandfire.fishing_spear.name to Ancient Fishing Spear
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <iceandfire:fishing_spear:*>: "Only used for crafting!"
+[INITIALIZATION][SERVER][INFO] Translating tile.simpledifficulty:heater.name to Heating Coil
+[INITIALIZATION][SERVER][INFO] Translating tile.simpledifficulty:chiller.name to Cooling Coil
+[INITIALIZATION][SERVER][INFO] Translating item.notreepunching:rock.basalt.name to Basalt Rock
+[INITIALIZATION][SERVER][INFO] Translating tile.notreepunching:cobblestone.basalt.name to Basalt Cobblestone
+[INITIALIZATION][SERVER][INFO] Translating tile.bone_block.name to Smooth Bone Block
+[INITIALIZATION][SERVER][INFO] Translating item.fish.cod.raw.name to River Fish
+[INITIALIZATION][SERVER][INFO] Translating item.fish.salmon.raw.name to Mountain Fish
+[INITIALIZATION][SERVER][INFO] Translating item.fish.clownfish.raw.name to Tropical Fish
+[INITIALIZATION][SERVER][INFO] Translating item.fish.pufferfish.raw.name to Ocean Fish
+[INITIALIZATION][SERVER][INFO] Translating item.fish.cod.cooked.name to Cooked River Fish
+[INITIALIZATION][SERVER][INFO] Translating item.fish.salmon.cooked.name to Cooked Mountain Fish
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <quark:ancient_tome:*>: "Use in off-hand to apply to matching enchanted item"
+[INITIALIZATION][SERVER][INFO] Translating item.bountifulbaubles.ringIron.name to Holy Ring
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <bountifulbaubles:amuletsinwrath>: "A trophy lost to time, reminiscent of another world."
+[INITIALIZATION][SERVER][INFO] Translating item.heart.name to Demonic Heart
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <variedcommodities:heart>: "One of many hearts dropped by Rahovart, still beating with demonic energy."
+[INITIALIZATION][SERVER][INFO] Translating item.skull.name to Corrupted Skull
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <variedcommodities:skull>: "One of many skulls dropped by Asmodeus, the lost souls inside can still be heard screaming."
+[INITIALIZATION][SERVER][INFO] Script ending!
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Shiv2.zs}
+[INITIALIZATION][SERVER][INFO] Script starting!
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemwoodnunchaku:*>: "Continuous Attack"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemstonenunchaku:*>: "Continuous Attack"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemironnunchaku:*>: "Continuous Attack"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemdiamondnunchaku:*>: "Continuous Attack"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemgoldnunchaku:*>: "Continuous Attack"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itembronzenunchaku:*>: "Continuous Attack"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemsilvernunchaku:*>: "Continuous Attack"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemsteelnunchaku:*>: "Continuous Attack"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemdragonbonenunchaku:*>: "Continuous Attack"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemjunglechitinnunchaku:*>: "Continuous Attack"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemdesertchitinnunchaku:*>: "Continuous Attack"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemwooddagger:*>: "Backstab Bonus"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemstonedagger:*>: "Backstab Bonus"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemirondagger:*>: "Backstab Bonus"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemdiamonddagger:*>: "Backstab Bonus"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemgolddagger:*>: "Backstab Bonus"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itembronzedagger:*>: "Backstab Bonus"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemsilverdagger:*>: "Backstab Bonus"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemsteeldagger:*>: "Backstab Bonus"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemdragonbonedagger:*>: "Backstab Bonus"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemjunglechitindagger:*>: "Backstab Bonus"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemdesertchitindagger:*>: "Backstab Bonus"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemwoodbattleaxe:*>: "Disarming Chance"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemstonebattleaxe:*>: "Disarming Chance"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemironbattleaxe:*>: "Disarming Chance"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemdiamondbattleaxe:*>: "Disarming Chance"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemgoldbattleaxe:*>: "Disarming Chance"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itembronzebattleaxe:*>: "Disarming Chance"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemsilverbattleaxe:*>: "Disarming Chance"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemsteelbattleaxe:*>: "Disarming Chance"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemdragonbonebattleaxe:*>: "Disarming Chance"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemjunglechitinbattleaxe:*>: "Disarming Chance"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemdesertchitinbattleaxe:*>: "Disarming Chance"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemwoodspear:*>: "Extended Reach, Throwable"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemstonespear:*>: "Extended Reach, Throwable"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemironspear:*>: "Extended Reach, Throwable"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemdiamondspear:*>: "Extended Reach, Throwable"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemgoldspear:*>: "Extended Reach, Throwable"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itembronzespear:*>: "Extended Reach, Throwable"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemsilverspear:*>: "Extended Reach, Throwable"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemsteelspear:*>: "Extended Reach, Throwable"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemdragonbonespear:*>: "Extended Reach, Throwable"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemjunglechitinspear:*>: "Extended Reach, Throwable"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemdesertchitinspear:*>: "Extended Reach, Throwable"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemwoodhammer:*>: "Secondary Attack, Stun And Knockback"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemstonehammer:*>: "Secondary Attack, Stun And Knockback"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemironhammer:*>: "Secondary Attack, Stun And Knockback"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemdiamondhammer:*>: "Secondary Attack, Stun And Knockback"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemgoldhammer:*>: "Secondary Attack, Stun And Knockback"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itembronzehammer:*>: "Secondary Attack, Stun And Knockback"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemsilverhammer:*>: "Secondary Attack, Stun And Knockback"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemsteelhammer:*>: "Secondary Attack, Stun And Knockback"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemdragonbonehammer:*>: "Secondary Attack, Stun And Knockback"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemjunglechitinhammer:*>: "Secondary Attack, Stun And Knockback"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mujmajnkraftsbettersurvival:itemdesertchitinhammer:*>: "Secondary Attack, Stun And Knockback"
+[INITIALIZATION][SERVER][INFO] Altering Cauldron Brewing Recipe(s) for "minecraft:thick"
+[INITIALIZATION][SERVER][INFO] Altering Cauldron Brewing Recipe(s) for "simpledifficulty:cold_resist_type"
+[INITIALIZATION][SERVER][INFO] Altering Cauldron Brewing Recipe(s) for "simpledifficulty:heat_resist_type"
+[INITIALIZATION][SERVER][INFO] Altering Cauldron Brewing Recipe(s) for "minecraft:mundane"
+[INITIALIZATION][SERVER][INFO] Altering Cauldron Fluid Recipe(s) for <minecraft:potion>.withTag({Potion: "potioncore:revival"})
+[INITIALIZATION][SERVER][INFO] Altering Cauldron Fluid Recipe(s) for <minecraft:splash_potion>.withTag({Potion: "potioncore:revival"})
+[INITIALIZATION][SERVER][INFO] Altering Cauldron Fluid Recipe(s) for <minecraft:lingering_potion>.withTag({Potion: "potioncore:revival"})
+[INITIALIZATION][SERVER][INFO] Altering Cauldron Fill Recipe(s) for <minecraft:potion>.withTag({Potion: "potioncore:revival"})
+[INITIALIZATION][SERVER][INFO] Altering Cauldron Fill Recipe(s) for <minecraft:splash_potion>.withTag({Potion: "potioncore:revival"})
+[INITIALIZATION][SERVER][INFO] Altering Cauldron Fill Recipe(s) for <minecraft:lingering_potion>.withTag({Potion: "potioncore:revival"})
+[INITIALIZATION][SERVER][INFO] Altering Cauldron Brewing Recipe(s) for "potioncore:revival"
+[INITIALIZATION][SERVER][INFO] Script ending!
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Skipping file {[0:contenttweaker]: why.zs} as we are currently loading with a different loader
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 420ms
+[POSTINITIALIZATION][SERVER][INFO] Removing recipes for various outputs
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:spectralsilt_flaregun"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:flare_red"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:phantomprism"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:spectralsilt_magicmirror"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:wormholemirror"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:spectralsilt_luckyhorseshoe"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:ringflywheel"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:ringflywheeladvanced"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:ringiron"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:spectralsilt_sinpendantempty"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:spectralsilt_shieldcobalt"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:amuletsinwrath"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:amuletsingluttony"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:block_grapple_modifier"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:launcheritem"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:repeller"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:baseupgradeitem"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:doubleupgradeitem"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:doubleupgradeitem"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:forcefieldupgradeitem"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:magnetupgradeitem"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:motorupgradeitem"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:ropeupgradeitem"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:staffupgradeitem"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:swingupgradeitem"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:throwupgradeitem"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:limitsupgradeitem"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:longfallboots"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "notreepunching:tools/fire_starter"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "charm:ender_pearl"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "lycanitesmobs:sugar"
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Empty Antique Atlas with name lolarecipe1
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Healing Salve with name lolarecipe2
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Healing Salve with name lolarecipe3
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Healing Salve with name lolarecipe4
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Plaster with name lolarecipe5
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Bandage with name lolarecipe6
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Golden Apple with name lolarecipe7
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for String with name lolarecipe8
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Plaster with name lolarecipe10
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Bandage with name lolarecipe11
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Wooden Dagger with name lolarecipe12
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Stone Dagger with name lolarecipe13
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Golden Dagger with name lolarecipe14
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Dagger with name lolarecipe15
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Diamond Dagger with name lolarecipe16
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Silver Dagger with name lolarecipe16again
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Bronze Dagger with name lolarecipe16againagain
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Stone Spear with name lolarecipe17
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Stone Battle Axe with name lolarecipe18
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Stone Nunchaku with name lolarecipe19
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Stone Hammer with name lolarecipe20
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Paper with name lolarecipe21test
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Emerald Ring with name lolarecipe22
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Emerald Amulet with name lolarecipe23
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Wither Ring with name lolarecipe25
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Poison Stone with name lolarecipe25a
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Stone of the Sea with name lolarecipe25b
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Golden Crown with name lolarecipe27
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Chain Wolf Armor with name lolarecipe28
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Leather with name z29
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Heart Crystal Shard with name lolarecipe29
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sin Pendant (Empty) with name lolarecipe30
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spectral Silt with name lolarecipe31x
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spectral Silt with name lolarecipe31y
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spectral Silt with name lolarecipe31z
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spectral Silt with name lolarecipe31a
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spectral Silt with name lolarecipe31s
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spectral Silt with name lolarecipe31d
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spectral Silt with name lolarecipe31f
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spectral Silt with name lolarecipe31g
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spectral Silt with name lolarecipe31h
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spectral Silt with name lolarecipe31j
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spectral Silt with name lolarecipe31k
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spectral Silt with name lolarecipe31l
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spectral Silt with name lolarecipe31q
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spectral Silt with name lolarecipe31e
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spectral Silt with name lolarecipe31w
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Carrot on a Stick with name lolarecipe33carrotstick
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Obsidian Bobber with name lolarecipe33new
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Ozzy Chestplate Liner with name lolarecipe35
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Ozzy Leggings Liner with name lolarecipe36
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Cobweb with name lolarecipe37
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Greenhouse Glass with name lolarecipe38
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Lit Torch with name lolarecipe39
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Ozzy Liner Material with name lolarecipe40
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Ozzy Chestplate Liner with name lolarecipe41
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Ozzy Leggings Liner with name lolarecipe42
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Waystone with name lolarecipe43
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Diamond with name lolarecipe44
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Diamond Coin with name lolarecipe45
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Bronze Ingot with name lolarecipe44b
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Bronze Coin with name lolarecipe45b
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Steel Ingot with name lolarecipe40fak
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for item.contenttweaker.steel_nugget.name with name lolarecipe40fac
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Potion Ring of Speed with name lolarecipe46
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Potion Ring of Jump Boost with name lolarecipe47
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Potion Ring of Haste with name lolarecipe48
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Potion Ring of Strength with name lolarecipe49
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Potion Ring of Regeneration with name lolarecipe50
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Potion Ring of Resistance with name lolarecipe51
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Chain Skirt with name lolarecipe52
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Golden Skirt with name lolarecipe53
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Skirt with name lolarecipe54
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Diamond Skirt with name lolarecipe55
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Glowing Ingot with name lolarecipe56
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Glowing Ingot with name lolarecipe57
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Trading Block with name lolarecipe59
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Shield of Honor with name lolarecipe60
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Spectral Silt with name lolarecipe61
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sandstone with name lolarecipe62
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Red Sandstone with name lolarecipe63
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Saddle with name lolarecipe64
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Blossoming Leaf Carpet with name lolarecipe65
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Dragon Bone Nunchaku with name lolarecipe66
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Jungle Myrmex Chitin Nunchaku with name lolarecipe67
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Desert Myrmex Chitin Nunchaku with name lolarecipe68
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Earplugs with name lolarecipe69
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Oak Button with name lolarecipe69lmao
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Heating Coil with name lolarecipe70
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Cooling Coil with name lolarecipe71
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Campfire Spit with name lolarecipe71a
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Campfire with name lolarecipe71b
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Demonic Soulcube with name lolarecipe72
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Aberrant Soulcube with name lolarecipe73
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Undead Soulcube with name lolarecipe74
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Wooden Arrow with name lolarecipe75
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Empty Dragon Canteen with name lolarecipe76
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Plate with name lolarecipe77
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Rusty Iron Plate with name lolarecipe78
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Warp Stone with name lolarecipe79
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Pedestal with name lolarecipe80
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Pedestal with name lolarecipe81
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Pedestal with name lolarecipe82
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Pedestal with name lolarecipe83
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Pedestal with name lolarecipe84
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Cooling Goo with name lolarecipe85
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Heating Goo with name lolarecipe86
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for item.contenttweaker.steel_alloy.name with name lolarecipe87
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Oak Crate with name lolarecipe88a
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Spruce Crate with name lolarecipe88b
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Birch Crate with name lolarecipe88c
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Jungle Crate with name lolarecipe88d
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Acacia Crate with name lolarecipe88e
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Dark Oak Crate with name lolarecipe88f
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Steel Lock Mechanism with name lolarecipe89
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Bobby Pin Lock Pick with name lolarecipe90a
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Lock Pick with name lolarecipe90b
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Gold Lock Pick with name lolarecipe90c
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Steel Lock Pick with name lolarecipe90d
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Diamond Lock Pick with name lolarecipe90e
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lamp with name lolarecipe92
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Candle with name lolarecipe93
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Candle with name lolarecipe93a
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Candle with name lolarecipe93b
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Golden Candle with name lolarecipe93c
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Silver Candle with name lolarecipe93d
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Lantern with name lolarecipe93e
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Golden Lantern with name lolarecipe93f
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Silver Lantern with name lolarecipe93g
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Cincinnasite Forge with name lolarecipe94
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Chain with name lolarecipe95
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Equipment Station with name lolarecipe96
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Tombstone with name lolarecipe97
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Tombstone with name lolarecipe98
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Tombstone with name lolarecipe99
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Iron Paxel Level: 1 with name lolarecipe100
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Wooden Paxel Level: 1 with name lolarecipe101
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Rod Level: 1 with name lolarecipe102
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Guard Level: 1 with name lolarecipe103
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Pike Joint Level: 1 with name lolarecipe104
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Axe Head Level: 1 with name lolarecipe105
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Charcoal with name lolarecipe106
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Dragon Treat with name lolatreat1
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Avian Treat with name lolatreat2
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Beast Treat with name lolatreat3
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Plant Treat with name lolatreat4
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Undead Treat with name lolatreat5
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Demon Treat with name lolatreat6
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Arachnid Treat with name lolatreat7
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Aquatic Treat with name lolatreat8
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Disenchantment Table with name lolarecipe109
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Honeycomb with name lolarecipe110
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Frost Powder with name lolarecipe112
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Fire Lily Mixture with name lolarecipe113
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Frost Lily Mixture with name lolarecipe114
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Stone Pillar with name lolarecipe115
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Andesite Pillar with name lolarecipe116
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Diorite Pillar with name lolarecipe117
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Granite Pillar with name lolarecipe118
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Fire-Arrow with name lolarecipe119
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Frost-Arrow with name lolarecipe120
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Wither-Arrow with name lolarecipe121
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Vampire-Arrow with name lolarecipe122
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Burial-Arrow with name lolarecipe123
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Ring of Enchanted Eyes with name lolarecipe124
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Dwarf Stout with name lolarecipe125
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Elf Sap with name lolarecipe126
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Faelis Nip with name lolarecipe127
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Fairy Dew with name lolarecipe128
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Goblin Soup with name lolarecipe129
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Titan's Spirit with name lolarecipe130
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Dragon Gem with name lolarecipe131
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Beast Saddle with name lolasaddle1
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Insect Saddle with name lolasaddle2
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Dragon Saddle with name lolasaddle3
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Amphibian Saddle with name lolasaddle4
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Reptile Saddle with name lolasaddle5
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Avian Saddle with name lolasaddle6
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Aquatic Saddle with name lolasaddle7
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Aberration Saddle with name lolasaddle8
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Demon Saddle with name lolasaddle9
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Sea Serpent Fang with name lolarecipe132
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Quartz Stained Glass Silver with name lolarecipe133
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Framed Quartz Stained Glass Silver with name lolarecipe134
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Phantom Thread with name lolarecipe135
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Small Nether Brick Tile Slab with name lolarecipe136
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for item.contenttweaker.axe_core.name with name livingAxeCore
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Living Greataxe with name livingAxe
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Scythe with name sentientScythe
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Greataxe with name sentientAxe
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Greatbow with name sentientBow
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Suspicious Soup with name SUSSOUP1
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Suspicious Soup with name SUSSOUP2
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Suspicious Soup with name SUSSOUP3
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Suspicious Soup with name SUSSOUP4
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Suspicious Soup with name SUSSOUP5
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Suspicious Soup with name SUSSOUP6
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Suspicious Soup with name SUSSOUP7
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Suspicious Soup with name SUSSOUP8
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Suspicious Soup with name SUSSOUP9
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Suspicious Soup with name SUSSOUP10
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Suspicious Soup with name SUSSOUP11
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Suspicious Soup with name SUSSOUP12
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Suspicious Soup with name SUSSOUP13
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Gluttony Pendant with name lolarecipe137
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Holy Hand Grenade with name lolarecipe138
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Oak Trapdoor with name loltrapdoor1
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Spruce Trapdoor with name loltrapdoor3
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Birch Trapdoor with name loltrapdoor4
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Jungle Trapdoor with name loltrapdoor5
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Acacia Trapdoor with name loltrapdoor6
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Dark Oak Trapdoor with name loltrapdoor7
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Oak Door with name loldoor1
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Door with name loldoor2
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Spruce Door with name loldoor3
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Birch Door with name loldoor4
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Jungle Door with name loldoor5
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Acacia Door with name loldoor6
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Dark Oak Door with name loldoor7
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Bone-Reed Door with name loldoor8
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Bone-Cincinnasite Door with name loldoor9
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Tenebra Door with name loldoor10
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Olive Door with name loldoor11
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Ironwood Door with name loldoor12
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Fir Door with name loldoor13
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for White Stained Planks with name lolarecipeSTAIN0
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Orange Stained Planks with name lolarecipeSTAIN1
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Magenta Stained Planks with name lolarecipeSTAIN2
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Light Blue Stained Planks with name lolarecipeSTAIN3
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Yellow Stained Planks with name lolarecipeSTAIN4
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lime Stained Planks with name lolarecipeSTAIN5
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Pink Stained Planks with name lolarecipeSTAIN6
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Gray Stained Planks with name lolarecipeSTAIN7
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Light Gray Stained Planks with name lolarecipeSTAIN8
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Cyan Stained Planks with name lolarecipeSTAIN9
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Purple Stained Planks with name lolarecipeSTAIN10
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Blue Stained Planks with name lolarecipeSTAIN11
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Brown Stained Planks with name lolarecipeSTAIN12
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Green Stained Planks with name lolarecipeSTAIN13
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Red Stained Planks with name lolarecipeSTAIN14
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Black Stained Planks with name lolarecipeSTAIN15
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for White Painted Wood with name lolarecipeDYE0
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Orange Painted Wood with name lolarecipeDYE1
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Magenta Painted Wood with name lolarecipeDYE2
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Light Blue Painted Wood with name lolarecipeDYE3
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Yellow Painted Wood with name lolarecipeDYE4
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lime Painted Wood with name lolarecipeDYE5
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Pink Painted Wood with name lolarecipeDYE6
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Gray Painted Wood with name lolarecipeDYE7
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Light Gray Painted Wood with name lolarecipeDYE8
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Cyan Painted Wood with name lolarecipeDYE9
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Purple Painted Wood with name lolarecipeDYE10
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Blue Painted Wood with name lolarecipeDYE11
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Brown Painted Wood with name lolarecipeDYE12
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Green Painted Wood with name lolarecipeDYE13
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Red Painted Wood with name lolarecipeDYE14
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Black Painted Wood with name lolarecipeDYE15
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <notreepunching:ceramic_small_vessel>
+[POSTINITIALIZATION][SERVER][INFO] 1 recipes removed for: <notreepunching:ceramic_small_vessel>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <minecraft:gold_nugget>
+[POSTINITIALIZATION][SERVER][INFO] 15 recipes removed for: <minecraft:gold_nugget>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <minecraft:iron_nugget>
+[POSTINITIALIZATION][SERVER][INFO] 16 recipes removed for: <minecraft:iron_nugget>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <defiledlands:umbrium_nugget>
+[POSTINITIALIZATION][SERVER][INFO] 9 recipes removed for: <defiledlands:umbrium_nugget>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <variedcommodities:ingot_steel>
+[POSTINITIALIZATION][SERVER][INFO] 1 recipes removed for: <variedcommodities:ingot_steel>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <iceandfire:silver_ingot>
+[POSTINITIALIZATION][SERVER][INFO] 0 recipes removed for: <iceandfire:silver_ingot>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <iceandfire:sapphire_gem>
+[POSTINITIALIZATION][SERVER][INFO] 0 recipes removed for: <iceandfire:sapphire_gem>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <minecraft:hardened_clay>
+[POSTINITIALIZATION][SERVER][INFO] 2 recipes removed for: <minecraft:hardened_clay>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <rustic:beeswax>
+[POSTINITIALIZATION][SERVER][INFO] 1 recipes removed for: <rustic:beeswax>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:clay>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:diamond_helmet:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:diamond_chestplate:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:diamond_leggings:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:diamond_boots:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:iron_helmet:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:iron_chestplate:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:iron_leggings:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:iron_boots:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:golden_helmet:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:golden_chestplate:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:golden_leggings:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:golden_boots:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:diamond_sword:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:diamond_pickaxe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:diamond_axe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:diamond_hoe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:diamond_shovel:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:iron_sword:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:iron_pickaxe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:iron_axe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:iron_hoe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:iron_shovel:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:golden_sword:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:golden_pickaxe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:golden_axe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:golden_hoe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:golden_shovel:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:diamond_horse_armor:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:iron_horse_armor:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:golden_horse_armor:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:chainmail_helmet:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:chainmail_chestplate:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:chainmail_leggings:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:chainmail_boots:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemdiamondhammer:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemdiamondbattleaxe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemdiamonddagger:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemdiamondnunchaku:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemironhammer:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemironbattleaxe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemirondagger:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemironnunchaku:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemgoldhammer:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemgoldbattleaxe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemgolddagger:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemgoldnunchaku:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemsilverhammer:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemsilverbattleaxe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemsilverdagger:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemsilvernunchaku:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itembronzehammer:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itembronzebattleaxe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itembronzedagger:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itembronzenunchaku:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemsteelhammer:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemsteelbattleaxe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemsteeldagger:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemsteelnunchaku:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:longsword_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:katana_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:saber_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:rapier_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:greatsword_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:hammer_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:warhammer_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:halberd_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:battleaxe_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:mace_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:glaive_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:staff_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:longsword_steel:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:katana_steel:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:saber_steel:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:rapier_steel:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:greatsword_steel:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:hammer_steel:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:warhammer_steel:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:halberd_steel:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:battleaxe_steel:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:mace_steel:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:glaive_steel:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:staff_steel:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:longsword_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:katana_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:saber_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:rapier_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:greatsword_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:hammer_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:warhammer_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:halberd_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:battleaxe_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:mace_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:glaive_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:staff_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:longsword_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:katana_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:saber_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:rapier_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:greatsword_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:hammer_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:warhammer_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:halberd_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:battleaxe_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:mace_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:glaive_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:staff_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:longsword_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:katana_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:saber_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:rapier_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:greatsword_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:hammer_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:warhammer_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:halberd_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:battleaxe_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:mace_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:glaive_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:staff_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:longsword_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:katana_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:saber_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:rapier_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:greatsword_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:hammer_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:warhammer_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:halberd_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:battleaxe_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:mace_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:glaive_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:staff_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:dagger_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:spear_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:pike_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:lance_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:dagger_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:spear_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:pike_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:lance_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:dagger_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:spear_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:pike_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:lance_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:dagger_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:spear_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:pike_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:lance_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:dagger_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:spear_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:pike_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:lance_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:dagger_steel:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:spear_steel:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:pike_steel:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:lance_steel:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <defiledlands:umbrium_sword:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <defiledlands:umbrium_axe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <defiledlands:umbrium_pickaxe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <defiledlands:umbrium_hoe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <defiledlands:umbrium_shovel:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <defiledlands:umbrium_helmet:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <defiledlands:umbrium_chestplate:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <defiledlands:umbrium_leggings:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <defiledlands:umbrium_boots:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <iceandfire:armor_silver_metal_helmet:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <iceandfire:armor_silver_metal_chestplate:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <iceandfire:armor_silver_metal_leggings:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <iceandfire:armor_silver_metal_boots:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <iceandfire:silver_sword:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <iceandfire:silver_axe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <iceandfire:silver_pickaxe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <iceandfire:silver_hoe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <iceandfire:silver_shovel:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <wolfarmor:chainmail_wolf_armor:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <wolfarmor:iron_wolf_armor:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <wolfarmor:gold_wolf_armor:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <wolfarmor:diamond_wolf_armor:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <iceandfire:silver_ore:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <iceandfire:sapphire_ore:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <aquaculture:loot:2>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <aquaculture:food:1>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <contenttweaker:steel_alloy>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <rustic:dust_tiny_iron>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <quark:tallow>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <lycanitesmobs:veswax>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <iceandfire:myrmex_desert_resin_block>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <iceandfire:myrmex_jungle_resin_block>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <locks:iron_lock:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <locks:steel_lock:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <locks:gold_lock:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <locks:diamond_lock:*>
+[AVAILABLE][SERVER][INFO] Fixing Vanilla Brewing Recipes
+[AVAILABLE][SERVER][INFO] Removing Brewing Recipes for input: <minecraft:potion>.withTag({Potion: "minecraft:water"}), ingredient: <minecraft:glowstone_dust>
+[AVAILABLE][SERVER][INFO] Removing Brewing Recipes for input: <minecraft:splash_potion>.withTag({Potion: "minecraft:water"}), ingredient: <minecraft:glowstone_dust>
+[AVAILABLE][SERVER][INFO] Removing Brewing Recipes for input: <minecraft:lingering_potion>.withTag({Potion: "minecraft:water"}), ingredient: <minecraft:glowstone_dust>
+[AVAILABLE][SERVER][INFO] Removing Brewing Recipes for input: <minecraft:potion>.withTag({Potion: "minecraft:water"}), ingredient: <minecraft:redstone>
+[AVAILABLE][SERVER][INFO] Removing Brewing Recipes for input: <minecraft:splash_potion>.withTag({Potion: "minecraft:water"}), ingredient: <minecraft:redstone>
+[AVAILABLE][SERVER][INFO] Removing Brewing Recipes for input: <minecraft:lingering_potion>.withTag({Potion: "minecraft:water"}), ingredient: <minecraft:redstone>
+[AVAILABLE][SERVER][INFO] Removing Brewing Recipes for input: <minecraft:potion>.withTag({Potion: "minecraft:awkward"}), ingredient: <simpledifficulty:ice_chunk>
+[AVAILABLE][SERVER][INFO] Removing Brewing Recipes for input: <minecraft:potion>.withTag({Potion: "minecraft:awkward"}), ingredient: <simpledifficulty:magma_chunk>
+[AVAILABLE][SERVER][INFO] Removing Brewing Recipes for input: <minecraft:splash_potion>.withTag({Potion: "minecraft:awkward"}), ingredient: <simpledifficulty:ice_chunk>
+[AVAILABLE][SERVER][INFO] Removing Brewing Recipes for input: <minecraft:splash_potion>.withTag({Potion: "minecraft:awkward"}), ingredient: <simpledifficulty:magma_chunk>
+[AVAILABLE][SERVER][INFO] Removing Brewing Recipes for input: <minecraft:lingering_potion>.withTag({Potion: "minecraft:awkward"}), ingredient: <simpledifficulty:ice_chunk>
+[AVAILABLE][SERVER][INFO] Removing Brewing Recipes for input: <minecraft:lingering_potion>.withTag({Potion: "minecraft:awkward"}), ingredient: <simpledifficulty:magma_chunk>
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <bountifulbaubles:potionrecall>, Registry size now: 41
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <bountifulbaubles:potionwormhole>, Registry size now: 42
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "minecraft:thick"}), Registry size now: 43
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:health_boost"}), Registry size now: 44
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:strong_health_boost"}), Registry size now: 45
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:long_health_boost"}), Registry size now: 46
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:health_boost"}), Registry size now: 47
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:strong_health_boost"}), Registry size now: 48
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:long_health_boost"}), Registry size now: 49
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:health_boost"}), Registry size now: 50
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:strong_health_boost"}), Registry size now: 51
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:long_health_boost"}), Registry size now: 52
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:levitation"}), Registry size now: 53
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:strong_levitation"}), Registry size now: 54
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:levitation"}), Registry size now: 55
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:strong_levitation"}), Registry size now: 56
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:levitation"}), Registry size now: 57
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:strong_levitation"}), Registry size now: 58
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:slow_fall"}), Registry size now: 59
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:strong_slow_fall"}), Registry size now: 60
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:slow_fall"}), Registry size now: 61
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:strong_slow_fall"}), Registry size now: 62
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:slow_fall"}), Registry size now: 63
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:strong_slow_fall"}), Registry size now: 64
+[AVAILABLE][SERVER][INFO] Removing Brewing Recipes for input: <minecraft:potion>.withTag({Potion: "potioncore:revival"}), ingredient: <minecraft:gunpowder>
+[AVAILABLE][SERVER][INFO] Removing Brewing Recipes for input: <minecraft:splash_potion>.withTag({Potion: "potioncore:revival"}), ingredient: <minecraft:dragon_breath>
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:flight"}), Registry size now: 65
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:flight"}), Registry size now: 66
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:flight"}), Registry size now: 67
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:repair"}), Registry size now: 68
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:strong_repair"}), Registry size now: 69
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:long_repair"}), Registry size now: 70
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:repair"}), Registry size now: 71
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:strong_repair"}), Registry size now: 72
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:long_repair"}), Registry size now: 73
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:repair"}), Registry size now: 74
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:strong_repair"}), Registry size now: 75
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:long_repair"}), Registry size now: 76
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:launch"}), Registry size now: 77
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:strong_launch"}), Registry size now: 78
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:launch"}), Registry size now: 79
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:strong_launch"}), Registry size now: 80
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:launch"}), Registry size now: 81
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:strong_launch"}), Registry size now: 82
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:explode"}), Registry size now: 83
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:strong_explode"}), Registry size now: 84
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:explode"}), Registry size now: 85
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:strong_explode"}), Registry size now: 86
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:explode"}), Registry size now: 87
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:strong_explode"}), Registry size now: 88
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:lightning"}), Registry size now: 89
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:lightning"}), Registry size now: 90
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:lightning"}), Registry size now: 91
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:fire"}), Registry size now: 92
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:strong_fire"}), Registry size now: 93
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:fire"}), Registry size now: 94
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:strong_fire"}), Registry size now: 95
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:fire"}), Registry size now: 96
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:strong_fire"}), Registry size now: 97
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:iron_skin"}), Registry size now: 98
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:strong_iron_skin"}), Registry size now: 99
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:long_iron_skin"}), Registry size now: 100
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:iron_skin"}), Registry size now: 101
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:strong_iron_skin"}), Registry size now: 102
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:long_iron_skin"}), Registry size now: 103
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:iron_skin"}), Registry size now: 104
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:strong_iron_skin"}), Registry size now: 105
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:long_iron_skin"}), Registry size now: 106
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:diamond_skin"}), Registry size now: 107
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:strong_diamond_skin"}), Registry size now: 108
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:long_diamond_skin"}), Registry size now: 109
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:diamond_skin"}), Registry size now: 110
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:strong_diamond_skin"}), Registry size now: 111
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:long_diamond_skin"}), Registry size now: 112
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:diamond_skin"}), Registry size now: 113
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:strong_diamond_skin"}), Registry size now: 114
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:long_diamond_skin"}), Registry size now: 115
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:recoil"}), Registry size now: 116
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:strong_recoil"}), Registry size now: 117
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:long_recoil"}), Registry size now: 118
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:recoil"}), Registry size now: 119
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:strong_recoil"}), Registry size now: 120
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:long_recoil"}), Registry size now: 121
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:recoil"}), Registry size now: 122
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:strong_recoil"}), Registry size now: 123
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:long_recoil"}), Registry size now: 124
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:climb"}), Registry size now: 125
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:climb"}), Registry size now: 126
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:climb"}), Registry size now: 127
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:step_up"}), Registry size now: 128
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:strong_step_up"}), Registry size now: 129
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:long_step_up"}), Registry size now: 130
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:step_up"}), Registry size now: 131
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:strong_step_up"}), Registry size now: 132
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:long_step_up"}), Registry size now: 133
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:step_up"}), Registry size now: 134
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:strong_step_up"}), Registry size now: 135
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:long_step_up"}), Registry size now: 136
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:solid_core"}), Registry size now: 137
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:long_solid_core"}), Registry size now: 138
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:solid_core"}), Registry size now: 139
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:long_solid_core"}), Registry size now: 140
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:solid_core"}), Registry size now: 141
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:long_solid_core"}), Registry size now: 142
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:cure"}), Registry size now: 143
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:cure"}), Registry size now: 144
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:cure"}), Registry size now: 145
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:antidote"}), Registry size now: 146
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:long_antidote"}), Registry size now: 147
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:antidote"}), Registry size now: 148
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:long_antidote"}), Registry size now: 149
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:antidote"}), Registry size now: 150
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:long_antidote"}), Registry size now: 151
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:burst"}), Registry size now: 152
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:strong_burst"}), Registry size now: 153
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:burst"}), Registry size now: 154
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:strong_burst"}), Registry size now: 155
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:burst"}), Registry size now: 156
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:strong_burst"}), Registry size now: 157
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:archery"}), Registry size now: 158
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:strong_archery"}), Registry size now: 159
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:long_archery"}), Registry size now: 160
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:archery"}), Registry size now: 161
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:strong_archery"}), Registry size now: 162
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:long_archery"}), Registry size now: 163
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:archery"}), Registry size now: 164
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:strong_archery"}), Registry size now: 165
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:long_archery"}), Registry size now: 166
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:klutz"}), Registry size now: 167
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:strong_klutz"}), Registry size now: 168
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:long_klutz"}), Registry size now: 169
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:klutz"}), Registry size now: 170
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:strong_klutz"}), Registry size now: 171
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:long_klutz"}), Registry size now: 172
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:klutz"}), Registry size now: 173
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:strong_klutz"}), Registry size now: 174
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:long_klutz"}), Registry size now: 175
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:purity"}), Registry size now: 176
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:long_purity"}), Registry size now: 177
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:purity"}), Registry size now: 178
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:long_purity"}), Registry size now: 179
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:purity"}), Registry size now: 180
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:long_purity"}), Registry size now: 181
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:reach"}), Registry size now: 182
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:strong_reach"}), Registry size now: 183
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:long_reach"}), Registry size now: 184
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:reach"}), Registry size now: 185
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:strong_reach"}), Registry size now: 186
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:long_reach"}), Registry size now: 187
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:reach"}), Registry size now: 188
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:strong_reach"}), Registry size now: 189
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:long_reach"}), Registry size now: 190
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:broken_armor"}), Registry size now: 191
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:strong_broken_armor"}), Registry size now: 192
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:long_broken_armor"}), Registry size now: 193
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:broken_armor"}), Registry size now: 194
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:strong_broken_armor"}), Registry size now: 195
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:long_broken_armor"}), Registry size now: 196
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:broken_armor"}), Registry size now: 197
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:strong_broken_armor"}), Registry size now: 198
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:long_broken_armor"}), Registry size now: 199
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:magic_focus"}), Registry size now: 200
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:strong_magic_focus"}), Registry size now: 201
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:long_magic_focus"}), Registry size now: 202
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:magic_focus"}), Registry size now: 203
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:strong_magic_focus"}), Registry size now: 204
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:long_magic_focus"}), Registry size now: 205
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:magic_focus"}), Registry size now: 206
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:strong_magic_focus"}), Registry size now: 207
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:long_magic_focus"}), Registry size now: 208
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:magic_inhibition"}), Registry size now: 209
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:strong_magic_inhibition"}), Registry size now: 210
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:long_magic_inhibition"}), Registry size now: 211
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:magic_inhibition"}), Registry size now: 212
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:strong_magic_inhibition"}), Registry size now: 213
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:long_magic_inhibition"}), Registry size now: 214
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:magic_inhibition"}), Registry size now: 215
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:strong_magic_inhibition"}), Registry size now: 216
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:long_magic_inhibition"}), Registry size now: 217
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:vulnerable"}), Registry size now: 218
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:strong_vulnerable"}), Registry size now: 219
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:vulnerable"}), Registry size now: 220
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:strong_vulnerable"}), Registry size now: 221
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:vulnerable"}), Registry size now: 222
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:strong_vulnerable"}), Registry size now: 223
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:teleport"}), Registry size now: 224
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:strong_teleport"}), Registry size now: 225
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:teleport"}), Registry size now: 226
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:strong_teleport"}), Registry size now: 227
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:teleport"}), Registry size now: 228
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:strong_teleport"}), Registry size now: 229
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "potioncore:teleport_surface"}), Registry size now: 230
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "potioncore:teleport_surface"}), Registry size now: 231
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "potioncore:teleport_surface"}), Registry size now: 232
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "mujmajnkraftsbettersurvival:decay"}), Registry size now: 233
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "mujmajnkraftsbettersurvival:strong_decay"}), Registry size now: 234
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "mujmajnkraftsbettersurvival:long_decay"}), Registry size now: 235
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "mujmajnkraftsbettersurvival:decay"}), Registry size now: 236
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "mujmajnkraftsbettersurvival:strong_decay"}), Registry size now: 237
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "mujmajnkraftsbettersurvival:long_decay"}), Registry size now: 238
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "mujmajnkraftsbettersurvival:decay"}), Registry size now: 239
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "mujmajnkraftsbettersurvival:strong_decay"}), Registry size now: 240
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "mujmajnkraftsbettersurvival:long_decay"}), Registry size now: 241
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "simpledifficulty:heat_resist_type"}), Registry size now: 242
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "simpledifficulty:long_heat_resist_type"}), Registry size now: 243
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "simpledifficulty:heat_resist_type"}), Registry size now: 244
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "simpledifficulty:long_heat_resist_type"}), Registry size now: 245
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "simpledifficulty:heat_resist_type"}), Registry size now: 246
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "simpledifficulty:long_heat_resist_type"}), Registry size now: 247
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "simpledifficulty:cold_resist_type"}), Registry size now: 248
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:potion>.withTag({Potion: "simpledifficulty:long_cold_resist_type"}), Registry size now: 249
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "simpledifficulty:cold_resist_type"}), Registry size now: 250
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:splash_potion>.withTag({Potion: "simpledifficulty:long_cold_resist_type"}), Registry size now: 251
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "simpledifficulty:cold_resist_type"}), Registry size now: 252
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <minecraft:lingering_potion>.withTag({Potion: "simpledifficulty:long_cold_resist_type"}), Registry size now: 253
+[AVAILABLE][SERVER][INFO] Altering Cauldron Brewing Recipe(s) for "minecraft:thick"
+[AVAILABLE][SERVER][INFO] Altering Cauldron Brewing Recipe(s) for "simpledifficulty:cold_resist_type"
+[AVAILABLE][SERVER][INFO] Altering Cauldron Brewing Recipe(s) for "simpledifficulty:heat_resist_type"
+[AVAILABLE][SERVER][INFO] Altering Cauldron Brewing Recipe(s) for "simpledifficulty:long_cold_resist_type"
+[AVAILABLE][SERVER][INFO] Altering Cauldron Brewing Recipe(s) for "simpledifficulty:long_heat_resist_type"
+[AVAILABLE][SERVER][INFO] Altering Cauldron Fluid Recipe(s) for <liquid:carrot_juice>
+[AVAILABLE][SERVER][INFO] Altering Cauldron Fill Recipe(s) for <foodexpansion:itemcarrotseedsoup>
+[AVAILABLE][SERVER][INFO] Altering Cauldron Fluid Recipe(s) for <foodexpansion:itemcarrotseedsoup>
+[AVAILABLE][SERVER][INFO] Altering Cauldron Fluid Recipe(s) for <simpledifficulty:canteen>.withTag({Doses: 1, CanteenType: 3})
+[AVAILABLE][SERVER][INFO] Altering Cauldron Fluid Recipe(s) for <simpledifficulty:canteen>.withTag({Doses: 1, CanteenType: 3})
+[AVAILABLE][SERVER][INFO] Altering Cauldron Fluid Recipe(s) for <simpledifficulty:canteen>.withTag({Doses: 2, CanteenType: 3})
+[AVAILABLE][SERVER][INFO] Altering Cauldron Fluid Recipe(s) for <simpledifficulty:canteen>.withTag({Doses: 3, CanteenType: 3})
+[AVAILABLE][SERVER][INFO] Altering Cauldron Fluid Recipe(s) for <simpledifficulty:canteen>.withTag({Doses: 3, CanteenType: 3})
+[AVAILABLE][SERVER][INFO] Altering Cauldron Fluid Recipe(s) for <simpledifficulty:iron_canteen>.withTag({Doses: 1, CanteenType: 3})
+[AVAILABLE][SERVER][INFO] Altering Cauldron Fluid Recipe(s) for <simpledifficulty:iron_canteen>.withTag({Doses: 1, CanteenType: 3})
+[AVAILABLE][SERVER][INFO] Altering Cauldron Fluid Recipe(s) for <simpledifficulty:iron_canteen>.withTag({Doses: 2, CanteenType: 3})
+[AVAILABLE][SERVER][INFO] Altering Cauldron Fluid Recipe(s) for <simpledifficulty:iron_canteen>.withTag({Doses: 3, CanteenType: 3})
+[AVAILABLE][SERVER][INFO] Altering Cauldron Fluid Recipe(s) for <simpledifficulty:iron_canteen>.withTag({Doses: 4, CanteenType: 3})
+[AVAILABLE][SERVER][INFO] Altering Cauldron Fluid Recipe(s) for <simpledifficulty:iron_canteen>.withTag({Doses: 5, CanteenType: 3})
+[AVAILABLE][SERVER][INFO] Altering Cauldron Fluid Recipe(s) for <simpledifficulty:iron_canteen>.withTag({Doses: 6, CanteenType: 3})
+[AVAILABLE][SERVER][INFO] Altering Cauldron Fluid Recipe(s) for <simpledifficulty:iron_canteen>.withTag({Doses: 6, CanteenType: 3})
+[AVAILABLE][SERVER][INFO] Altering Cauldron Fluid Recipe(s) for <simpledifficulty:iron_canteen>.withTag({Doses: 6, CanteenType: 0})
+[AVAILABLE][SERVER][INFO] Altering Cauldron Fluid Recipe(s) for <simpledifficulty:dragon_canteen>.withTag({Doses: 8, CanteenType: 3})
+[AVAILABLE][SERVER][INFO] Altering Cauldron Fluid Recipe(s) for <simpledifficulty:dragon_canteen>.withTag({Doses: 8, CanteenType: 3})
+[SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool yep to table minecraft:entities/creeper
+[SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool rlcraftfishing to table fishingmadebetter:fishing_combined
+[SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool lul to table minecraft:entities/zombie
+[SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool wut to table minecraft:entities/skeleton
+[SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool ground to table loottweaker:lostcityground
+[SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool low to table loottweaker:lowtable
+[SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool medium to table loottweaker:medtable
+[SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool high to table loottweaker:hightable
+[SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool highrise to table loottweaker:lostcityhighrise
+[SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool rare to table loottweaker:lostcityrare
+[SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool subway to table loottweaker:lostcitysubway
+[SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool uncommon to table loottweaker:lostcityuncommon
+[SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool builder to table loottweaker:buildertable
+[SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool basement to table loottweaker:lostcitybasement
+[SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool common to table loottweaker:lostcitycommon
