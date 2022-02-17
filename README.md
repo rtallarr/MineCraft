@@ -2,8 +2,10 @@
 
 ### Start server
 1. navigate to `MineCraft` folder.
-2. run `git pull`
-3. Double-Click `run.bat`
+2. Right click white-space in folder
+3. `git bash here.`
+4. run `git pull`
+5. Double-Click `run.bat`
 
 ### Uploading data
 1. Open `MineCraft`folder.
