@@ -13,7 +13,7 @@
 3. `git bash here.`
 4. `git add .`
 5. `git commit -m <time>` ex. `git commit -m "21:36"`
-6. run `git push`. For first push use `git push -u origin master` instead.
+6. run `git push`.
 
 ## First Time only
 
