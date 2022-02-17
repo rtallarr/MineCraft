@@ -9,6 +9,8 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-3117 64 -2882 -3112 67 -2875 PumpkinField.tml
+-3089 62 -3131 -3074 70 -3122 Archway.tml
 -3086 66 -3256 -3077 74 -3248 WoodHouse_Intact.tml
 -3059 69 -3462 -3057 73 -3459 SkeletonHeadStatue.tml
 -3038 70 -3380 -3034 76 -3377 StonePillar.tml
@@ -16,28 +18,42 @@
 -2984 12 -3568 -2981 154 -3565 Beacon.tml
 -2967 62 -3140 -2964 66 -3137 StoneGrill.tml
 -2963 76 -3374 -2955 85 -3366 LargeStoneTwoStoryHouse.tml
+-2959 55 -2884 -2952 64 -2877 BridgePilings-small.tml
+-2952 66 -2960 -2946 72 -2951 PortalShrine.tml
 -2942 66 -3223 -2929 81 -3212 StoneHouseM.tml
 -2936 76 -3470 -2928 86 -3462 LargeStoneHouseWBasement.tml
+-2932 60 -2762 -2924 66 -2756 StoneHouse.tml
 -2889 65 -3099 -2876 97 -3086 OreSpire.tml
 -2876 78 -3578 -2869 82 -3571 TinyFarmField.tml
 -2871 68 -3003 -2859 114 -2991 Tower-edit.tml
+-2870 67 -2910 -2865 70 -2903 Melonfield.tml
+-2857 65 -2825 -2844 76 -2812 BlockHenge.tml
 -2844 70 -3314 -2839 78 -3309 PillarBase.tml
 -2838 90 -3460 -2831 97 -3453 Outcrop.tml
 -2824 65 -3180 -2814 71 -3172 VanillaVillageForge-r.tml
 -2807 67 -3096 -2799 73 -3088 ShortTower.tml
 -2790 77 -3387 -2782 83 -3379 ShortTower.tml
 -2765 87 -3470 -2761 95 -3466 SmallWell.tml
+-2761 63 -2859 -2752 70 -2850 WoodHouse2_Ruined.tml
 -2755 66 -3019 -2743 111 -3007 TowerMedium.tml
 -2752 62 -3265 -2743 70 -3257 WoodHouse_Intact.tml
+-2745 66 -2935 -2737 74 -2926 VanillaVillageLibrary-p.tml
 -2739 122 -3549 -2730 137 -3540 MoaiHead.tml
 -2717 69 -3103 -2708 80 -3098 VanillaVillageChurch-r.tml
 -2714 62 -3184 -2702 72 -3174 Piston-LavaTrap.tml
+-2663 61 -2866 -2655 71 -2858 LargeStoneHouseWBasement.tml
 -2662 66 -3032 -2650 137 -3020 GateUnderGlass.tml
 -2652 67 -3285 -2641 75 -3277 MinersHut.tml
+-2637 63 -2942 -2634 69 -2938 StonePillar.tml
+-2631 64 -2761 -2626 75 -2752 VanillaVillageChurch-p.tml
 -2628 88 -3462 -2620 97 -3454 LargeStoneTwoStoryHouse.tml
+-2583 62 -2835 -2575 71 -2827 LargeStoneTwoStoryHouse.tml
 -2568 68 -3387 -2561 75 -3380 Outcrop.tml
+-2551 126 -2973 -2548 130 -2970 StoneGrill.tml
 -2524 68 -3486 -2520 74 -3483 StonePillar.tml
 -2515 66 -3192 -2508 69 -3187 Melonfield.tml
+-2503 61 -2811 -2495 71 -2803 TallTower.tml
+-2487 54 -3085 -2476 73 -3049 SunkenShip-v2.tml
 -1799 64 -3141 -1790 73 -3133 HutRuined.tml
 -1796 47 -3320 -1785 58 -3284 SunkenShip-v3.tml
 -1759 63 -3440 -1753 76 -3433 TP_FishingShack.tml

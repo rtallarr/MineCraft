@@ -1,1 +1,4 @@
 RLCraft_SmallUndergroundSkeleton,-3081,-3073,-3254,-3246
+ShrineSmallFire,-3100,-3090,-3108,-3098
+MeteorSite,-3152,-3122,-3116,-3101
+StonePlantMound4,-3150,-3143,-3149,-3142

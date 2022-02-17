@@ -1,0 +1,6 @@
+StonePlantBoulder,-2552,-2542,-2853,-2843
+StonePlantMound1,-2552,-2546,-2832,-2826
+StonePlantBoulder,-2528,-2518,-2821,-2811
+P_VillageFarmhouse,-2559,-2547,-2799,-2787
+StonePlantMound,-2505,-2500,-2956,-2951
+StonePlantBoulder,-2506,-2496,-2873,-2863

@@ -2,3 +2,4 @@ VillageTriplets,-2554,-2540,-3245,-3231
 StonePlantMound4,-2551,-2544,-3246,-3239
 VillageForgeLarge,-2549,-2533,-3258,-3246
 StonePlantMound2,-2512,-2499,-3220,-3208
+P_Deqing,-2577,-2530,-3107,-3055

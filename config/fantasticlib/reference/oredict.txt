@@ -163,9 +163,9 @@ launcherWeb
 listAllfishraw
 listAllfishcooked
 cropSeaweed
-mushroomAny
 buttonWood
 gemEnderBiotite
+mushroomAny
 tallow
 stoneBasalt
 stoneMarble
@@ -281,6 +281,8 @@ oreSilver
 blockSilver
 oreSapphire
 blockSapphire
+stonePolished
+plankStained
 stoneBasaltPolished
 stoneMarblePolished
 stoneLimestonePolished
@@ -301,8 +303,6 @@ bookshelfDarkOak
 blockCandle
 pressurePlateWood
 blockCharcoal
-stonePolished
-plankStained
 itemArmor
 itemPakFiller
 itemLeggings
