@@ -1,0 +1,4 @@
+WoodWallRemains,-2672,-2644,-2508,-2500
+SmallWoodenCottage,-2937,-2929,-2490,-2479
+StoneLeafMound,-2632,-2623,-2447,-2440
+StonePlantMound4,-2982,-2975,-2532,-2525

@@ -44,3 +44,8 @@ RLCraft_KillerRabbit,-2799,-2724,-2675,-2601
 ShrineSmallEarth,-2733,-2721,-2599,-2587
 StonePlantBoulder,-2897,-2887,-2601,-2591
 StonePlantMound4,-2861,-2854,-2564,-2557
+StonePlantMound4,-2962,-2955,-2735,-2728
+StoneBoulder,-2949,-2940,-2744,-2735
+StonePlantMound1,-2978,-2972,-2667,-2661
+StoneBoulder,-2959,-2950,-2624,-2615
+StonePlantMound2,-2978,-2966,-2603,-2590
