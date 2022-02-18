@@ -1,0 +1,9 @@
+P_RuinedHouse,1185,1210,-3054,-3037
+SmallWoodenCottage1,1183,1189,-3008,-2997
+StoneLeafMound,1155,1162,-3027,-3018
+StoneBoulder,1122,1131,-3062,-3053
+P_VillageInn,1267,1278,-2979,-2970
+RLCraft_SmallUndergroundSkeleton,1214,1222,-2946,-2938
+P_VillageHouse,1294,1303,-2958,-2947
+VillageWoodMill,1318,1334,-2960,-2947
+VillageGuardTower,1318,1330,-2940,-2928

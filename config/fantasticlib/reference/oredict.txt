@@ -164,9 +164,9 @@ listAllfishraw
 listAllfishcooked
 cropSeaweed
 tallow
+mushroomAny
 buttonWood
 gemEnderBiotite
-mushroomAny
 stoneBasalt
 stoneMarble
 stoneLimestone
@@ -292,6 +292,8 @@ bookshelfDarkOak
 blockCandle
 pressurePlateWood
 blockCharcoal
+stonePolished
+plankStained
 stoneBasaltPolished
 stoneMarblePolished
 stoneLimestonePolished
@@ -301,8 +303,6 @@ stoneBrimstonePolished
 stonePermafrostPolished
 blockPrismarineElderBrick
 blockPrismarineElderDark
-stonePolished
-plankStained
 itemArmor
 itemPakFiller
 itemLeggings

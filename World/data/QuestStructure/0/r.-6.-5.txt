@@ -3,3 +3,4 @@ P_VillageFarmhouse,-3164,-3152,-2890,-2878
 RLCraft_DecentSkeleton,-3140,-3140,-2879,-2879
 RLCraft_UndergroundRuin2,-3145,-3138,-2884,-2874
 StonePlantBoulder,-3094,-3084,-2875,-2865
+StoneLeafMound,-3202,-3195,-2982,-2973

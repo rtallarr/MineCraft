@@ -39,3 +39,8 @@ StonePlantMound2,-2973,-2960,-2811,-2799
 StonePlantMound,-2929,-2924,-2776,-2771
 VillageTriplets,-2714,-2700,-2719,-2705
 ThreeTowers,-2691,-2660,-2726,-2694
+StoneBoulder,-2918,-2909,-2699,-2690
+RLCraft_KillerRabbit,-2799,-2724,-2675,-2601
+ShrineSmallEarth,-2733,-2721,-2599,-2587
+StonePlantBoulder,-2897,-2887,-2601,-2591
+StonePlantMound4,-2861,-2854,-2564,-2557

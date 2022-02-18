@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2022-02-18 13:28:49 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2022-02-17 11:17:59 -0300"
@@ -251,6 +257,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/misc/foul_candy": {
+    "criteria": {
+      "has_material": "2022-02-18 12:19:50 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2022-02-17 11:17:59 -0300"
@@ -284,6 +296,7 @@
       "apple": "2022-02-18 00:32:17 -0300",
       "potato": "2022-02-18 00:41:52 -0300",
       "bread": "2022-02-17 11:23:34 -0300",
+      "cookie": "2022-02-18 13:53:58 -0300",
       "cooked_chicken": "2022-02-17 23:45:09 -0300",
       "carrot": "2022-02-17 22:29:24 -0300"
     },
@@ -319,6 +332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2022-02-18 12:02:09 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2022-02-17 12:13:54 -0300"
@@ -330,6 +349,12 @@
       "has_gravel": "2022-02-17 12:40:33 -0300"
     },
     "done": true
+  },
+  "defiledlands:main/discover_all_biomes": {
+    "criteria": {
+      "hills_defiled": "2022-02-18 12:03:49 -0300"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
@@ -403,6 +428,18 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2022-02-18 12:24:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2022-02-18 12:27:31 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-02-17 12:40:33 -0300"
@@ -424,6 +461,12 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_double_plant": "2022-02-18 00:46:17 -0300"
+    },
+    "done": true
+  },
+  "craftablechainmail:craft_iron_nugget": {
+    "criteria": {
+      "iron_nugget": "2022-02-18 12:27:36 -0300"
     },
     "done": true
   },
@@ -654,7 +697,8 @@
       "zombie_villager": "2022-02-17 21:04:05 -0300",
       "skeleton": "2022-02-17 13:30:54 -0300",
       "zombie": "2022-02-17 11:27:53 -0300",
-      "spider": "2022-02-17 12:08:15 -0300"
+      "spider": "2022-02-17 12:08:15 -0300",
+      "creeper": "2022-02-18 12:27:30 -0300"
     },
     "done": false
   },
@@ -934,9 +978,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2022-02-18 13:23:03 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2022-02-17 12:46:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2022-02-18 13:28:49 -0300"
     },
     "done": true
   },
@@ -967,6 +1023,12 @@
   "minecraft:recipes/redstone/wooden_button": {
     "criteria": {
       "has_planks": "2022-02-17 20:43:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2022-02-18 12:02:09 -0300"
     },
     "done": true
   },
@@ -1057,6 +1119,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2022-02-17 13:26:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2022-02-18 12:02:09 -0300"
     },
     "done": true
   },
@@ -1168,6 +1236,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2022-02-18 12:50:42 -0300"
+    },
+    "done": true
+  },
+  "qualitytools:recipes/qualitytools/reforging_station": {
+    "criteria": {
+      "has_anvil": "2022-02-18 13:54:16 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2022-02-17 20:48:26 -0300"
@@ -1239,20 +1319,21 @@
       "beaches": "2022-02-17 11:20:20 -0300",
       "taiga": "2022-02-17 11:20:18 -0300",
       "redwood_taiga_hills": "2022-02-17 11:17:14 -0300",
+      "taiga_hills": "2022-02-18 11:51:05 -0300",
       "ocean": "2022-02-17 11:20:59 -0300",
       "river": "2022-02-17 11:20:39 -0300"
     },
     "done": false
   },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2022-02-18 00:01:35 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_wooden_slab": {
     "criteria": {
       "has_planks": "2022-02-17 22:56:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2022-02-18 00:01:35 -0300"
     },
     "done": true
   },
@@ -1283,6 +1364,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_the_recipe": "2022-02-17 12:21:43 -0300"
+    },
+    "done": true
+  },
+  "defiledlands:main/root": {
+    "criteria": {
+      "hills_defiled": "2022-02-18 12:03:49 -0300"
     },
     "done": true
   },
