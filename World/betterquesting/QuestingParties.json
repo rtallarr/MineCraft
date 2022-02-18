@@ -9,6 +9,10 @@
         "1:10": {
           "uuid:8": "76063568-76d8-4ab7-a0a6-1c5079fb40ac",
           "status:8": "MEMBER"
+        },
+        "2:10": {
+          "uuid:8": "5cdf9440-d166-4028-b699-2f3448b011cb",
+          "status:8": "MEMBER"
         }
       },
       "partyID:3": 0,

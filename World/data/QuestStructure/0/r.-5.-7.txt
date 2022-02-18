@@ -1,0 +1,11 @@
+RLCraft_BasicWitch,-2769,-2769,-3601,-3601
+RLCraft_UndergroundRuin1,-2772,-2763,-3607,-3598
+ShrineSmallFire,-3032,-3022,-3601,-3591
+ShrineSmallAir,-3034,-3026,-3589,-3581
+StonePlantMound3,-2888,-2879,-3650,-3639
+StonePlantMound4,-2844,-2837,-3658,-3651
+UndergroundTreeoid,-2859,-2833,-3671,-3648
+UndergroundCrypt,-2907,-2893,-3713,-3685
+StonePlantMound,-3056,-3051,-3699,-3694
+StonePlantMound2,-2907,-2894,-3780,-3768
+StonePlantMound3,-2923,-2912,-3798,-3789

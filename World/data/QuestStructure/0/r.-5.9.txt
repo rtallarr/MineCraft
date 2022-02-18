@@ -1,0 +1,13 @@
+StonePlantMound1,-2785,-2779,4750,4756
+ClayWaterMound,-2766,-2759,4811,4819
+StonePlantBoulder,-2798,-2788,4764,4774
+StonePlantMound4,-2678,-2671,4853,4860
+RLCraft_BasicZombie,-2588,-2588,4870,4870
+RLCraft_UndergroundRuin1,-2591,-2582,4864,4873
+StonePlantMound,-2806,-2801,4880,4885
+RLCraft_SmallUndergroundSkeleton,-2850,-2842,4843,4851
+StonePlantMound4,-2856,-2849,4880,4887
+StonePlantMound1,-2668,-2662,4942,4948
+StonePlantBoulder,-2813,-2803,4935,4945
+StoneLeafMound,-2641,-2632,4977,4984
+ClayWaterMound,-2694,-2686,4967,4974
