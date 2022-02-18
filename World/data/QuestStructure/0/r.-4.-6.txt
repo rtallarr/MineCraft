@@ -4,3 +4,4 @@ VillageForgeLarge,-2549,-2533,-3258,-3246
 StonePlantMound2,-2512,-2499,-3220,-3208
 P_Deqing,-2577,-2530,-3107,-3055
 StonePlantMound,-2424,-2419,-3331,-3326
+UndergroundCrypt,-2375,-2347,-3356,-3342
