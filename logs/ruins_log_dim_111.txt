@@ -1,35 +1,3 @@
-Did not find any Building data for .\config\ruins_config\savanna, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\redwood_taiga, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\extreme_hills_with_trees, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\desert_hills, creating empty folder for it: failed
-Did not find any Building data for .\config\ruins_config\ice_plains_defiled, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\mesa_clear_rock, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\mushroom_island_shore, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\frozen_river, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\mutated_extreme_hills, creating empty folder for it: failed
-Did not find any Building data for .\config\ruins_config\autumnal_woods, creating empty folder for it: failed
-Did not find any Building data for .\config\ruins_config\rocky_plains, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\mutated_savanna_rock, creating empty folder for it: failed
-Did not find any Building data for .\config\ruins_config\mini_jungle, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\rocky_plateau, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\birch_forested_hills, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\cold_beach, creating empty folder for it: failed
-Did not find any Building data for .\config\ruins_config\mesa_rock, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\mutated_forest, creating empty folder for it: failed
-Did not find any Building data for .\config\ruins_config\mutated_swampland, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\arid_highland, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\mutated_birch_forest_hills, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\meadow, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\cliffs, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\crag_cliffs, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\ice_flats, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\desert_shrubland, creating empty folder for it: failed
-Did not find any Building data for .\config\ruins_config\biome_parasite, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\birch_forest, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\forested_hills, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\swamp_defiled, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\red_desert, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\mutated_taiga, creating empty folder for it: success
 
 Loading options from: C:\Users\Rodrigo\Desktop\MineCraft\World\LOST
 tries_per_chunk_normal = 6
