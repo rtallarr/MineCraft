@@ -4,3 +4,11 @@ RLCraft_DecentSkeleton,-3140,-3140,-2879,-2879
 RLCraft_UndergroundRuin2,-3145,-3138,-2884,-2874
 StonePlantBoulder,-3094,-3084,-2875,-2865
 StoneLeafMound,-3202,-3195,-2982,-2973
+SmallWoodenCottage,-3230,-3219,-3020,-3012
+StonePlantBoulder,-3266,-3256,-2942,-2932
+StoneLeafMound,-3259,-3252,-2953,-2944
+ShrineSmallAir,-3217,-3209,-2921,-2913
+StonePlantBoulder,-3086,-3076,-2578,-2568
+StonePlantMound3,-3162,-3153,-2582,-2571
+StonePlantMound3,-3195,-3184,-2714,-2705
+MonolythHoly,-3217,-3203,-2704,-2690

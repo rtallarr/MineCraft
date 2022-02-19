@@ -215,6 +215,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2022-02-19 01:44:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2022-02-19 01:43:19 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2022-02-16 23:42:17 -0300"
@@ -414,6 +426,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2022-02-19 00:09:15 -0300"
+    },
+    "done": true
+  },
   "defiledlands:recipes/decoration/stone_defiled_bricks": {
     "criteria": {
       "has_material": "2022-02-18 16:02:49 -0300"
@@ -474,6 +492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2022-02-19 01:44:17 -0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2022-02-17 23:25:30 -0300",
@@ -525,6 +549,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2022-02-17 12:37:28 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-02-19 03:36:09 -0300"
     },
     "done": true
   },
@@ -768,6 +798,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2022-02-19 03:36:09 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2022-02-16 23:42:17 -0300"
@@ -902,11 +938,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "forest": "2022-02-19 02:50:16 -0300",
+      "deep_ocean": "2022-02-19 03:28:13 -0300",
       "beaches": "2022-02-18 13:25:39 -0300",
       "extreme_hills_with_trees": "2022-02-17 23:15:33 -0300",
+      "forest_hills": "2022-02-19 02:49:59 -0300",
+      "plains": "2022-02-19 03:09:28 -0300",
       "taiga": "2022-02-16 23:36:07 -0300",
       "taiga_hills": "2022-02-16 23:37:00 -0300",
+      "ocean": "2022-02-19 01:37:44 -0300",
       "extreme_hills": "2022-02-16 23:42:57 -0300",
+      "roofed_forest": "2022-02-19 03:14:49 -0300",
       "river": "2022-02-17 12:51:06 -0300"
     },
     "done": false
@@ -1223,6 +1265,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-02-19 01:37:29 -0300"
+    },
+    "done": true
+  },
   "defiledlands:recipes/decoration/stone_defiled_slab_bricks_uncraft": {
     "criteria": {
       "has_material": "2022-02-18 16:02:43 -0300"
@@ -1387,6 +1435,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2022-02-19 02:55:21 -0300",
       "baked_potato": "2022-02-18 11:32:11 -0300",
       "pumpkin_pie": "2022-02-17 12:05:21 -0300",
       "mutton": "2022-02-16 23:52:05 -0300",
@@ -1721,9 +1770,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2022-02-19 03:36:09 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2022-02-17 23:38:14 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-02-19 01:37:29 -0300"
     },
     "done": true
   },
@@ -2141,6 +2202,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2022-02-19 02:33:03 -0300"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2022-02-18 19:00:02 -0300"
@@ -2168,6 +2235,12 @@
   "spartanweaponry:boomerang": {
     "criteria": {
       "craft": "2022-02-18 15:39:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2022-02-19 00:15:47 -0300"
     },
     "done": true
   },
@@ -2300,6 +2373,12 @@
   "defiledlands:recipes/material/ravaging_ingot": {
     "criteria": {
       "has_material": "2022-02-18 19:00:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2022-02-19 03:36:09 -0300"
     },
     "done": true
   },

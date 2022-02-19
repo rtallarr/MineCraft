@@ -1,0 +1,4 @@
+RLCraft_BasicSpider,-2915,-2915,3524,3524
+RLCraft_UndergroundRuin1,-2921,-2912,3518,3527
+ShrineSmallWater,-2770,-2762,3523,3531
+UndergroundCultChamber,-2874,-2832,3439,3471

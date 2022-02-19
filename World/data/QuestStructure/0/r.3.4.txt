@@ -1,0 +1,9 @@
+RLCraft_BasicSpider,1576,1576,2351,2351
+RLCraft_UndergroundRuin1,1570,1579,2348,2357
+RLCraft_SmallUndergroundSkeleton,1551,1559,2121,2129
+VillageTriplets,1590,1604,2080,2094
+VillageForgeLarge,1594,1610,2107,2119
+SeasonsGreenhouse,1555,1565,2070,2082
+P_Village2Story,1618,1624,2079,2092
+P_VillageFarmhouse,1639,1651,2079,2091
+RLCraft_Vineyard,1639,1659,2096,2124

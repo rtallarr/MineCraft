@@ -1,0 +1,2 @@
+VillageTriplets,1558,1572,-758,-744
+SeasonsGreenhouse,1533,1543,-762,-750

@@ -1,0 +1,5 @@
+RLCraft_DecentSkeleton,4445,4445,-2405,-2405
+RLCraft_UndergroundRuin2,4440,4450,-2410,-2403
+P_LargeShip,4348,4408,-2376,-2358
+RLCraft_DecentWitch,4432,4432,-2373,-2373
+RLCraft_UndergroundRuin3,4430,4438,-2376,-2368

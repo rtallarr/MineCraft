@@ -1,0 +1,9 @@
+StonePlantMound,-4192,-4187,832,837
+StonePlantMound3,-4123,-4114,757,768
+SmallFortRuins,-4141,-4111,776,808
+StonePlantMound2,-4184,-4171,737,749
+DinosaurSkull,-4276,-4265,926,945
+StoneBoulder,-4146,-4137,694,703
+StonePlantMound2,-4311,-4298,939,951
+RLCraft_SmallUndergroundSkeleton,-4320,-4312,940,948
+StoneLeafMound,-4377,-4370,948,957

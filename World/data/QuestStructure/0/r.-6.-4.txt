@@ -1,0 +1,13 @@
+UndergroundCrypt,-3137,-3123,-2492,-2464
+ShrineSmallFire,-3202,-3192,-2452,-2442
+StonePlantMound4,-3166,-3159,-2269,-2262
+StonePlantMound2,-3243,-3231,-2279,-2266
+StonePlantMound3,-3272,-3263,-2503,-2492
+StonePlantBoulder,-3191,-3181,-2410,-2400
+StonePlantMound3,-3140,-3129,-2395,-2386
+StonePlantMound1,-3240,-3234,-2358,-2352
+RLCraft_SmallUndergroundSkeleton,-3106,-3098,-2172,-2164
+StonePlantBoulder,-3140,-3130,-2100,-2090
+StonePlantBoulder,-3238,-3228,-2072,-2062
+SmallAbandonedMine,-3266,-3251,-2117,-2092
+StoneBoulder,-3411,-3402,-2062,-2053

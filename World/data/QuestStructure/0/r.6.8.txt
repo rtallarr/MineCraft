@@ -1,0 +1,6 @@
+RLCraft_DecentCaveSpider,3363,3363,4466,4466
+RLCraft_UndergroundRuin3,3360,3368,4460,4468
+RLCraft_DecentSkeleton,3328,3328,4406,4406
+RLCraft_UndergroundRuin3,3323,3331,4400,4408
+ShrineSmallWater,3543,3551,4307,4315
+UndergroundCrypt,3573,3587,4295,4323

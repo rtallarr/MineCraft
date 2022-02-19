@@ -8,3 +8,7 @@ StoneBoulder,-3185,-3176,-3385,-3376
 StoneBoulder,-3245,-3236,-3278,-3269
 RLCraft_BasicWitch,-3414,-3414,-3127,-3127
 RLCraft_UndergroundRuin1,-3417,-3408,-3130,-3121
+MysticalTree1,-3256,-3245,-3226,-3213
+StoneBoulder,-3255,-3246,-3099,-3090
+StoneBoulder,-3298,-3289,-3261,-3252
+SmallAbandonedMine,-3296,-3271,-3258,-3243

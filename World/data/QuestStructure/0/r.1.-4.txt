@@ -1,0 +1,3 @@
+BlazeSpawnerCrystal,925,931,-2446,-2440
+StoneBoulder,928,937,-2103,-2094
+P_SmallShip,944,964,-2256,-2250

@@ -49,3 +49,7 @@ StoneBoulder,-2949,-2940,-2744,-2735
 StonePlantMound1,-2978,-2972,-2667,-2661
 StoneBoulder,-2959,-2950,-2624,-2615
 StonePlantMound2,-2978,-2966,-2603,-2590
+RLCraft_DecentWitch,-3032,-3032,-2644,-2644
+RLCraft_UndergroundRuin2,-3037,-3027,-2646,-2639
+StoneBoulder,-3046,-3037,-2606,-2597
+ClayWaterMound,-3025,-3018,-2582,-2574

@@ -1,0 +1,12 @@
+StoneBoulder,-2595,-2586,-2042,-2033
+RLCraft_DecentCaveSpider,-2813,-2813,-1993,-1993
+RLCraft_UndergroundRuin3,-2815,-2807,-1996,-1988
+StonePlantMound1,-2924,-2918,-1972,-1966
+StoneBoulder,-2943,-2934,-1923,-1914
+RLCraft_DecentZombie,-2934,-2934,-1897,-1897
+RLCraft_UndergroundRuin3,-2939,-2931,-1899,-1891
+StoneBoulder,-3018,-3009,-2026,-2017
+StoneBoulder,-3027,-3018,-2003,-1994
+StonePlantMound2,-3069,-3057,-2008,-1995
+StonePlantMound1,-3068,-3062,-2011,-2005
+RLCraft_SmallUndergroundSkeleton,-3051,-3043,-1806,-1798

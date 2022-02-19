@@ -1,0 +1,10 @@
+ShrineSmallFire,4612,4622,2794,2804
+StoneBoulder,4713,4722,2685,2694
+ShrineSmallFire,4735,4745,2665,2675
+RLCraft_DecentZombie,4809,4809,2817,2817
+RLCraft_UndergroundRuin3,4807,4815,2814,2822
+SmallWoodenCottage,4711,4719,2644,2655
+PeacefulCrypt,4805,4829,2737,2753
+RLCraft_SmallUndergroundSkeleton,4742,4750,2952,2960
+IceThorn,4725,4740,2983,3009
+StonePlantMound3,4830,4841,2734,2743

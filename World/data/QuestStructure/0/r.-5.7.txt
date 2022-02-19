@@ -1,0 +1,12 @@
+RLCraft_DecentSkeleton,-2840,-2840,3600,3600
+RLCraft_UndergroundRuin2,-2845,-2838,3595,3605
+RLCraft_DecentSkeleton,-2905,-2905,3682,3682
+RLCraft_UndergroundRuin3,-2911,-2903,3679,3687
+IceThorn1,-2992,-2976,3581,3602
+RLCraft_DecentSpider,-2841,-2841,3698,3698
+RLCraft_UndergroundRuin2,-2846,-2839,3693,3703
+RLCraft_BasicSkeleton,-2789,-2789,3598,3598
+RLCraft_UndergroundRuin1,-2792,-2783,3592,3601
+RLCraft_SmallUndergroundSkeleton,-3001,-2993,3679,3687
+RLCraft_SmallUndergroundSkeleton,-3029,-3021,3606,3614
+UndergroundTreeoid,-2741,-2718,3639,3665
