@@ -42,8 +42,8 @@
 -3197 68 -3132 -3180 101 -3115 SpiralTree.tml
 -3125 107 -3601 -3117 113 -3593 ShortTower.tml
 -3118 173 -3732 -3116 177 -3729 SkeletonHeadStatue.tml
--3117 64 -2882 -3112 67 -2875 PumpkinField.tml
 -3117 77 -3370 -3109 83 -3362 LargeStoneHouse.tml
+-3117 64 -2882 -3112 67 -2875 PumpkinField.tml
 -3089 62 -3131 -3074 70 -3122 Archway.tml
 -3086 66 -3256 -3077 74 -3248 WoodHouse_Intact.tml
 -3064 65 -3742 -3059 68 -3735 Melonfield.tml
@@ -68,8 +68,8 @@
 -2876 78 -3578 -2869 82 -3571 TinyFarmField.tml
 -2871 68 -3003 -2859 114 -2991 Tower-edit.tml
 -2870 67 -2910 -2865 70 -2903 Melonfield.tml
--2867 100 -2586 -2862 108 -2581 PillarBase.tml
 -2867 87 -2683 -2854 96 -2670 VolcanicVent.tml
+-2867 100 -2586 -2862 108 -2581 PillarBase.tml
 -2857 65 -2825 -2844 76 -2812 BlockHenge.tml
 -2847 70 4661 -2836 98 4672 FrozenTree.tml
 -2844 70 -3314 -2839 78 -3309 PillarBase.tml
@@ -85,8 +85,8 @@
 -2790 77 -3387 -2782 83 -3379 ShortTower.tml
 -2767 62 4698 -2755 66 4710 AncientFountain.tml
 -2765 87 -3470 -2761 95 -3466 SmallWell.tml
--2761 94 -2584 -2757 102 -2580 SmallWell.tml
 -2761 63 -2859 -2752 70 -2850 WoodHouse2_Ruined.tml
+-2761 94 -2584 -2757 102 -2580 SmallWell.tml
 -2755 66 -3019 -2743 111 -3007 TowerMedium.tml
 -2752 62 -3265 -2743 70 -3257 WoodHouse_Intact.tml
 -2746 74 -3697 -2738 80 -3689 ShortTower.tml
@@ -203,8 +203,8 @@
 3700 91 3322 3703 95 3325 StoneGrill.tml
 3701 97 3229 3713 110 3241 Igloo.tml
 3706 87 3149 3712 93 3155 SnowHouse1.tml
-3823 68 3368 3826 72 3370 SkeletonHeadStatue.tml
 3823 72 3201 3827 74 3205 EmeraldOreOutcrop.tml
+3823 68 3368 3826 72 3370 SkeletonHeadStatue.tml
 3832 70 3276 3838 76 3282 SnowHouse2.tml
 3891 69 3348 3902 97 3359 FrozenTree.tml
 4487 63 497 4517 100 527 PirateShip.tml

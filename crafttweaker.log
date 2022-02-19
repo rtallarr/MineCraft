@@ -1,24 +1,24 @@
 [PREINITIALIZATION][SERVER][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
-Pongo Sapiens
-Psyberition
-AdaraChristine
-BrÃ¸nsted
-IDroid
+WaterMoon
+Genryu
+Barrier
+JDaddy
+Spencer Gilbert
+Ivy_
+Tyrone McLean
+Zuniroa
+NerdyWhiteGuy
+Ncc1702
+TriosGaminG Pro
+SquidDev
 Quaternary
+Pongo Sapiens
+Yamraiha
 DreamThorn
 Robijnvogel
-JDaddy
 NickT
-Barrier
-Belathus
-Ncc1702
-Genryu
-Spencer Gilbert
-Niketats
-Peregrinus11
-NerdyWhiteGuy
-Yamraiha
 Jimmie L Hines Jr
+Psyberition
 If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 
 [PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
@@ -28,7 +28,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Shiv.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Shiv2.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:contenttweaker]: why.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 3ms
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 1ms
 [PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [contenttweaker]]
 [PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [contenttweaker]
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: LootTweaker_FMB.zs} as we are currently loading with a different loader
@@ -36,7 +36,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Shiv.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Shiv2.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Loading Script: {[0:contenttweaker]: why.zs}
-[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 171ms
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 168ms
 [INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
 [INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
 [INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [contenttweaker], [recipeevent | crafttweaker]]
@@ -631,7 +631,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] Altering Cauldron Brewing Recipe(s) for "potioncore:revival"
 [INITIALIZATION][SERVER][INFO] Script ending!
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Skipping file {[0:contenttweaker]: why.zs} as we are currently loading with a different loader
-[INITIALIZATION][SERVER][INFO] Completed script loading in: 268ms
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 231ms
 [POSTINITIALIZATION][SERVER][INFO] Removing recipes for various outputs
 [POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:spectralsilt_flaregun"
 [POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:flare_red"
@@ -1397,4 +1397,3 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool builder to table loottweaker:buildertable
 [SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool basement to table loottweaker:lostcitybasement
 [SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool common to table loottweaker:lostcitycommon
-[SERVER_STARTED][SERVER][INFO] Item <item:minecraft:skull:0> has not been found, trying to use a ghost representative. This message will only be printed once, all subsequent missing items will be handled the same way.

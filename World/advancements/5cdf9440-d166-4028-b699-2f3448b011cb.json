@@ -816,6 +816,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2022-02-18 22:11:32 -0300"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:iron_hammer": {
     "criteria": {
       "has_iron": "2022-02-17 22:21:53 -0300"
