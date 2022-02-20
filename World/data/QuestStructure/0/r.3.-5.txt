@@ -1,0 +1,7 @@
+ClayWaterMound1,1756,1767,-2588,-2578
+StoneBoulder,1749,1758,-2680,-2671
+PeacefulCrypt,1760,1776,-2673,-2649
+StonePlantBoulder,1692,1702,-2683,-2673
+P_VillageLibrary,1873,1889,-2686,-2667
+StonePlantBoulder,1896,1906,-2681,-2671
+SeasonsGreenhouse,1912,1922,-2700,-2688

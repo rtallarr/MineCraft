@@ -209,21 +209,27 @@
     },
     "done": true
   },
+  "armorunder:recipes/misc/warm_liner_material": {
+    "criteria": {
+      "has_heating_goo": "2022-02-20 17:44:50 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2022-02-16 23:42:17 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2022-02-19 01:44:17 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2022-02-19 01:43:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2022-02-19 01:44:17 -0300"
     },
     "done": true
   },
@@ -500,8 +506,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2022-02-20 19:31:39 -0300",
       "zombie_villager": "2022-02-17 23:25:30 -0300",
       "skeleton": "2022-02-17 11:30:08 -0300",
+      "husk": "2022-02-20 18:49:51 -0300",
       "zombie": "2022-02-16 23:53:13 -0300",
       "cave_spider": "2022-02-17 12:49:15 -0300",
       "witch": "2022-02-17 11:30:26 -0300",
@@ -561,6 +569,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2022-02-18 18:27:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_block": {
+    "criteria": {
+      "has_brick": "2022-02-20 19:24:26 -0300"
     },
     "done": true
   },
@@ -944,12 +958,14 @@
       "extreme_hills_with_trees": "2022-02-17 23:15:33 -0300",
       "forest_hills": "2022-02-19 02:49:59 -0300",
       "plains": "2022-02-19 03:09:28 -0300",
+      "ice_mountains": "2022-02-20 16:56:18 -0300",
       "taiga": "2022-02-16 23:36:07 -0300",
       "taiga_hills": "2022-02-16 23:37:00 -0300",
       "ocean": "2022-02-19 01:37:44 -0300",
       "extreme_hills": "2022-02-16 23:42:57 -0300",
       "roofed_forest": "2022-02-19 03:14:49 -0300",
-      "river": "2022-02-17 12:51:06 -0300"
+      "river": "2022-02-17 12:51:06 -0300",
+      "stone_beach": "2022-02-20 16:44:01 -0300"
     },
     "done": false
   },
@@ -1106,6 +1122,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-02-18 18:27:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2022-02-20 19:24:26 -0300"
     },
     "done": true
   },
@@ -1435,6 +1457,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2022-02-20 17:05:15 -0300",
       "cooked_beef": "2022-02-19 02:55:21 -0300",
       "baked_potato": "2022-02-18 11:32:11 -0300",
       "pumpkin_pie": "2022-02-17 12:05:21 -0300",
@@ -1442,6 +1465,7 @@
       "bread": "2022-02-16 23:45:48 -0300",
       "golden_apple": "2022-02-18 17:31:25 -0300",
       "cooked_chicken": "2022-02-17 13:17:59 -0300",
+      "mushroom_stew": "2022-02-20 19:18:34 -0300",
       "carrot": "2022-02-18 12:37:37 -0300"
     },
     "done": false
@@ -1869,6 +1893,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2022-02-18 10:49:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2022-02-20 16:34:32 -0300"
     },
     "done": true
   },
@@ -2391,6 +2421,12 @@
   "defiledlands:recipes/baubles/phytoprostasia_amulet": {
     "criteria": {
       "has_material": "2022-02-18 19:17:39 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick": {
+    "criteria": {
+      "has_netherbrick": "2022-02-20 18:44:09 -0300"
     },
     "done": true
   },

@@ -10,3 +10,11 @@ StoneBoulder,-3027,-3018,-2003,-1994
 StonePlantMound2,-3069,-3057,-2008,-1995
 StonePlantMound1,-3068,-3062,-2011,-2005
 RLCraft_SmallUndergroundSkeleton,-3051,-3043,-1806,-1798
+RLCraft_BasicCaveSpider,-2900,-2900,-1651,-1651
+RLCraft_UndergroundRuin1,-2903,-2894,-1654,-1645
+UndergroundCrypt,-2897,-2883,-1778,-1750
+StonePlantMound2,-2817,-2805,-1691,-1678
+StonePlantMound3,-2823,-2814,-1570,-1559
+ShrineSmallWater,-2661,-2653,-1780,-1772
+RLCraft_SmallUndergroundSkeleton,-2589,-2581,-1939,-1931
+StonePlantMound1,-2594,-2588,-1948,-1942

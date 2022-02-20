@@ -1,0 +1,3 @@
+PeacefulCrypt,-3782,-3766,4049,4073
+StoneIceBoulder1,-3613,-3603,3963,3973
+StoneIceBoulder2,-3597,-3588,3940,3949

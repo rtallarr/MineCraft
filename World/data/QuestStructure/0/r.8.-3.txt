@@ -98,3 +98,4 @@ VillageTriplets,4362,4376,-1850,-1836
 VillageForgeLarge,4358,4374,-1813,-1801
 SeasonsGreenhouse,4358,4370,-1872,-1862
 VillageInn,4379,4406,-1903,-1883
+StonePlantMound1,4204,4210,-1810,-1804

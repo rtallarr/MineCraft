@@ -201,3 +201,11 @@ StonePlantMound,-2472,-2467,-2251,-2246
 StoneBoulder,-2536,-2527,-2103,-2094
 StonePlantMound1,-2491,-2485,-2081,-2075
 StonePlantMound2,-2538,-2526,-2070,-2057
+StonePlantMound1,-2441,-2435,-2135,-2129
+ClayWaterMound1,-2436,-2425,-2096,-2086
+StonePlantMound,-2377,-2372,-2180,-2175
+StonePlantMound,-2379,-2374,-2095,-2090
+StonePlantMound2,-2352,-2340,-2110,-2097
+RLCraft_DecentCaveSpider,-2317,-2317,-2261,-2261
+RLCraft_UndergroundRuin2,-2322,-2312,-2266,-2259
+RLCraft_UndergroundFarm,-2170,-2127,-2255,-2213

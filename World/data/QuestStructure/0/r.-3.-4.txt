@@ -1,0 +1,2 @@
+RLCraft_DecentZombie,-2018,-2018,-2261,-2261
+RLCraft_UndergroundRuin2,-2023,-2013,-2266,-2259

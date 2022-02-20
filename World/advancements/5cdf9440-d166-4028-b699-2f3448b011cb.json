@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2022-02-20 19:28:35 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_the_recipe": "2022-02-18 00:32:00 -0300"
@@ -246,6 +252,7 @@
       "apple": "2022-02-18 12:15:54 -0300",
       "bread": "2022-02-18 12:10:25 -0300",
       "rotten_flesh": "2022-02-17 22:16:50 -0300",
+      "golden_carrot": "2022-02-20 18:53:30 -0300",
       "cooked_chicken": "2022-02-19 01:09:49 -0300",
       "carrot": "2022-02-18 12:24:11 -0300"
     },
@@ -254,6 +261,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2022-02-17 22:15:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2022-02-20 18:54:42 -0300"
     },
     "done": true
   },
@@ -528,6 +541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2022-02-20 19:06:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2022-02-18 00:13:35 -0300"
@@ -561,6 +580,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2022-02-17 22:16:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2022-02-20 19:28:35 -0300"
     },
     "done": true
   },
@@ -621,6 +646,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2022-02-17 23:43:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2022-02-20 18:54:42 -0300"
     },
     "done": true
   },
@@ -1088,6 +1119,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2022-02-20 19:06:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2022-02-18 13:30:04 -0300"
@@ -1396,6 +1433,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_block": {
+    "criteria": {
+      "has_the_recipe": "2022-02-20 18:24:40 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2022-02-18 12:17:04 -0300"
@@ -1435,6 +1478,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-02-19 01:13:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2022-02-20 18:24:40 -0300"
     },
     "done": true
   }
