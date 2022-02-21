@@ -1449,6 +1449,12 @@
     },
     "done": true
   },
+  "spartanweaponry:saber": {
+    "criteria": {
+      "craft": "2022-02-21 02:48:43 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2022-02-17 12:46:21 -0300"
