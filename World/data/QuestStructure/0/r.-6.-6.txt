@@ -12,3 +12,6 @@ MysticalTree1,-3256,-3245,-3226,-3213
 StoneBoulder,-3255,-3246,-3099,-3090
 StoneBoulder,-3298,-3289,-3261,-3252
 SmallAbandonedMine,-3296,-3271,-3258,-3243
+StonePlantMound3,-3196,-3187,-3414,-3403
+StonePlantMound2,-3247,-3234,-3587,-3575
+StonePlantMound2,-3274,-3261,-3494,-3482

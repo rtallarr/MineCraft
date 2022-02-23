@@ -1,0 +1,13 @@
+ClayWaterMound1,-4438,-4428,-889,-878
+RLCraft_SmallUndergroundSkeleton,-4427,-4419,-897,-889
+P_VillageBlacksmith,-4555,-4522,-793,-779
+VillageMarketplace,-4567,-4553,-812,-798
+P_Village2Story,-4551,-4538,-835,-829
+VillageTriplets,-4567,-4553,-834,-820
+RLCraft_FriendlyOutpost,-4406,-4338,-966,-927
+PeacefulCrypt,-4556,-4540,-871,-847
+StonePlantMound,-4555,-4550,-674,-669
+VillageWoodMill,-4602,-4586,-813,-800
+SeasonsGreenhouse,-4602,-4590,-793,-783
+P_VillageFarmhouse,-4602,-4590,-776,-764
+VillageForgeLarge,-4602,-4590,-761,-745

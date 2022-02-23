@@ -1,0 +1,11 @@
+ShrineSmallFire,-4868,-4858,4485,4495
+UndergroundTreeoid,-4766,-4743,4450,4476
+StoneIceBoulder,-4829,-4820,4398,4408
+MeteorSite,-4766,-4751,4381,4411
+StoneIceBoulder,-4833,-4824,4365,4375
+RLCraft_BasicZombie,-4900,-4900,4516,4516
+RLCraft_UndergroundRuin1,-4903,-4894,4510,4519
+StoneIceBoulder1,-4758,-4748,4594,4604
+RLCraft_BasicWitch,-4676,-4676,4593,4593
+RLCraft_UndergroundRuin1,-4682,-4673,4587,4596
+StoneIceBoulder3,-4656,-4646,4590,4600

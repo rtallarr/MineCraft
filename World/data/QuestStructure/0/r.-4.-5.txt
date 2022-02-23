@@ -6,3 +6,8 @@ StonePlantMound,-2505,-2500,-2956,-2951
 StonePlantBoulder,-2506,-2496,-2873,-2863
 ShrineSmallAir,-2356,-2348,-3073,-3065
 StonePlantMound3,-2297,-2286,-3004,-2995
+StonePlantBoulder,-2370,-2360,-2815,-2805
+StoneLeafMound,-2343,-2334,-2856,-2849
+StonePlantBoulder,-2292,-2282,-2864,-2854
+WoodThorn,-2258,-2247,-2897,-2886
+SmallWoodenCottage1,-2214,-2208,-2871,-2860
