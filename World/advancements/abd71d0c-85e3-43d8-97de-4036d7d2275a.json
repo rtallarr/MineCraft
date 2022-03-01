@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2022-02-28 18:21:22 -0300"
+    },
+    "done": true
+  },
   "defiledlands:recipes/misc/foul_candy": {
     "criteria": {
       "has_material": "2022-02-18 12:19:50 -0300"
@@ -227,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2022-02-28 17:52:07 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2022-02-18 19:35:40 -0300"
@@ -254,6 +266,12 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2022-02-17 12:13:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2022-02-28 18:05:47 -0300"
     },
     "done": true
   },
@@ -307,6 +325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2022-02-28 18:21:22 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2022-02-17 11:28:37 -0300"
@@ -322,6 +346,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-02-17 12:40:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2022-02-28 17:52:07 -0300"
     },
     "done": true
   },
@@ -589,6 +619,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_block": {
+    "criteria": {
+      "has_brick": "2022-02-28 18:20:03 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-02-17 12:40:33 -0300"
@@ -664,6 +700,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-02-18 18:59:14 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2022-02-28 18:21:22 -0300"
     },
     "done": true
   },
@@ -1138,6 +1180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2022-02-28 18:20:03 -0300"
+    },
+    "done": true
+  },
   "defiledlands:recipes/tools/scarlite_razor": {
     "criteria": {
       "has_material": "2022-02-18 15:50:30 -0300"
@@ -1213,6 +1261,12 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2022-02-23 17:41:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2022-02-28 21:09:03 -0300"
     },
     "done": true
   },
@@ -1446,6 +1500,7 @@
       "baked_potato": "2022-02-18 00:12:50 -0300",
       "apple": "2022-02-18 00:32:17 -0300",
       "potato": "2022-02-18 00:41:52 -0300",
+      "cooked_cod": "2022-02-28 22:20:09 -0300",
       "pumpkin_pie": "2022-02-19 01:22:05 -0300",
       "bread": "2022-02-17 11:23:34 -0300",
       "golden_apple": "2022-02-20 19:09:29 -0300",
@@ -1555,6 +1610,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-02-18 18:59:14 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2022-02-28 17:52:07 -0300"
     },
     "done": true
   },
