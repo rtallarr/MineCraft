@@ -5,3 +5,8 @@ StonePlantMound2,-2512,-2499,-3220,-3208
 P_Deqing,-2577,-2530,-3107,-3055
 StonePlantMound,-2424,-2419,-3331,-3326
 UndergroundCrypt,-2375,-2347,-3356,-3342
+RLCraft_SmallUndergroundSkeleton,-2556,-2548,-3556,-3548
+UndergroundCrypt,-2281,-2253,-3543,-3529
+ShrineSmallAir,-2258,-2250,-3385,-3377
+SmallWoodenCottage2,-2248,-2240,-3474,-3466
+Tree_Oak_TheMushroomOak_v3,-2238,-2188,-3336,-3277
