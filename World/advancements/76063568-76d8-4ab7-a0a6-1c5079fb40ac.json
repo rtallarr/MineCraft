@@ -629,6 +629,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/baubles/scarlite_ring": {
+    "criteria": {
+      "has_material": "2022-03-01 23:21:52 -0300"
+    },
+    "done": true
+  },
   "defiledlands:recipes/material/remorseful_gem": {
     "criteria": {
       "has_material": "2022-02-21 01:12:13 -0300"
@@ -854,6 +860,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2022-02-17 12:38:09 -0300"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/calling_stone": {
+    "criteria": {
+      "has_material": "2022-03-01 23:21:52 -0300"
     },
     "done": true
   },
@@ -1179,6 +1191,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2022-02-20 19:24:26 -0300"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/scarlite_razor": {
+    "criteria": {
+      "has_material": "2022-03-01 23:21:52 -0300"
     },
     "done": true
   },
@@ -1573,6 +1591,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2022-02-16 23:51:18 -0300"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/scarlite_reaver": {
+    "criteria": {
+      "has_material": "2022-03-01 23:21:52 -0300"
     },
     "done": true
   },
@@ -2326,6 +2350,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/concussion_smasher": {
+    "criteria": {
+      "has_material": "2022-03-01 23:21:52 -0300"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2022-02-18 19:00:02 -0300"
@@ -2341,6 +2371,12 @@
   "defiledlands:recipes/tools/umbra_blaster": {
     "criteria": {
       "has_material": "2022-02-18 19:17:39 -0300"
+    },
+    "done": true
+  },
+  "defiledlands:main/scarlite": {
+    "criteria": {
+      "scarlite": "2022-03-01 23:21:52 -0300"
     },
     "done": true
   },
@@ -2533,6 +2569,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2022-02-16 23:42:17 -0300"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/healing_pad": {
+    "criteria": {
+      "has_material": "2022-03-01 23:21:52 -0300"
     },
     "done": true
   },
