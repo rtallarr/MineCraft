@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/misc/foul_candy": {
+    "criteria": {
+      "has_material": "2022-03-03 14:28:32 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2022-02-16 23:41:34 -0300"
@@ -320,6 +326,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-02-17 12:28:14 -0300"
+    },
+    "done": true
+  },
+  "armorunder:recipes/misc/cool_liner_material": {
+    "criteria": {
+      "has_cooling_goo": "2022-03-03 13:41:07 -0300"
     },
     "done": true
   },
@@ -2425,6 +2437,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2022-02-17 11:31:05 -0300"
+    },
+    "done": true
+  },
+  "armorunder:recipes/misc/armor_cool_liners": {
+    "criteria": {
+      "has_cool_liner_material": "2022-03-03 13:41:17 -0300"
     },
     "done": true
   },
