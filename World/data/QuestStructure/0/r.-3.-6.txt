@@ -133,3 +133,8 @@ StoneMazeSpiderRoom,-1645,-1640,-3427,-3422
 StoneMazePath,-1645,-1643,-3433,-3431
 StoneMazePath,-1648,-1646,-3433,-3431
 StoneMazePagoda,-1684,-1637,-3433,-3386
+RLCraft_DecentSkeleton,-1951,-1951,-3538,-3538
+RLCraft_UndergroundRuin3,-1953,-1945,-3543,-3535
+RLCraft_BasicZombie,-1892,-1892,-3556,-3556
+RLCraft_UndergroundRuin1,-1895,-1886,-3562,-3553
+BlazeSpawnerCrystal,-1861,-1855,-3398,-3392

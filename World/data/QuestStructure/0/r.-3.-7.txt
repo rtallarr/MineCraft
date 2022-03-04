@@ -1,0 +1,3 @@
+RLCraft_BasicZombie,-1972,-1972,-3634,-3634
+RLCraft_UndergroundRuin1,-1975,-1966,-3637,-3628
+PeacefulCrypt,-1916,-1892,-3594,-3578

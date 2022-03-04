@@ -24,3 +24,14 @@ StonePlantMound4,1668,1675,-2479,-2472
 StoneBoulder,2029,2038,-2440,-2431
 SmallWoodenCottage2,2025,2033,-2315,-2307
 BrickHenge,2018,2034,-2287,-2271
+RLCraft_SmallUndergroundSkeleton,1989,1997,-2151,-2143
+StonePlantBoulder,1931,1941,-2156,-2146
+RLCraft_SmallUndergroundSkeleton,2025,2033,-2084,-2076
+RLCraft_SmallUndergroundSkeleton,2039,2047,-2081,-2073
+RLCraft_BasicWitch,1839,1839,-2072,-2072
+RLCraft_UndergroundRuin1,1836,1845,-2078,-2069
+DinosaurSkeleton,1788,1797,-2207,-2161
+StonePlantMound,1809,1814,-2083,-2078
+PeacefulCrypt,1821,1837,-2062,-2038
+RLCraft_DecentSpider,1721,1721,-2111,-2111
+RLCraft_UndergroundRuin2,1716,1726,-2116,-2109

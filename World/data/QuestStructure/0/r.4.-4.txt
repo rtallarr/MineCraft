@@ -1,0 +1,8 @@
+StoneBoulder,2072,2081,-2506,-2497
+StonePlantMound,2112,2117,-2415,-2410
+StonePlantMound2,2083,2096,-2517,-2505
+StoneLeafMound,2127,2134,-2447,-2438
+StoneBoulder,2138,2147,-2256,-2247
+StonePlantMound,2143,2148,-2239,-2234
+StoneLeafMound,2158,2165,-2198,-2189
+SmallWoodenCottage,2054,2062,-2116,-2105

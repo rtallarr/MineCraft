@@ -1,1 +1,3 @@
 DinosaurSkull,1819,1838,-1668,-1657
+StonePlantMound2,1907,1919,-2043,-2030
+SmallWoodenCottage1,1860,1871,-2004,-1998
