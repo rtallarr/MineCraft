@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2022-03-05 02:17:19 -0300"
+    },
+    "done": true
+  },
   "defiledlands:recipes/misc/foul_candy": {
     "criteria": {
       "has_material": "2022-02-18 12:19:50 -0300"
@@ -370,6 +376,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2022-02-28 17:52:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2022-03-05 02:17:19 -0300"
     },
     "done": true
   },
@@ -1282,6 +1294,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2022-03-05 00:05:04 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_the_recipe": "2022-02-18 00:20:07 -0300"
@@ -1534,6 +1552,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2022-03-05 01:21:24 -0300"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:stone_hammer": {
     "criteria": {
       "has_stone": "2022-02-17 12:30:07 -0300"
@@ -1568,9 +1592,11 @@
       "potato": "2022-02-18 00:41:52 -0300",
       "cooked_cod": "2022-02-28 22:20:09 -0300",
       "pumpkin_pie": "2022-02-19 01:22:05 -0300",
+      "raw_salmon": "2022-03-04 17:47:41 -0300",
       "bread": "2022-02-17 11:23:34 -0300",
       "golden_apple": "2022-02-20 19:09:29 -0300",
       "cookie": "2022-02-18 13:53:58 -0300",
+      "raw_cod": "2022-03-04 21:32:00 -0300",
       "cooked_chicken": "2022-02-17 23:45:09 -0300",
       "mushroom_stew": "2022-02-18 19:39:53 -0300",
       "cooked_salmon": "2022-03-03 19:51:22 -0300",
@@ -1749,6 +1775,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2022-02-17 12:30:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2022-03-05 01:26:17 -0300"
     },
     "done": true
   },

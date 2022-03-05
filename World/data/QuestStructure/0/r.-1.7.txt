@@ -1,0 +1,12 @@
+SmallOutpost,-1034,-1004,3751,3773
+StonePlantMound,-1012,-1007,3676,3681
+RLCraft_Vineyard,-970,-950,3650,3678
+VillageLargeLibrary,-991,-971,3659,3678
+VillageTriplets,-970,-956,3633,3647
+P_VillageLibrary,-1000,-981,3622,3638
+RLCraft_BasicWitch,-922,-922,3706,3706
+RLCraft_UndergroundRuin1,-928,-919,3700,3709
+P_VillageFarmhouse,-970,-958,3599,3611
+RLCraft_PlainsCamp,-1016,-977,3573,3619
+VillageForgeLarge,-940,-928,3602,3618
+VillageGuardTower,-940,-928,3585,3597

@@ -556,6 +556,7 @@
       "husk": "2022-02-20 18:49:51 -0300",
       "zombie": "2022-02-16 23:53:13 -0300",
       "cave_spider": "2022-02-17 12:49:15 -0300",
+      "silverfish": "2022-03-05 01:42:57 -0300",
       "witch": "2022-02-17 11:30:26 -0300",
       "spider": "2022-02-17 11:25:52 -0300",
       "creeper": "2022-02-17 23:27:19 -0300",
@@ -566,6 +567,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2022-02-17 23:55:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2022-03-05 00:18:19 -0300"
     },
     "done": true
   },
@@ -1526,6 +1533,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2022-03-05 01:21:24 -0300"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:stone_hammer": {
     "criteria": {
       "has_stone": "2022-02-16 23:38:35 -0300"
@@ -1558,6 +1571,7 @@
       "baked_potato": "2022-02-18 11:32:11 -0300",
       "porkchop": "2022-02-28 22:32:25 -0300",
       "apple": "2022-02-21 00:52:45 -0300",
+      "potato": "2022-03-05 03:17:08 -0300",
       "cooked_cod": "2022-03-01 19:32:22 -0300",
       "pumpkin_pie": "2022-02-17 12:05:21 -0300",
       "mutton": "2022-02-16 23:52:05 -0300",
@@ -1738,6 +1752,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2022-02-16 23:42:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2022-03-05 01:21:57 -0300"
     },
     "done": true
   },

@@ -15,3 +15,14 @@ SmallAbandonedMine,-3296,-3271,-3258,-3243
 StonePlantMound3,-3196,-3187,-3414,-3403
 StonePlantMound2,-3247,-3234,-3587,-3575
 StonePlantMound2,-3274,-3261,-3494,-3482
+StonePlantMound1,-3302,-3296,-3440,-3434
+StonePlantMound4,-3297,-3290,-3420,-3413
+StatueTemple,-3363,-3261,-3394,-3323
+RLCraft_DecentWitch,-3374,-3374,-3322,-3322
+RLCraft_UndergroundRuin2,-3376,-3369,-3327,-3317
+RLCraft_BasicWitch,-3430,-3430,-3347,-3347
+RLCraft_UndergroundRuin1,-3433,-3424,-3350,-3341
+StonePlantBoulder,-3328,-3318,-3496,-3486
+StonePlantMound4,-3374,-3367,-3506,-3499
+StonePlantMound4,-3375,-3368,-3572,-3565
+StonePlantMound4,-3348,-3341,-3579,-3572
