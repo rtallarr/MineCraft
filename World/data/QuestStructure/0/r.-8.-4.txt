@@ -97,3 +97,4 @@ RLCraft_DecentWitch,-4129,-4129,-2280,-2280
 RLCraft_UndergroundRuin3,-4131,-4123,-2285,-2277
 RLCraft_SmallUndergroundSkeleton,-4141,-4133,-2235,-2227
 StoneLeafMound,-4417,-4408,-2246,-2239
+SmallWoodenCottage,-4490,-4479,-2267,-2259

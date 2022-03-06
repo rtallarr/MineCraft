@@ -54,3 +54,4 @@ StoneBoulder,-3901,-3892,-3242,-3233
 Tree_Oak_TheMushroomOak_v3,-3935,-3885,-3423,-3364
 StoneBoulder,-3870,-3861,-3441,-3432
 RLCraft_PlainsCamp,-3982,-3936,-3454,-3415
+Flagship,-4088,-4045,-3576,-3461
