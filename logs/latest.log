@@ -4926,3 +4926,24 @@ Caused by: java.lang.ClassCastException: cursedflames.bountifulbaubles.item.Item
 [18:12:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: sacoPapaya moved wrongly!
 [18:14:32] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [18:16:02] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[18:21:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: sacoPapaya's Roc  Lvl 9 (vehicle of sacoPapaya) moved too quickly! 17.67293655570711,0.0,14.602211959932447
+[18:21:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: sacoPapaya's Roc  Lvl 9 (vehicle of sacoPapaya) moved too quickly! 19.014931759460524,0.0,15.549132301590362
+[18:21:47] [Server thread/ERROR] [RLTweaker]: Entity moving too fast! HIGHEST 50.465743824719524 com.lycanitesmobs.core.entity.creature.EntityRoc - -3285.7114496466756 124.52599999999929 -3295.4722921335715 50.465743824719524 0.42 26.776487197688983 hurt time:0 dead:false pitch:-3.0467155 yaw:329.33582 attack target class:com.github.alexthe666.iceandfire.entity.EntityFireDragon
+[18:22:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: sacoPapaya's Roc  Lvl 9 moved wrongly!
+[18:22:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: sacoPapaya's Roc  Lvl 9 moved wrongly!
+[18:22:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: sacoPapaya's Roc  Lvl 9 moved wrongly!
+[18:22:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: sacoPapaya's Roc  Lvl 9 moved wrongly!
+[18:24:17] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[18:31:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: sacoPapaya lost connection: Disconnected
+[18:31:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sacoPapaya left the game
+[18:31:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[18:31:55] [Server thread/INFO] [AUW]: Stopping DS...
+[18:31:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:31:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:31:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:31:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[18:31:55] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (World) to config
+[18:31:55] [Server thread/INFO] [FML]: Unloading dimension 0
+[18:31:55] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:31:55] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:31:55] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
