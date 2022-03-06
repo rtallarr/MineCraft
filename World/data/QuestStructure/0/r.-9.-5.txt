@@ -1,0 +1,9 @@
+StonePlantMound3,-4632,-4623,-2636,-2625
+RLCraft_BasicSkeleton,-4619,-4619,-2666,-2666
+RLCraft_UndergroundRuin1,-4622,-4613,-2669,-2660
+RLCraft_SmallUndergroundSkeleton,-4633,-4625,-2902,-2894
+StonePlantMound3,-4717,-4706,-3018,-3009
+StonePlantMound1,-4741,-4735,-2946,-2940
+RLCraft_BasicSkeleton,-4745,-4745,-2967,-2967
+RLCraft_UndergroundRuin1,-4748,-4739,-2970,-2961
+StoneLeafMound,-4631,-4624,-3067,-3058

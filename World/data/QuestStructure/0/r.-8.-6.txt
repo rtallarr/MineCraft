@@ -1,0 +1,15 @@
+ShrineSmallWater,-4170,-4162,-3095,-3087
+RLCraft_DecentZombie,-4440,-4440,-3154,-3154
+RLCraft_UndergroundRuin2,-4442,-4435,-3159,-3149
+StonePlantMound3,-4409,-4400,-3286,-3275
+StonePlantBoulder,-4324,-4314,-3283,-3273
+RLCraft_DecentCaveSpider,-4171,-4171,-3240,-3240
+RLCraft_UndergroundRuin2,-4176,-4166,-3245,-3238
+BlazeSpawnerCrystal,-4106,-4100,-3347,-3341
+RLCraft_FriendlyOutpost,-4136,-4068,-3221,-3182
+RLCraft_BasicSkeleton,-4494,-4494,-3338,-3338
+RLCraft_UndergroundRuin1,-4497,-4488,-3341,-3332
+UndergroundCrypt,-4484,-4456,-3465,-3451
+RLCraft_DecentCaveSpider,-4572,-4572,-3468,-3468
+RLCraft_UndergroundRuin2,-4574,-4567,-3473,-3463
+StonePlantMound,-4593,-4588,-3219,-3214

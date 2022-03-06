@@ -88,3 +88,5 @@ StoneLeafMound,-3279,-3270,-3845,-3838
 StoneBoulder,-3309,-3300,-3793,-3784
 StonePlantMound1,-3300,-3294,-3854,-3848
 StonePlantMound,-3301,-3296,-3820,-3815
+StonePlantMound2,-3325,-3312,-3668,-3656
+SmallOutpost,-3327,-3305,-3800,-3770

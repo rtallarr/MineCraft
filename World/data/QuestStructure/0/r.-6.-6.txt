@@ -26,3 +26,9 @@ StonePlantBoulder,-3328,-3318,-3496,-3486
 StonePlantMound4,-3374,-3367,-3506,-3499
 StonePlantMound4,-3375,-3368,-3572,-3565
 StonePlantMound4,-3348,-3341,-3579,-3572
+StonePlantMound1,-3437,-3431,-3129,-3123
+RLCraft_SmallUndergroundSkeleton,-3436,-3428,-3436,-3428
+ElvenPond,-3427,-3398,-3443,-3413
+StoneLeafMound,-3437,-3430,-3528,-3519
+StonePlantBoulder,-3444,-3434,-3516,-3506
+Tree_Oak_TheMushroomOak_v3,-3429,-3379,-3548,-3489

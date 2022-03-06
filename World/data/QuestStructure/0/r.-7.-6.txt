@@ -1,0 +1,10 @@
+StonePlantBoulder,-3850,-3840,-3115,-3105
+StonePlantMound4,-3961,-3954,-3124,-3117
+StoneLeafMound,-4059,-4050,-3139,-3132
+RLCraft_DecentCaveSpider,-4011,-4011,-3150,-3150
+RLCraft_UndergroundRuin3,-4017,-4009,-3155,-3147
+StonePlantMound3,-3994,-3983,-3293,-3284
+StonePlantBoulder,-3966,-3956,-3359,-3349
+StonePlantMound1,-3954,-3948,-3152,-3146
+Tree_Oak_TheMushroomOak_v3,-3940,-3881,-3193,-3143
+SmallOutpost,-3953,-3923,-3396,-3374

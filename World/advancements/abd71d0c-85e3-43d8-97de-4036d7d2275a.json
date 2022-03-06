@@ -355,6 +355,12 @@
     },
     "done": true
   },
+  "armorunder:recipes/misc/cool_liner_material": {
+    "criteria": {
+      "has_cooling_goo": "2022-03-05 20:55:30 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2022-02-17 11:28:37 -0300"
@@ -601,6 +607,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2022-02-17 23:12:39 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2022-03-05 17:41:51 -0300"
     },
     "done": true
   },
@@ -1213,6 +1225,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_lapis": "2022-02-17 20:49:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2022-03-05 14:46:17 -0300"
     },
     "done": true
   },
@@ -2501,6 +2519,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2022-02-17 11:20:39 -0300"
+    },
+    "done": true
+  },
+  "armorunder:recipes/misc/armor_cool_liners": {
+    "criteria": {
+      "has_cool_liner_material": "2022-03-05 20:55:58 -0300"
     },
     "done": true
   },

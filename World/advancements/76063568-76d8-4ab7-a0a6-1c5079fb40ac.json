@@ -319,6 +319,7 @@
   },
   "defiledlands:main/kill_all_mobs": {
     "criteria": {
+      "shambler_twisted": "2022-03-05 18:03:54 -0300",
       "scuttler": "2022-02-18 19:26:53 -0300"
     },
     "done": false
@@ -1968,6 +1969,12 @@
   "defiledlands:recipes/tools/tears_flame": {
     "criteria": {
       "has_material": "2022-02-21 01:12:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2022-03-05 16:05:32 -0300"
     },
     "done": true
   },
