@@ -50,3 +50,6 @@ StoneBoulder,-3903,-3894,-2573,-2564
 StonePlantMound2,-4076,-4063,-2579,-2567
 RLCraft_SmallUndergroundSkeleton,-4073,-4065,-2566,-2558
 ClayWaterMound,-4081,-4074,-2578,-2570
+StonePlantMound4,-3729,-3722,-3056,-3049
+StonePlantMound1,-3744,-3738,-3031,-3025
+StoneBoulder,-3669,-3660,-3004,-2995

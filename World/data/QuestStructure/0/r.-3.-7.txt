@@ -108,3 +108,7 @@ StoneMazePath,-1669,-1667,-3586,-3584
 StoneMazePath,-1666,-1664,-3592,-3590
 StoneMazePath,-1666,-1664,-3595,-3593
 StoneMazePagoda,-1711,-1664,-3625,-3578
+PirateChest,-1769,-1765,-3687,-3683
+SmallWoodenCottage,-1933,-1922,-3696,-3688
+P_RuinedHouse,-1735,-1710,-3739,-3722
+AbandonedWoodTower,-2021,-1991,-3716,-3680

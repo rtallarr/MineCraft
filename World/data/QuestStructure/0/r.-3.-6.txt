@@ -158,3 +158,5 @@ StoneMazeEndChest,-1687,-1685,-3580,-3578
 StoneMazePath,-1666,-1664,-3583,-3581
 StoneMazePath,-1669,-1667,-3583,-3581
 StoneMazeEndChest,-1669,-1667,-3580,-3578
+RLCraft_DecentCaveSpider,-1938,-1938,-3077,-3077
+RLCraft_UndergroundRuin2,-1943,-1936,-3082,-3072

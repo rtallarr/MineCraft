@@ -212,3 +212,5 @@ StoneBoulder,-3370,-3361,-2316,-2307
 StonePlantMound1,-3368,-3362,-2502,-2496
 StoneBoulder,-3434,-3425,-2233,-2224
 StonePlantMound3,-3470,-3459,-2218,-2209
+StoneBoulder,-3294,-3285,-2492,-2483
+StonePlantMound1,-3299,-3293,-2414,-2408

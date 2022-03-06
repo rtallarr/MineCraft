@@ -1,0 +1,7 @@
+RLCraft_DecentWitch,-4681,-4681,-2501,-2501
+RLCraft_UndergroundRuin2,-4686,-4676,-2503,-2496
+MeteorSite,-4658,-4643,-2503,-2473
+StonePlantMound,-4626,-4621,-2406,-2401
+StonePlantMound4,-4622,-4615,-2351,-2344
+StonePlantMound,-4719,-4714,-2368,-2363
+RLCraft_4Towers,-4833,-4781,-2492,-2432

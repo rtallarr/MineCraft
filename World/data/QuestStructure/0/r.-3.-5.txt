@@ -1,0 +1,2 @@
+RLCraft_cryo_bit,-1848,-1823,-3057,-3032
+ShrineSmallFire,-1681,-1671,-2997,-2987

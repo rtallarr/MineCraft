@@ -90,3 +90,10 @@ StonePlantMound1,-3300,-3294,-3854,-3848
 StonePlantMound,-3301,-3296,-3820,-3815
 StonePlantMound2,-3325,-3312,-3668,-3656
 SmallOutpost,-3327,-3305,-3800,-3770
+StonePlantMound4,-3452,-3445,-3743,-3736
+StonePlantMound4,-3457,-3450,-3809,-3802
+RLCraft_SmallUndergroundSkeleton,-3457,-3449,-3934,-3926
+ClayWaterMound,-3476,-3468,-3818,-3811
+StoneLeafMound,-3483,-3474,-3803,-3796
+StoneBoulder,-3492,-3483,-3772,-3763
+StonePlantMound,-3565,-3560,-3946,-3941

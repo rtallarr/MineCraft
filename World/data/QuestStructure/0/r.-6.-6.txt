@@ -32,3 +32,4 @@ ElvenPond,-3427,-3398,-3443,-3413
 StoneLeafMound,-3437,-3430,-3528,-3519
 StonePlantBoulder,-3444,-3434,-3516,-3506
 Tree_Oak_TheMushroomOak_v3,-3429,-3379,-3548,-3489
+StoneLeafMound,-3458,-3451,-3492,-3483

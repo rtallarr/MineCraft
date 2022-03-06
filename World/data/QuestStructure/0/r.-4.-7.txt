@@ -68,3 +68,6 @@ StonePlantMound,-2548,-2543,-3895,-3890
 UndergroundTreeoid,-2525,-2502,-3858,-3832
 StoneLeafMound,-2516,-2507,-4041,-4034
 StonePlantMound1,-2481,-2475,-4034,-4028
+SmallWoodenCottage,-2315,-2307,-3808,-3797
+RLCraft_BasicSpider,-2317,-2317,-3804,-3804
+RLCraft_UndergroundRuin1,-2323,-2314,-3810,-3801
