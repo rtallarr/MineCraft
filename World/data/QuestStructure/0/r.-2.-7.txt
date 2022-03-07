@@ -1,0 +1,5 @@
+RLCraft_SmallUndergroundSkeleton,-1511,-1503,-4056,-4048
+ElvenPond,-1510,-1480,-3914,-3885
+ShrineSmallFire,-1340,-1330,-4017,-4007
+BlazeSpawnerCrystal,-1420,-1414,-3760,-3754
+SmallAbandonedMine,-1524,-1509,-3759,-3734

@@ -1,0 +1,2 @@
+AbandonedWoodTower,-3431,-3395,-5179,-5149
+UndergroundCrypt,-3227,-3199,-5198,-5184

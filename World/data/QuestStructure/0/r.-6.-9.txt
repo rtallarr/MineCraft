@@ -1,0 +1,16 @@
+StonePlantMound1,-3477,-3471,-4880,-4874
+RLCraft_SmallUndergroundSkeleton,-3349,-3341,-4913,-4905
+StonePlantMound1,-3327,-3321,-4870,-4864
+StonePlantMound4,-3316,-3309,-4836,-4829
+ForestBeacon,-3347,-3339,-4806,-4798
+P_PlainsCity,-3513,-3307,-4978,-4796
+UndergroundCultChamber,-3318,-3286,-4903,-4861
+DinosaurSkull,-3245,-3226,-4957,-4946
+StoneBoulder,-3376,-3367,-4763,-4754
+ShrineSmallFire,-3242,-3232,-4709,-4699
+RLCraft_cryo_bit,-3190,-3165,-4940,-4915
+SmallAbandonedMine,-3174,-3159,-4811,-4786
+StonePlantMound2,-3096,-3084,-5008,-4995
+DinosaurSkull,-3575,-3556,-4772,-4761
+RLCraft_DecentCaveSpider,-3263,-3263,-4658,-4658
+RLCraft_UndergroundRuin2,-3268,-3258,-4660,-4653

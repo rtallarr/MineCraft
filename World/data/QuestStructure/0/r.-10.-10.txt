@@ -1,0 +1,2 @@
+StoneIceBoulder2,-5225,-5216,-5126,-5117
+StoneIceBoulder1,-5237,-5227,-5138,-5128

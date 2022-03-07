@@ -1,0 +1,8 @@
+ShrineSmallAir,-5662,-5654,-2868,-2860
+StoneLeafMound,-5728,-5719,-2873,-2866
+StonePlantMound,-5747,-5742,-2882,-2877
+StonePlantMound,-5766,-5761,-3045,-3040
+StonePlantMound,-5817,-5812,-3025,-3020
+StoneLeafMound,-5811,-5802,-3013,-3006
+StonePlantMound1,-5848,-5842,-3000,-2994
+SmallWoodenCottage1,-5969,-5958,-3041,-3035

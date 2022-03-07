@@ -1,2 +1,6 @@
 StoneBoulder,-2486,-2477,-4136,-4127
 StonePlantMound2,-2548,-2535,-4160,-4148
+StoneIceBoulder,-2301,-2292,-4156,-4146
+StoneIceBoulder1,-2161,-2151,-4213,-4203
+StoneIceBoulder1,-2197,-2187,-4406,-4396
+RLCraft_SmallUndergroundSkeleton,-2129,-2121,-4444,-4436

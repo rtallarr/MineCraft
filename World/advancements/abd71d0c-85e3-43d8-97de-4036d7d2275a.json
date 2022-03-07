@@ -331,7 +331,8 @@
   },
   "defiledlands:main/discover_all_biomes": {
     "criteria": {
-      "hills_defiled": "2022-02-18 12:03:49 -0300"
+      "hills_defiled": "2022-02-18 12:03:49 -0300",
+      "ice_plains_defiled": "2022-03-06 23:13:24 -0300"
     },
     "done": false
   },
@@ -596,6 +597,7 @@
       "wither_skeleton": "2022-02-20 19:26:19 -0300",
       "zombie_villager": "2022-02-17 21:04:05 -0300",
       "slime": "2022-02-23 17:56:28 -0300",
+      "polar_bear": "2022-03-06 22:29:06 -0300",
       "vindicator": "2022-03-06 01:51:33 -0300",
       "skeleton": "2022-02-17 13:30:54 -0300",
       "husk": "2022-02-21 01:17:57 -0300",
@@ -698,6 +700,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-02-18 18:59:14 -0300"
+    },
+    "done": true
+  },
+  "spartanweaponry:pike": {
+    "criteria": {
+      "craft": "2022-03-06 19:17:37 -0300"
     },
     "done": true
   },
@@ -1100,23 +1108,30 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "ice_flats": "2022-02-19 01:10:29 -0300",
+      "frozen_river": "2022-03-06 21:59:44 -0300",
+      "taiga_cold_hills": "2022-03-06 22:32:43 -0300",
       "forest": "2022-02-19 02:50:18 -0300",
       "swampland": "2022-03-01 18:26:26 -0300",
+      "birch_forest": "2022-03-06 21:11:46 -0300",
       "deep_ocean": "2022-02-19 03:28:13 -0300",
       "beaches": "2022-02-17 11:20:20 -0300",
       "extreme_hills_with_trees": "2022-02-20 18:27:37 -0300",
       "forest_hills": "2022-02-19 02:49:54 -0300",
       "plains": "2022-02-19 01:13:05 -0300",
+      "savanna": "2022-03-06 21:14:39 -0300",
       "ice_mountains": "2022-03-03 20:17:12 -0300",
       "taiga": "2022-02-17 11:20:18 -0300",
       "redwood_taiga": "2022-03-01 14:49:17 -0300",
       "redwood_taiga_hills": "2022-02-17 11:17:14 -0300",
       "taiga_hills": "2022-02-18 11:51:05 -0300",
+      "birch_forest_hills": "2022-03-06 21:11:04 -0300",
+      "taiga_cold": "2022-03-06 22:01:37 -0300",
       "ocean": "2022-02-17 11:20:59 -0300",
       "extreme_hills": "2022-02-19 03:03:25 -0300",
       "roofed_forest": "2022-02-19 03:14:51 -0300",
       "cold_beach": "2022-02-19 01:12:38 -0300",
       "river": "2022-02-17 11:20:39 -0300",
+      "desert": "2022-03-06 21:13:00 -0300",
       "stone_beach": "2022-02-20 16:44:00 -0300"
     },
     "done": false
@@ -2143,6 +2158,12 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_red_flower": "2022-03-06 01:16:17 -0300"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/arrow_vilespine": {
+    "criteria": {
+      "has_material": "2022-03-06 23:17:03 -0300"
     },
     "done": true
   },

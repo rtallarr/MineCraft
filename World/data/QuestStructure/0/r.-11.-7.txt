@@ -1,0 +1,10 @@
+DinosaurSkeleton,-5802,-5756,-3602,-3593
+BigClockworkSite,-5895,-5860,-3626,-3581
+DinosaurSkull,-5808,-5789,-3640,-3629
+RLCraft_SmallUndergroundSkeleton,-5658,-5650,-3979,-3971
+RLCraft_BasicWitch,-5731,-5731,-3995,-3995
+RLCraft_UndergroundRuin1,-5734,-5725,-4001,-3992
+StonePlantMound1,-5663,-5657,-4007,-4001
+RLCraft_DecentCaveSpider,-5814,-5814,-4015,-4015
+RLCraft_UndergroundRuin3,-5816,-5808,-4018,-4010
+StoneBoulder,-5671,-5662,-4041,-4032

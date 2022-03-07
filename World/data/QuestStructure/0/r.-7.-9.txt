@@ -1,0 +1,13 @@
+RLCraft_SmallUndergroundSkeleton,-4093,-4085,-4947,-4939
+RLCraft_BasicSkeleton,-3938,-3938,-4952,-4952
+RLCraft_UndergroundRuin1,-3941,-3932,-4958,-4949
+SmallWoodenCottage,-3884,-3873,-5044,-5036
+RLCraft_SmallUndergroundSkeleton,-3877,-3869,-5076,-5068
+StoneIceBoulder1,-3874,-3864,-5095,-5085
+RLCraft_SmallUndergroundSkeleton,-3823,-3815,-4922,-4914
+StoneIceBoulder3,-3775,-3765,-5115,-5105
+RLCraft_BasicZombie,-3759,-3759,-4963,-4963
+RLCraft_UndergroundRuin1,-3765,-3756,-4966,-4957
+SmallOutpost,-3706,-3684,-5076,-5046
+StoneIceBoulder3,-3655,-3645,-4993,-4983
+PeacefulCrypt,-3596,-3580,-4780,-4756

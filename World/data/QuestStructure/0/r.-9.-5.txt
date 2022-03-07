@@ -9,3 +9,11 @@ RLCraft_UndergroundRuin1,-4748,-4739,-2970,-2961
 StoneLeafMound,-4631,-4624,-3067,-3058
 UndergroundCrypt,-4787,-4759,-2710,-2696
 MeteorSite,-4799,-4784,-2701,-2671
+StoneBoulder,-4745,-4736,-3046,-3037
+StonePlantBoulder,-4772,-4762,-3025,-3015
+RLCraft_SmallUndergroundSkeleton,-4776,-4768,-2894,-2886
+DinosaurSkeleton,-4906,-4860,-3072,-3063
+StoneLeafMound,-4938,-4931,-3065,-3056
+AbandonedWoodTower,-5006,-4970,-3059,-3029
+StoneBoulder,-5119,-5110,-2926,-2917
+Tree_Oak_TheMushroomOak_v3,-5120,-5070,-2955,-2896

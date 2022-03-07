@@ -1,0 +1,9 @@
+StoneIceBoulder3,-5064,-5054,-5150,-5140
+PeacefulCrypt,-5000,-4984,-5158,-5134
+StoneIceBoulder1,-5012,-5002,-5184,-5174
+RLCraft_cryo_bit,-4926,-4901,-5258,-5233
+RLCraft_BasicSpider,-4612,-4612,-5146,-5146
+RLCraft_UndergroundRuin1,-4615,-4606,-5152,-5143
+StoneIceBoulder2,-4766,-4757,-5322,-5313
+RLCraft_BasicWitch,-4637,-4637,-5417,-5417
+RLCraft_UndergroundRuin1,-4643,-4634,-5420,-5411

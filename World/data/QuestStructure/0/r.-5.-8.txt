@@ -194,3 +194,15 @@ RLCraft_UndergroundRuin1,-2655,-2646,-4226,-4217
 SmallWoodenCottage,-2848,-2837,-4162,-4154
 StoneLeafMound,-2944,-2935,-4102,-4095
 P_WitchDungeon,-3013,-2979,-4107,-4090
+RLCraft_BasicZombie,-3007,-3007,-4262,-4262
+RLCraft_UndergroundRuin1,-3010,-3001,-4268,-4259
+DinosaurSkull,-2927,-2908,-4525,-4514
+RLCraft_SmallUndergroundSkeleton,-2910,-2902,-4197,-4189
+RLCraft_DecentWitch,-2767,-2767,-4210,-4210
+RLCraft_UndergroundRuin2,-2772,-2762,-4215,-4208
+MeteorSite,-2781,-2766,-4315,-4285
+RLCraft_BasicZombie,-2712,-2712,-4242,-4242
+RLCraft_UndergroundRuin1,-2718,-2709,-4245,-4236
+StoneIceBoulder2,-2607,-2598,-4280,-4271
+RLCraft_DecentCaveSpider,-2589,-2589,-4294,-4294
+RLCraft_UndergroundRuin2,-2594,-2584,-4299,-4292

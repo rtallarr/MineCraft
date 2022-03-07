@@ -5,3 +5,8 @@ StonePlantMound,-4626,-4621,-2406,-2401
 StonePlantMound4,-4622,-4615,-2351,-2344
 StonePlantMound,-4719,-4714,-2368,-2363
 RLCraft_4Towers,-4833,-4781,-2492,-2432
+StoneBoulder,-4667,-4658,-2335,-2326
+RLCraft_4Towers,-4637,-4585,-2306,-2246
+RLCraft_DecentZombie,-4617,-4617,-2212,-2212
+RLCraft_UndergroundRuin2,-4622,-4612,-2214,-2207
+DinosaurSkull,-4730,-4711,-2200,-2189
