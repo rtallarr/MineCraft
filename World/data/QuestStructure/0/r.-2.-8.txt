@@ -1,0 +1,2 @@
+RLCraft_SmallUndergroundSkeleton,-1535,-1527,-4370,-4362
+WoodWallRemains,-1504,-1496,-4395,-4367

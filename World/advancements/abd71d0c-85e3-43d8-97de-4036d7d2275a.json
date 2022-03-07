@@ -2749,6 +2749,12 @@
     },
     "done": true
   },
+  "spartanweaponry:battleaxe": {
+    "criteria": {
+      "craft": "2022-03-07 14:52:44 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stonebrick": {
     "criteria": {
       "has_stonebrick": "2022-02-17 22:36:58 -0300"
