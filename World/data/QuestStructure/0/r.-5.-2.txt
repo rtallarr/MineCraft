@@ -1,2 +1,13 @@
 DinosaurSkull,-2922,-2911,-1484,-1465
 ForestBeacon,-2869,-2861,-1514,-1506
+RLCraft_DecentSpider,-2911,-2911,-1406,-1406
+RLCraft_UndergroundRuin2,-2913,-2906,-1411,-1401
+WoodWallRemains,-2804,-2796,-1328,-1300
+RLCraft_DecentCaveSpider,-2731,-2731,-1254,-1254
+RLCraft_UndergroundRuin3,-2734,-2726,-1260,-1252
+PeacefulCrypt,-2796,-2780,-1209,-1185
+StoneBoulder,-2766,-2757,-1156,-1147
+MysticalTree1,-2632,-2621,-1400,-1387
+RLCraft_BasicSpider,-2580,-2580,-1237,-1237
+RLCraft_UndergroundRuin1,-2586,-2577,-1240,-1231
+ShrineSmallWater,-2827,-2819,-1040,-1032

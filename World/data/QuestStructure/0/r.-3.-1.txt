@@ -1,0 +1,6 @@
+StonePlantBoulder,-1774,-1764,-958,-948
+RLCraft_UndergroundFarm,-1949,-1906,-885,-843
+RLCraft_BasicCaveSpider,-2008,-2008,-838,-838
+RLCraft_UndergroundRuin1,-2011,-2002,-841,-832
+HobbitHole,-1675,-1603,-1037,-940
+ShrineSmallWater,-1635,-1627,-863,-855

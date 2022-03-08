@@ -1,0 +1,5 @@
+P_SmallShip,-1889,-1869,-1313,-1307
+P_WitchDungeon,-1739,-1722,-1054,-1020
+RLCraft_SmallUndergroundSkeleton,-1697,-1689,-1096,-1088
+RLCraft_DecentSkeleton,-1599,-1599,-1088,-1088
+RLCraft_UndergroundRuin2,-1601,-1594,-1093,-1083

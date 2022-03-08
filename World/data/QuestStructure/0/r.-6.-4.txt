@@ -214,3 +214,15 @@ StoneBoulder,-3434,-3425,-2233,-2224
 StonePlantMound3,-3470,-3459,-2218,-2209
 StoneBoulder,-3294,-3285,-2492,-2483
 StonePlantMound1,-3299,-3293,-2414,-2408
+StonePlantMound4,-3321,-3314,-2306,-2299
+StonePlantMound1,-3272,-3266,-2311,-2305
+StonePlantMound,-3296,-3291,-2289,-2284
+P_WitchDungeon,-3378,-3344,-2259,-2242
+StoneBoulder,-3285,-3276,-2262,-2253
+StonePlantMound4,-3361,-3354,-2245,-2238
+RLCraft_SmallUndergroundSkeleton,-3129,-3121,-2218,-2210
+StonePlantMound3,-3376,-3367,-2193,-2182
+StoneBoulder,-3472,-3463,-2163,-2154
+StoneBoulder,-3514,-3505,-2146,-2137
+StonePlantMound2,-3435,-3422,-2054,-2042
+StoneBoulder,-3556,-3547,-2186,-2177

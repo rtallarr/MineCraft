@@ -1,0 +1,4 @@
+RLCraft_DecentWitch,-2353,-2353,-1059,-1059
+RLCraft_UndergroundRuin3,-2356,-2348,-1065,-1057
+RLCraft_BasicZombie,-2491,-2491,-1399,-1399
+RLCraft_UndergroundRuin1,-2494,-2485,-1405,-1396

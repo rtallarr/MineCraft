@@ -15,11 +15,14 @@
 -2670 29 -3285 -2662 36 -3277 LargeNetherHouse.tml
 -2654 14 -2798 -2646 21 -2790 LargeNetherHouse.tml
 -560 81 -365 -548 126 -353 TowerMedium.tml
+-545 12 -577 -535 21 -565 StoneHouseMruined.tml
+-488 19 -678 -479 30 -673 VanillaVillageChurch-r.tml
 -475 30 -450 -465 45 -440 DoomTower.tml
 -473 74 -329 -464 80 -321 NetherShrine.tml
 -410 26 -561 -400 37 -551 DoomHouse.tml
 -392 80 -400 -380 125 -388 TowerEasy.tml
 -391 15 -231 -386 20 -225 VanillaVillageCobbleHouse-r.tml
+-342 116 -730 -330 140 -718 Tower-ruined-short.tml
 -325 29 -512 -317 36 -504 LargeNetherHouse.tml
 -320 30 -241 -310 41 -231 DoomHouse.tml
 -201 89 -575 -189 135 -563 Tower-edit.tml

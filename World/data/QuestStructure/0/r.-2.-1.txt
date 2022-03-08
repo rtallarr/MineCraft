@@ -1,0 +1,10 @@
+RLCraft_UndergroundFarm,-1479,-1437,-833,-790
+ShrineSmallAir,-1408,-1400,-886,-878
+RLCraft_DecentCaveSpider,-1436,-1436,-687,-687
+RLCraft_UndergroundRuin3,-1439,-1431,-693,-685
+StoneMazePath,-1174,-1172,-1022,-1020
+StoneMazePath,-1159,-1157,-1022,-1020
+StoneMazeEndChest,-1162,-1160,-1022,-1020
+StoneMazePath,-1156,-1154,-1022,-1020
+RLCraft_DecentWitch,-1045,-1045,-877,-877
+RLCraft_UndergroundRuin3,-1050,-1042,-879,-871
