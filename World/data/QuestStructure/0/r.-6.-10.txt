@@ -1,2 +1,4 @@
 AbandonedWoodTower,-3431,-3395,-5179,-5149
 UndergroundCrypt,-3227,-3199,-5198,-5184
+ShrineSmallAir,-3315,-3307,-5259,-5251
+RLCraft_SmallUndergroundSkeleton,-3191,-3183,-5250,-5242
