@@ -1,0 +1,2 @@
+StoneLeafMound,-2045,-2036,-7512,-7505
+StonePlantMound4,-2020,-2013,-7577,-7570

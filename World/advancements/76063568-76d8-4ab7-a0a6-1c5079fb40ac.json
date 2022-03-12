@@ -574,6 +574,7 @@
       "vindicator": "2022-03-06 21:26:08 -0300",
       "skeleton": "2022-02-17 11:30:08 -0300",
       "husk": "2022-02-20 18:49:51 -0300",
+      "blaze": "2022-03-12 17:05:27 -0300",
       "zombie": "2022-02-16 23:53:13 -0300",
       "cave_spider": "2022-02-17 12:49:15 -0300",
       "silverfish": "2022-03-05 01:42:57 -0300",
@@ -635,6 +636,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2022-02-19 03:36:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2022-03-12 18:24:51 -0300"
     },
     "done": true
   },
@@ -1001,6 +1008,12 @@
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2022-02-17 23:55:25 -0300"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/storage/scarlite_block": {
+    "criteria": {
+      "has_material": "2022-03-12 14:48:48 -0300"
     },
     "done": true
   },
@@ -2571,6 +2584,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2022-02-16 23:51:17 -0300"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/storage/scarlite_block_uncraft": {
+    "criteria": {
+      "has_material": "2022-03-12 14:48:48 -0300"
     },
     "done": true
   },

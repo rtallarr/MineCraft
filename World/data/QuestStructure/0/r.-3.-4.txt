@@ -1,2 +1,12 @@
 RLCraft_DecentZombie,-2018,-2018,-2261,-2261
 RLCraft_UndergroundRuin2,-2023,-2013,-2266,-2259
+ShrineSmallAir,-1930,-1922,-2495,-2487
+ShrineSmallFire,-1906,-1896,-2362,-2352
+BlazeSpawnerCrystal,-1881,-1875,-2207,-2201
+RLCraft_DecentCaveSpider,-1926,-1926,-2180,-2180
+RLCraft_UndergroundRuin3,-1928,-1920,-2185,-2177
+RLCraft_BasicWitch,-1822,-1822,-2350,-2350
+RLCraft_UndergroundRuin1,-1828,-1819,-2353,-2344
+RLCraft_BasicSpider,-2009,-2009,-2096,-2096
+RLCraft_UndergroundRuin1,-2015,-2006,-2099,-2090
+P_SmallShip,-1787,-1781,-2240,-2220

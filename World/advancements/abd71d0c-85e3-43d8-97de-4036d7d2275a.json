@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2022-03-12 16:52:41 -0300"
+    },
+    "done": true
+  },
   "defiledlands:recipes/misc/torch_hephaestite": {
     "criteria": {
       "has_material": "2022-02-23 14:32:04 -0300"
@@ -673,6 +679,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2022-03-12 18:24:53 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2022-02-18 18:59:14 -0300"
@@ -1119,6 +1131,8 @@
       "forest_hills": "2022-02-19 02:49:54 -0300",
       "plains": "2022-02-19 01:13:05 -0300",
       "savanna": "2022-03-06 21:14:39 -0300",
+      "jungle_hills": "2022-03-12 18:14:48 -0300",
+      "jungle_edge": "2022-03-12 18:06:18 -0300",
       "ice_mountains": "2022-03-03 20:17:12 -0300",
       "taiga": "2022-02-17 11:20:18 -0300",
       "redwood_taiga": "2022-03-01 14:49:17 -0300",
@@ -1131,6 +1145,7 @@
       "roofed_forest": "2022-02-19 03:14:51 -0300",
       "cold_beach": "2022-02-19 01:12:38 -0300",
       "river": "2022-02-17 11:20:39 -0300",
+      "jungle": "2022-03-12 18:15:40 -0300",
       "desert": "2022-03-06 21:13:00 -0300",
       "stone_beach": "2022-02-20 16:44:00 -0300"
     },
@@ -2284,6 +2299,12 @@
   "mujmajnkraftsbettersurvival:iron_spear": {
     "criteria": {
       "has_iron": "2022-02-17 12:13:54 -0300"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "craft": "2022-03-12 14:59:41 -0300"
     },
     "done": true
   },

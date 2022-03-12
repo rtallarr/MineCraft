@@ -1,0 +1,4 @@
+RLCraft_DecentSkeleton,-3425,-3425,-6671,-6671
+RLCraft_UndergroundRuin2,-3430,-3420,-6673,-6666
+IceThorn2,-3303,-3291,-6672,-6662
+RLCraft_LargeUndergroundTown,-3311,-3174,-6746,-6633

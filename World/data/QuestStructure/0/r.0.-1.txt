@@ -245,3 +245,4 @@ P_SmallShip,-110,-90,-617,-611
 RLCraft_BasicSpider,192,192,-522,-522
 RLCraft_UndergroundRuin1,186,195,-528,-519
 UndergroundCultChamber,267,299,-685,-643
+RLCraft_SmallUndergroundSkeleton,477,485,-565,-557

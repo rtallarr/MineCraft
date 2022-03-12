@@ -31,3 +31,5 @@ BlazeSpawnerCrystal,1006,1012,-179,-173
 ClayWaterMound1,1004,1015,-149,-139
 RLCraft_DecentSpider,908,908,-477,-477
 RLCraft_UndergroundRuin2,903,913,-482,-475
+StonePlantMound3,579,590,-417,-408
+StonePlantBoulder,601,611,-455,-445

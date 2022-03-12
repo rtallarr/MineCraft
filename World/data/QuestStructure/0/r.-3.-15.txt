@@ -1,0 +1,6 @@
+RLCraft_DecentZombie,-1947,-1947,-7860,-7860
+RLCraft_UndergroundRuin3,-1953,-1945,-7863,-7855
+RLCraft_BasicZombie,-1735,-1735,-7689,-7689
+RLCraft_UndergroundRuin1,-1741,-1732,-7692,-7683
+RLCraft_DecentZombie,-2022,-2022,-7972,-7972
+RLCraft_UndergroundRuin2,-2027,-2017,-7974,-7967

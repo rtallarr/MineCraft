@@ -1,0 +1,4 @@
+DinosaurSkull,-4603,-4592,-7252,-7233
+StonePlantMound3,-4549,-4538,-7427,-7418
+ClayWaterMound,-4568,-4560,-7442,-7435
+RLCraft_cryo_bit,-4611,-4586,-7489,-7464
