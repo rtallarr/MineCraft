@@ -1,1 +1,11 @@
 ShrineSmallAir,4318,4326,-2711,-2703
+StonePlantMound4,4097,4104,-2746,-2739
+StonePlantMound4,4100,4107,-2630,-2623
+StonePlantMound3,4093,4102,-2849,-2838
+ClayWaterMound,4154,4162,-2916,-2909
+RLCraft_DecentWitch,4115,4115,-2935,-2935
+RLCraft_UndergroundRuin3,4110,4118,-2941,-2933
+StoneLeafMound,4171,4180,-2963,-2956
+UndergroundCrypt,4401,4429,-2905,-2891
+ShrineSmallWater,4495,4503,-2877,-2869
+StonePlantBoulder,4095,4105,-3044,-3034

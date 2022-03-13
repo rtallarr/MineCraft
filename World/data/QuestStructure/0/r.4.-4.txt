@@ -6,3 +6,13 @@ StoneBoulder,2138,2147,-2256,-2247
 StonePlantMound,2143,2148,-2239,-2234
 StoneLeafMound,2158,2165,-2198,-2189
 SmallWoodenCottage,2054,2062,-2116,-2105
+StoneBoulder,2279,2288,-2531,-2522
+StoneBoulder,2281,2290,-2512,-2503
+StoneLeafMound,2380,2387,-2516,-2507
+StonePlantMound,2412,2417,-2498,-2493
+RLCraft_DecentSpider,2484,2484,-2450,-2450
+RLCraft_UndergroundRuin3,2482,2490,-2455,-2447
+StonePlantMound1,2496,2502,-2449,-2443
+ShrineSmallAir,2538,2546,-2403,-2395
+PeacefulCrypt,2430,2446,-2423,-2399
+StonePlantMound2,2408,2421,-2407,-2395

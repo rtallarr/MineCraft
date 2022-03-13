@@ -1,0 +1,5 @@
+P_WizardTower,2652,2682,-2530,-2500
+RLCraft_BasicCaveSpider,2917,2917,-2473,-2473
+RLCraft_UndergroundRuin1,2914,2923,-2479,-2470
+SmallAbandonedOutpost,2894,2924,-2460,-2438
+P_WitchDungeon,2889,2923,-2403,-2386

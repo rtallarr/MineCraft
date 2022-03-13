@@ -4,3 +4,11 @@ StoneIceBoulder,-2301,-2292,-4156,-4146
 StoneIceBoulder1,-2161,-2151,-4213,-4203
 StoneIceBoulder1,-2197,-2187,-4406,-4396
 RLCraft_SmallUndergroundSkeleton,-2129,-2121,-4444,-4436
+RLCraft_DecentSpider,-2215,-2215,-4306,-4306
+RLCraft_UndergroundRuin3,-2217,-2209,-4309,-4301
+UndergroundCrypt,-2252,-2238,-4331,-4303
+StoneIceBoulder,-2267,-2258,-4357,-4347
+ShrineSmallFire,-2307,-2297,-4278,-4268
+UndergroundTreeoid,-2099,-2076,-4566,-4540
+StoneIceBoulder,-2182,-2173,-4480,-4470
+SmallWoodenCottage2,-2182,-2174,-4548,-4540

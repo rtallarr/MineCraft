@@ -17,3 +17,11 @@ StoneLeafMound,-4938,-4931,-3065,-3056
 AbandonedWoodTower,-5006,-4970,-3059,-3029
 StoneBoulder,-5119,-5110,-2926,-2917
 Tree_Oak_TheMushroomOak_v3,-5120,-5070,-2955,-2896
+StonePlantMound2,-4799,-4786,-2858,-2846
+P_Deqing,-4843,-4796,-2985,-2933
+ShrineSmallAir,-4844,-4836,-3017,-3009
+StonePlantMound,-4922,-4917,-2904,-2899
+StonePlantMound2,-4909,-4896,-2904,-2892
+RLCraft_PlainsCamp,-5063,-5017,-2892,-2853
+RLCraft_DecentSkeleton,-4965,-4965,-2753,-2753
+RLCraft_UndergroundRuin3,-4970,-4962,-2759,-2751

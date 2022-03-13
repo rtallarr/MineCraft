@@ -313,7 +313,8 @@
   },
   "defiledlands:main/discover_all_biomes": {
     "criteria": {
-      "hills_defiled": "2022-02-18 16:02:25 -0300"
+      "hills_defiled": "2022-02-18 16:02:25 -0300",
+      "plains_defiled": "2022-03-13 17:27:31 -0300"
     },
     "done": false
   },
@@ -553,6 +554,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2022-03-13 18:55:51 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2022-02-18 10:49:24 -0300"
@@ -708,6 +715,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2022-02-18 19:00:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-03-13 18:52:55 -0300"
     },
     "done": true
   },
@@ -1076,12 +1089,15 @@
       "ice_flats": "2022-03-06 22:53:56 -0300",
       "frozen_river": "2022-03-06 22:53:58 -0300",
       "forest": "2022-02-19 02:50:16 -0300",
+      "mesa_rock": "2022-03-13 17:29:15 -0300",
       "mushroom_island_shore": "2022-03-07 22:53:35 -0300",
       "swampland": "2022-03-06 15:56:31 -0300",
+      "birch_forest": "2022-03-13 17:30:26 -0300",
       "deep_ocean": "2022-02-19 03:28:13 -0300",
       "beaches": "2022-02-18 13:25:39 -0300",
       "extreme_hills_with_trees": "2022-02-17 23:15:33 -0300",
       "desert_hills": "2022-03-07 23:17:10 -0300",
+      "mesa": "2022-03-13 17:29:11 -0300",
       "forest_hills": "2022-02-19 02:49:59 -0300",
       "plains": "2022-02-19 03:09:28 -0300",
       "savanna": "2022-03-07 23:19:40 -0300",
@@ -2227,6 +2243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2022-03-13 18:53:04 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2022-02-16 23:51:17 -0300"
@@ -2242,6 +2264,12 @@
   "mujmajnkraftsbettersurvival:iron_spear": {
     "criteria": {
       "has_iron": "2022-02-16 23:42:17 -0300"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "craft": "2022-03-13 18:11:11 -0300"
     },
     "done": true
   },
@@ -2602,6 +2630,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-02-18 12:24:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-03-13 18:52:55 -0300"
     },
     "done": true
   },

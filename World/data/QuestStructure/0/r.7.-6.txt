@@ -1,0 +1,11 @@
+AbandonedWoodTower,3609,3645,-3116,-3086
+RLCraft_SmallUndergroundSkeleton,3973,3981,-3078,-3070
+StonePlantMound3,3976,3985,-3130,-3119
+SmallWoodenCottage2,3989,3997,-3108,-3100
+StonePlantMound,4052,4057,-3128,-3123
+StonePlantMound4,3792,3799,-3151,-3144
+StonePlantBoulder,3967,3977,-3176,-3166
+StonePlantMound2,4070,4082,-3191,-3178
+SmallWoodenCottage,3920,3931,-3300,-3292
+StonePlantMound1,3861,3867,-3323,-3317
+StonePlantBoulder,3963,3973,-3372,-3362

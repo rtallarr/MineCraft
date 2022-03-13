@@ -1,0 +1,7 @@
+ShrineSmallFire,-6151,-6141,-2950,-2940
+StonePlantMound,-6225,-6220,-2977,-2972
+StonePlantMound1,-6281,-6275,-3016,-3010
+StonePlantMound2,-6269,-6256,-3014,-3002
+RLCraft_BasicSpider,-6266,-6266,-2766,-2766
+RLCraft_UndergroundRuin1,-6269,-6260,-2772,-2763
+StonePlantMound3,-6333,-6324,-3065,-3054

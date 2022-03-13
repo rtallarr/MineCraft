@@ -1,0 +1,2 @@
+StonePlantMound1,4107,4113,-3139,-3133
+StonePlantMound4,4147,4154,-3202,-3195

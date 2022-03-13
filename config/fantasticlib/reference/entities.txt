@@ -86,10 +86,10 @@ advanced-fishing:custom_fish_hook
 advanced-fishing:lava_fish_hook
 advanced-fishing:fireproof_item
 aquaculture:custom_fish_hook
+quark:chest_passenger
 quark:dragon_breath_bottle
 quark:soul_powder
 quark:parrot_egg
-quark:chest_passenger
 quark:stoneling
 quark:archaeologist
 quark:foxhound

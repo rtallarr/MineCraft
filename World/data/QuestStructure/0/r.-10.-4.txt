@@ -1,0 +1,6 @@
+RLCraft_FriendlyOutpost,-5386,-5347,-2556,-2488
+RLCraft_DecentSkeleton,-5272,-5272,-2368,-2368
+RLCraft_UndergroundRuin3,-5278,-5270,-2371,-2363
+StoneLeafMound,-5130,-5121,-2515,-2508
+DinosaurSkull,-5530,-5511,-2437,-2426
+P_SeasidePort,-5458,-5430,-2357,-2332
