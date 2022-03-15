@@ -22,3 +22,7 @@ StonePlantMound3,-4898,-4887,-2442,-2433
 StonePlantMound2,-4950,-4938,-2463,-2450
 WoodWallRemains,-4971,-4943,-2468,-2460
 P_VillageHouse,-4853,-4842,-2298,-2289
+StonePlantMound,-4972,-4967,-2499,-2494
+P_VillageFarmhouse,-5042,-5030,-2464,-2452
+PeacefulCrypt,-5102,-5086,-2457,-2433
+StonePlantMound3,-5124,-5113,-2323,-2314

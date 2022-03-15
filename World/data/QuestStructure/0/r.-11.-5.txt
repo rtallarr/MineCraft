@@ -26,3 +26,4 @@ UndergroundTreeoid,-6108,-6082,-3019,-2996
 RLCraft_SmallUndergroundSkeleton,-6040,-6032,-3055,-3047
 RLCraft_DecentZombie,-6117,-6117,-2646,-2646
 RLCraft_UndergroundRuin2,-6122,-6115,-2651,-2641
+StoneBoulder,-5685,-5676,-2843,-2834

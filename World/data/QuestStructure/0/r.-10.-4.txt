@@ -4,3 +4,9 @@ RLCraft_UndergroundRuin3,-5278,-5270,-2371,-2363
 StoneLeafMound,-5130,-5121,-2515,-2508
 DinosaurSkull,-5530,-5511,-2437,-2426
 P_SeasidePort,-5458,-5430,-2357,-2332
+BlazeSpawnerCrystal,-5342,-5336,-2322,-2316
+StoneLeafMound,-5420,-5413,-2321,-2312
+StoneLeafMound,-5399,-5392,-2278,-2269
+StonePlantMound3,-5429,-5420,-2246,-2235
+RLCraft_SmallUndergroundSkeleton,-5594,-5586,-2234,-2226
+RLCraft_SmallUndergroundSkeleton,-5359,-5351,-2185,-2177

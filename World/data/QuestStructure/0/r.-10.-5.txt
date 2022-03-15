@@ -230,3 +230,4 @@ DinosaurSkeleton,-5583,-5574,-2764,-2718
 StonePlantBoulder,-5603,-5593,-2641,-2631
 StoneBoulder,-5563,-5554,-2767,-2758
 StonePlantMound,-5615,-5610,-2602,-2597
+StonePlantMound1,-5603,-5597,-2802,-2796
