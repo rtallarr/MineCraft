@@ -15,3 +15,7 @@ StonePlantMound4,-5841,-5834,-2324,-2317
 StonePlantMound4,-5924,-5917,-2551,-2544
 StonePlantMound4,-5944,-5937,-2523,-2516
 StonePlantMound3,-5638,-5627,-2266,-2257
+RLCraft_BasicZombie,-5796,-5796,-2233,-2233
+RLCraft_UndergroundRuin1,-5799,-5790,-2239,-2230
+UndergroundCultChamber,-6110,-6078,-2568,-2526
+P_Lighthouse,-6126,-6086,-2267,-2230

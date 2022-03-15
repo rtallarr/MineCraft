@@ -1,0 +1,3 @@
+SmallClockworkSite,-6173,-6154,-2554,-2532
+StonePlantMound1,-6237,-6231,-2365,-2359
+DesertWatchtower,-6351,-6341,-2270,-2260

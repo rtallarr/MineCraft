@@ -5,3 +5,7 @@ StonePlantMound2,-6269,-6256,-3014,-3002
 RLCraft_BasicSpider,-6266,-6266,-2766,-2766
 RLCraft_UndergroundRuin1,-6269,-6260,-2772,-2763
 StonePlantMound3,-6333,-6324,-3065,-3054
+RLCraft_DecentSkeleton,-6293,-6293,-2771,-2771
+RLCraft_UndergroundRuin2,-6298,-6288,-2776,-2769
+RLCraft_DecentZombie,-6378,-6378,-2715,-2715
+RLCraft_UndergroundRuin2,-6383,-6373,-2720,-2713
