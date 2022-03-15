@@ -1,5 +1,5 @@
 
-Loading options from: E:\onedrive\Escritorio\mine\World
+Loading options from: C:\Users\Rodrigo\Desktop\MineCraft\World
 tries_per_chunk_normal = 6
 chance_to_spawn_normal = 10.0
 templateInstancesMinDistance = 256.0

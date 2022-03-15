@@ -25,3 +25,5 @@ StonePlantMound2,-4909,-4896,-2904,-2892
 RLCraft_PlainsCamp,-5063,-5017,-2892,-2853
 RLCraft_DecentSkeleton,-4965,-4965,-2753,-2753
 RLCraft_UndergroundRuin3,-4970,-4962,-2759,-2751
+RLCraft_DecentZombie,-4837,-4837,-2655,-2655
+RLCraft_UndergroundRuin2,-4842,-4832,-2657,-2650

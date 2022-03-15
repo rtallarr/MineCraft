@@ -1,5 +1,44 @@
+Did not find any Building data for .\config\ruins_config\mutated_ice_flats, creating empty folder for it: failed
+Did not find any Building data for .\config\ruins_config\mutated_mesa, creating empty folder for it: failed
+Did not find any Building data for .\config\ruins_config\temperate_rainforest, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\woodlands, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\redwood_taiga_hills, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\taiga, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\taiga_hills, creating empty folder for it: failed
+Did not find any Building data for .\config\ruins_config\canyon, creating empty folder for it: failed
+Did not find any Building data for .\config\ruins_config\desert_defiled, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\redwood_taiga, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\autumnal_wooded_hills, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\extreme_hills_with_trees, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\mutated_mesa_clear_rock, creating empty folder for it: failed
+Did not find any Building data for .\config\ruins_config\jungle_hills, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\forest_tenebra, creating empty folder for it: failed
+Did not find any Building data for .\config\ruins_config\lush_hills, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\autumnal_woods, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\rocky_plateau, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\cold_beach, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\thicket, creating empty folder for it: failed
+Did not find any Building data for .\config\ruins_config\mutated_extreme_hills_with_trees, creating empty folder for it: failed
+Did not find any Building data for .\config\ruins_config\mutated_roofed_forest, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\mutated_jungle, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\plains_defiled, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\mushroom_island, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\mutated_swampland, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\arid_highland, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\meadow, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\mutated_desert, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\cliffs, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\forest_hills, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\glacier_spikes, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\mutated_mesa_rock, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\ice_flats, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\mutated_taiga_cold, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\desert_shrubland, creating empty folder for it: failed
+Did not find any Building data for .\config\ruins_config\birch_forest, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\forested_hills, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\forest_vilespine, creating empty folder for it: success
 
-Loading options from: E:\onedrive\Escritorio\mine\World\DIM-1
+Loading options from: C:\Users\Rodrigo\Desktop\MineCraft\World\DIM-1
 tries_per_chunk_normal = 6
 chance_to_spawn_normal = 10.0
 templateInstancesMinDistance = 256.0

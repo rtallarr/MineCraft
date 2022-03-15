@@ -1,2 +1,3 @@
 RLCraft_SmallUndergroundSkeleton,-3062,-3054,-4984,-4976
 RLCraft_SmallUndergroundSkeleton,-2997,-2989,-5117,-5109
+ShrineSmallAir,-2980,-2972,-4957,-4949
