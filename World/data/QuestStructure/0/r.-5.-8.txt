@@ -206,3 +206,4 @@ RLCraft_UndergroundRuin1,-2718,-2709,-4245,-4236
 StoneIceBoulder2,-2607,-2598,-4280,-4271
 RLCraft_DecentCaveSpider,-2589,-2589,-4294,-4294
 RLCraft_UndergroundRuin2,-2594,-2584,-4299,-4292
+SmallAbandonedMine,-2721,-2706,-4605,-4580

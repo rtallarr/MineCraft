@@ -20,3 +20,8 @@ StonePlantMound1,-5646,-5640,-3509,-3503
 RLCraft_DecentSpider,-5880,-5880,-3568,-3568
 RLCraft_UndergroundRuin2,-5885,-5875,-3573,-3566
 StonePlantMound,-6014,-6009,-3343,-3338
+RLCraft_BasicCaveSpider,-6085,-6085,-3474,-3474
+RLCraft_UndergroundRuin1,-6091,-6082,-3477,-3468
+MeteorSite,-6103,-6073,-3554,-3539
+RLCraft_DecentWitch,-5984,-5984,-3567,-3567
+RLCraft_UndergroundRuin2,-5986,-5979,-3572,-3562

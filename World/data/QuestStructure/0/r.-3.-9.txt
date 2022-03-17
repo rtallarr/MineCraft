@@ -1,0 +1,3 @@
+StoneIceBoulder1,-2036,-2026,-4744,-4734
+DinosaurSkeleton,-2016,-2007,-4730,-4684
+StoneIceBoulder2,-1983,-1974,-4747,-4738

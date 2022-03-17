@@ -9,3 +9,4 @@ RLCraft_DecentSkeleton,-6293,-6293,-2771,-2771
 RLCraft_UndergroundRuin2,-6298,-6288,-2776,-2769
 RLCraft_DecentZombie,-6378,-6378,-2715,-2715
 RLCraft_UndergroundRuin2,-6383,-6373,-2720,-2713
+RLCraft_SmallUndergroundSkeleton,-6509,-6501,-2648,-2640

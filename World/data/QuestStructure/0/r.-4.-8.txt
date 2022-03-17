@@ -12,3 +12,11 @@ ShrineSmallFire,-2307,-2297,-4278,-4268
 UndergroundTreeoid,-2099,-2076,-4566,-4540
 StoneIceBoulder,-2182,-2173,-4480,-4470
 SmallWoodenCottage2,-2182,-2174,-4548,-4540
+StoneIceBoulder2,-2356,-2347,-4590,-4581
+ShrineSmallEarth,-2419,-2407,-4590,-4578
+RLCraft_FriendlyOutpost,-2460,-2421,-4595,-4527
+SmallWoodenCottage2,-2242,-2234,-4546,-4538
+StoneIceBoulder1,-2349,-2339,-4511,-4501
+RLCraft_DecentCaveSpider,-2309,-2309,-4481,-4481
+RLCraft_UndergroundRuin2,-2311,-2304,-4486,-4476
+StoneIceBoulder3,-2267,-2257,-4398,-4388

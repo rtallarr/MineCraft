@@ -155,3 +155,9 @@ RLCraft_DecentZombie,-2901,-2901,-5435,-5435
 RLCraft_UndergroundRuin3,-2904,-2896,-5437,-5429
 StoneIceBoulder2,-2983,-2974,-5549,-5540
 StonePlantMound4,-2854,-2847,-5309,-5302
+StonePlantMound1,-2835,-2829,-5149,-5143
+StonePlantMound4,-2793,-2786,-5203,-5196
+RLCraft_BasicSkeleton,-2813,-2813,-5230,-5230
+RLCraft_UndergroundRuin1,-2819,-2810,-5236,-5227
+StoneLeafMound,-2798,-2789,-5272,-5265
+SmallWoodenCottage1,-2786,-2780,-5336,-5325
