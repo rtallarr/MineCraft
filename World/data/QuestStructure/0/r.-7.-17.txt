@@ -1,0 +1,7 @@
+RLCraft_BasicZombie,-3991,-3991,-9024,-9024
+RLCraft_UndergroundRuin1,-3997,-3988,-9030,-9021
+RLCraft_BasicZombie,-3665,-3665,-9016,-9016
+RLCraft_UndergroundRuin1,-3668,-3659,-9022,-9013
+StonePlantMound,-3617,-3612,-8984,-8979
+ShrineSmallAir,-3610,-3602,-9048,-9040
+StonePlantBoulder,-3677,-3667,-8958,-8948

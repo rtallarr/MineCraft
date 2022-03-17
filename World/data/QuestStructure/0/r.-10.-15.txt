@@ -1,0 +1,4 @@
+StoneLeafMound,-5141,-5134,-8091,-8082
+StonePlantMound3,-5143,-5134,-7919,-7908
+StonePlantMound,-5161,-5156,-7935,-7930
+StonePlantBoulder,-5181,-5171,-8063,-8053

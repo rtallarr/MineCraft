@@ -2,3 +2,11 @@ DinosaurSkull,-4603,-4592,-7252,-7233
 StonePlantMound3,-4549,-4538,-7427,-7418
 ClayWaterMound,-4568,-4560,-7442,-7435
 RLCraft_cryo_bit,-4611,-4586,-7489,-7464
+RLCraft_UndergroundFarm,-4620,-4578,-7552,-7509
+StonePlantMound,-4444,-4439,-7558,-7553
+RLCraft_DecentSkeleton,-4430,-4430,-7549,-7549
+RLCraft_UndergroundRuin2,-4432,-4425,-7554,-7544
+StonePlantBoulder,-4496,-4486,-7645,-7635
+ShrineSmallFire,-4607,-4597,-7671,-7661
+RLCraft_DecentZombie,-4570,-4570,-7672,-7672
+RLCraft_UndergroundRuin2,-4575,-4565,-7677,-7670

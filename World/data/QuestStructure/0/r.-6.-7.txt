@@ -97,3 +97,5 @@ ClayWaterMound,-3476,-3468,-3818,-3811
 StoneLeafMound,-3483,-3474,-3803,-3796
 StoneBoulder,-3492,-3483,-3772,-3763
 StonePlantMound,-3565,-3560,-3946,-3941
+RLCraft_DecentWitch,-3571,-3571,-4038,-4038
+RLCraft_UndergroundRuin2,-3576,-3566,-4043,-4036

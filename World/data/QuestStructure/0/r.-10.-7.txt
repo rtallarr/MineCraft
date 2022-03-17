@@ -24,3 +24,8 @@ RLCraft_cryo_bit,-5402,-5377,-4077,-4052
 RLCraft_DecentZombie,-5169,-5169,-3914,-3914
 RLCraft_UndergroundRuin3,-5172,-5164,-3920,-3912
 PeacefulCrypt,-5139,-5123,-4094,-4070
+MysticalTree,-5175,-5160,-3717,-3701
+RLCraft_BasicSkeleton,-5217,-5217,-3641,-3641
+RLCraft_UndergroundRuin1,-5223,-5214,-3647,-3638
+DinosaurSkull,-5239,-5220,-3672,-3661
+DinosaurSkull,-5264,-5245,-3730,-3719

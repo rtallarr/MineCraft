@@ -1,0 +1,4 @@
+SmallAbandonedMine,-3167,-3152,-9898,-9873
+StoneBoulder,-3188,-3179,-9919,-9910
+StonePlantMound,-3181,-3176,-9956,-9951
+ClayWaterMound1,-3305,-3295,-9840,-9829

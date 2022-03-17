@@ -1,0 +1,6 @@
+RLCraft_BasicWitch,-4460,-4460,-9081,-9081
+RLCraft_UndergroundRuin1,-4466,-4457,-9084,-9075
+RLCraft_UndergroundFarm,-4512,-4469,-8981,-8939
+P_SmallShip,-4186,-4180,-9042,-9022
+ShrineSmallAir,-4126,-4118,-8998,-8990
+ShrineSmallAir,-4235,-4227,-8910,-8902

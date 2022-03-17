@@ -1,0 +1,2 @@
+ShrineSmallAir,-5129,-5121,-8856,-8848
+ShrineSmallFire,-5145,-5135,-8979,-8969

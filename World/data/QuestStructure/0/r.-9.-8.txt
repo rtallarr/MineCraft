@@ -87,3 +87,10 @@ StoneIceBoulder,-4665,-4655,-4399,-4390
 RLCraft_BasicWitch,-4638,-4638,-4585,-4585
 RLCraft_UndergroundRuin1,-4644,-4635,-4588,-4579
 RLCraft_SmallUndergroundSkeleton,-4640,-4632,-4539,-4531
+StoneIceBoulder2,-4638,-4629,-4280,-4271
+MysticalTree1,-4768,-4755,-4119,-4108
+RLCraft_BasicSpider,-4737,-4737,-4156,-4156
+RLCraft_UndergroundRuin1,-4740,-4731,-4162,-4153
+StonePlantMound3,-4778,-4769,-4301,-4290
+MonolythHoly,-4798,-4784,-4293,-4279
+StoneIceBoulder2,-4642,-4633,-4358,-4349

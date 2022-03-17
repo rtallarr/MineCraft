@@ -42,3 +42,9 @@ StoneMazeSmall,-4118,-4095,-3982,-3959
 ClayWaterMound,-4125,-4118,-3824,-3816
 DinosaurSkeleton,-4149,-4103,-3979,-3970
 StonePlantMound1,-4114,-4108,-3684,-3678
+DinosaurSkeleton,-4370,-4361,-4118,-4072
+ClayWaterMound,-4518,-4511,-4056,-4048
+RLCraft_DecentSkeleton,-4606,-4606,-3848,-3848
+ShrineSmallAir,-4425,-4417,-3867,-3859
+BlazeSpawnerCrystal,-4552,-4546,-3818,-3812
+StoneBoulder,-4612,-4603,-3764,-3755

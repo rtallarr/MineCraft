@@ -157,3 +157,4 @@ RLCraft_DecentSkeleton,499,499,418,418
 RLCraft_UndergroundRuin2,494,504,416,423
 P_WitchDungeon,469,486,-512,-478
 StonePlantMound3,494,503,-484,-473
+ShrineSmallFire,83,93,222,232

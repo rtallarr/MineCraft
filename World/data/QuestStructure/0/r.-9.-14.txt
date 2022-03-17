@@ -38,3 +38,11 @@ StoneMazeSmall,-4633,-4610,-7430,-7407
 StonePlantMound3,-4731,-4722,-7400,-7389
 RLCraft_DecentSkeleton,-4691,-4691,-7309,-7309
 RLCraft_UndergroundRuin2,-4696,-4686,-7314,-7307
+StoneBoulder,-4637,-4628,-7622,-7613
+StonePlantMound2,-4799,-4786,-7567,-7555
+RLCraft_SmallUndergroundSkeleton,-4817,-4809,-7658,-7650
+PeacefulCrypt,-4924,-4900,-7644,-7628
+RLCraft_BasicSkeleton,-4937,-4937,-7587,-7587
+RLCraft_UndergroundRuin1,-4940,-4931,-7593,-7584
+StonePlantMound2,-4929,-4917,-7686,-7673
+MysticalTree2,-4932,-4922,-7668,-7658

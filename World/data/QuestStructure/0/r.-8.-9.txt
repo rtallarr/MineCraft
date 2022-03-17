@@ -103,3 +103,5 @@ StoneMazePath,-4185,-4183,-4979,-4977
 StoneMazeEndChest,-4185,-4183,-4976,-4974
 StoneMazePagoda,-4227,-4180,-4997,-4950
 StoneIceBoulder,-4135,-4126,-4994,-4984
+DinosaurSkeleton,-4134,-4088,-4727,-4718
+DinosaurSkeleton,-4134,-4088,-4774,-4765

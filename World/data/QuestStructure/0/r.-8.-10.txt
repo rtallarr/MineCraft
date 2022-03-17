@@ -147,3 +147,7 @@ RLCraft_UndergroundRuin1,-4261,-4252,-5422,-5413
 RLCraft_SmallUndergroundSkeleton,-4196,-4188,-5487,-5479
 RLCraft_SmallUndergroundSkeleton,-4270,-4262,-5595,-5587
 RLCraft_SmallUndergroundSkeleton,-4338,-4330,-5588,-5580
+RLCraft_DecentSpider,-4437,-4437,-5490,-5490
+RLCraft_UndergroundRuin2,-4442,-4432,-5495,-5488
+StoneIceBoulder1,-4482,-4472,-5562,-5552
+SmallOutpost,-4409,-4387,-5608,-5578

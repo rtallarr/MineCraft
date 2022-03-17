@@ -1,0 +1,6 @@
+RLCraft_BasicCaveSpider,-5633,-5633,-6604,-6604
+RLCraft_UndergroundRuin1,-5639,-5630,-6607,-6598
+P_LargeShip,-5859,-5799,-6438,-6420
+RLCraft_BasicZombie,-5945,-5945,-6369,-6369
+RLCraft_UndergroundRuin1,-5951,-5942,-6375,-6366
+ShrineSmallFire,-5992,-5982,-6491,-6481

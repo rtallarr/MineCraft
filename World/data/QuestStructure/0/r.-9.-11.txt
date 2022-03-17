@@ -1,0 +1,11 @@
+DinosaurSkeleton,-4922,-4876,-5655,-5646
+StoneIceBoulder3,-4879,-4869,-5709,-5699
+RLCraft_SmallUndergroundSkeleton,-4830,-4822,-5731,-5723
+RLCraft_DecentZombie,-4814,-4814,-5753,-5753
+RLCraft_UndergroundRuin2,-4819,-4809,-5755,-5748
+RLCraft_SmallUndergroundSkeleton,-4887,-4879,-5775,-5767
+BlazeSpawnerCrystal,-4864,-4858,-5887,-5881
+PeacefulCrypt,-5067,-5051,-5905,-5881
+RLCraft_DecentSpider,-4780,-4780,-5893,-5893
+RLCraft_UndergroundRuin2,-4785,-4775,-5895,-5888
+RLCraft_SmallUndergroundSkeleton,-4868,-4860,-5945,-5937

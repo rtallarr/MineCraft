@@ -224,3 +224,11 @@ RLCraft_DecentZombie,-4209,-4209,-4268,-4268
 RLCraft_UndergroundRuin3,-4211,-4203,-4271,-4263
 RLCraft_SmallUndergroundSkeleton,-4283,-4275,-4230,-4222
 UndergroundTreeoid,-4445,-4422,-4234,-4208
+RLCraft_DecentSpider,-4133,-4133,-4480,-4480
+RLCraft_UndergroundRuin2,-4135,-4128,-4485,-4475
+RLCraft_BasicWitch,-4421,-4421,-4195,-4195
+RLCraft_UndergroundRuin1,-4424,-4415,-4198,-4189
+DinosaurSkeleton,-4389,-4343,-4183,-4174
+IceThorn,-4461,-4446,-4173,-4147
+CuboneSkull,-4530,-4472,-4161,-4100
+RLCraft_SmallUndergroundSkeleton,-4551,-4543,-4180,-4172

@@ -1,0 +1,6 @@
+ShrineSmallFire,-4692,-4682,-8765,-8755
+P_IslandCity,-5046,-4712,-9002,-8696
+RLCraft_DecentWitch,-4685,-4685,-8975,-8975
+RLCraft_UndergroundRuin3,-4688,-4680,-8981,-8973
+StoneLeafMound,-4667,-4660,-9155,-9146
+P_SmallShip,-4962,-4942,-9204,-9198

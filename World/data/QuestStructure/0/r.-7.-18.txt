@@ -1,0 +1,4 @@
+ShrineSmallWater,-3915,-3907,-9220,-9212
+RLCraft_BasicCaveSpider,-3757,-3757,-9219,-9219
+RLCraft_UndergroundRuin1,-3763,-3754,-9225,-9216
+SmallAbandonedMine,-3647,-3622,-9243,-9228

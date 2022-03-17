@@ -1,0 +1,2 @@
+StonePlantMound3,-3323,-3314,-9230,-9219
+ShrineSmallFire,-3284,-3274,-9258,-9248

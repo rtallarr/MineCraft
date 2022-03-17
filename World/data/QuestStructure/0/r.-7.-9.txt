@@ -11,3 +11,10 @@ RLCraft_UndergroundRuin1,-3765,-3756,-4966,-4957
 SmallOutpost,-3706,-3684,-5076,-5046
 StoneIceBoulder3,-3655,-3645,-4993,-4983
 PeacefulCrypt,-3596,-3580,-4780,-4756
+RLCraft_SmallUndergroundSkeleton,-4095,-4087,-4666,-4658
+RLCraft_DecentWitch,-4044,-4044,-4716,-4716
+RLCraft_UndergroundRuin3,-4050,-4042,-4719,-4711
+RLCraft_FriendlyOutpost,-4043,-4004,-4723,-4655
+P_Tent,-4093,-4084,-4744,-4735
+MeteorSite,-4080,-4050,-4742,-4727
+RLCraft_SmallUndergroundSkeleton,-3842,-3834,-4712,-4704

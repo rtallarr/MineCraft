@@ -1,0 +1,9 @@
+UndergroundCrypt,-5206,-5192,-7206,-7178
+StonePlantMound2,-5503,-5490,-7268,-7256
+StonePlantBoulder,-5504,-5494,-7275,-7265
+RLCraft_RuinsParkour,-5553,-5461,-7289,-7189
+MeteorSite,-5559,-5544,-7339,-7309
+RLCraft_DecentSkeleton,-5506,-5506,-7442,-7442
+RLCraft_UndergroundRuin2,-5511,-5501,-7447,-7440
+StonePlantBoulder,-5397,-5387,-7411,-7401
+StonePlantMound1,-5325,-5319,-7348,-7342
