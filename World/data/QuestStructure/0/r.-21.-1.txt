@@ -1,0 +1,5 @@
+ShrineSmallFire,-11015,-11005,-838,-828
+RLCraft_SmallUndergroundSkeleton,-11002,-10994,-558,-550
+RLCraft_DecentZombie,-11058,-11058,-702,-702
+RLCraft_UndergroundRuin2,-11063,-11053,-704,-697
+UndergroundCrypt,-11099,-11085,-829,-801

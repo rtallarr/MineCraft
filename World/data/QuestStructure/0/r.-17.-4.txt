@@ -1,0 +1,8 @@
+P_VillageFarmhouse,-8881,-8869,-2538,-2526
+ThreeTowers,-8853,-8821,-2538,-2507
+VillageHouseRich,-8892,-8877,-2501,-2482
+UndergroundCultChamber,-8915,-8883,-2518,-2476
+StonePlantMound1,-8725,-8719,-2398,-2392
+DesertHut,-9038,-9028,-2432,-2423
+RLCraft_SmallUndergroundSkeleton,-8959,-8951,-2143,-2135
+RLCraft_Airtes,-8961,-8946,-2135,-2120

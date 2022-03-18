@@ -1,0 +1,17 @@
+RLCraft_SmallUndergroundSkeleton,-8939,-8931,-3001,-2993
+StonePlantMound2,-8942,-8929,-3019,-3007
+MysticalTree2,-8998,-8988,-2997,-2987
+StonePlantMound,-8970,-8965,-3029,-3024
+ShrineSmallFire,-8831,-8821,-3054,-3044
+StonePlantBoulder,-8811,-8801,-2947,-2937
+StonePlantBoulder,-8731,-8721,-2925,-2915
+Tree_Oak_TheMushroomOak_v3,-8902,-8852,-2914,-2855
+StonePlantMound3,-8731,-8720,-2823,-2814
+StonePlantBoulder,-8911,-8901,-2693,-2683
+SmallWoodenCottage2,-8937,-8929,-2699,-2691
+StonePlantMound4,-8948,-8941,-2689,-2682
+ShrineSmallFire,-8826,-8816,-2685,-2675
+StonePlantMound4,-8794,-8787,-2638,-2631
+StonePlantMound4,-8809,-8802,-2621,-2614
+RLCraft_DecentWitch,-8797,-8797,-2571,-2571
+RLCraft_UndergroundRuin3,-8803,-8795,-2576,-2568

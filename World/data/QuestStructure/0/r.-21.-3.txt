@@ -1,0 +1,15 @@
+StoneBoulder,-10966,-10957,-2014,-2005
+DinosaurSkull,-11058,-11039,-2024,-2013
+WoodThornBig,-10882,-10869,-1993,-1980
+StoneBoulder,-11095,-11086,-1984,-1975
+RLCraft_DecentWitch,-10777,-10777,-1967,-1967
+RLCraft_UndergroundRuin2,-10779,-10772,-1972,-1962
+StonePlantMound2,-10948,-10935,-1937,-1925
+RLCraft_cryo_bit,-10945,-10920,-1942,-1917
+StonePlantMound,-10836,-10831,-1925,-1920
+StonePlantMound1,-11010,-11004,-1916,-1910
+StonePlantMound,-11015,-11010,-1882,-1877
+StonePlantBoulder,-10762,-10752,-1805,-1795
+RLCraft_BasicZombie,-10837,-10837,-1772,-1772
+RLCraft_UndergroundRuin1,-10843,-10834,-1775,-1766
+StonePlantMound2,-10781,-10768,-1706,-1694

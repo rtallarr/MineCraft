@@ -1,0 +1,8 @@
+DinosaurSkeleton,-8792,-8746,-2028,-2019
+RLCraft_SmallUndergroundSkeleton,-8823,-8815,-1919,-1911
+SmallWoodenCottage,-9072,-9061,-1903,-1895
+ShrineSmallAir,-9112,-9104,-1901,-1893
+DesertBeacon,-8771,-8765,-1896,-1890
+MeteorSite,-8975,-8960,-1714,-1684
+DinosaurSkull,-9199,-9188,-1641,-1622
+RLCraft_cryo_bit,-9024,-8999,-1568,-1543

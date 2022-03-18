@@ -1,0 +1,4 @@
+MeteorSite,-11410,-11395,-275,-245
+StoneBoulder,-11517,-11508,-315,-306
+RLCraft_DecentZombie,-11512,-11512,-21,-21
+RLCraft_UndergroundRuin3,-11515,-11507,-23,-15

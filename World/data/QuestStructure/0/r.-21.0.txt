@@ -1,0 +1,7 @@
+RLCraft_DecentZombie,-11068,-11068,-361,-361
+RLCraft_UndergroundRuin3,-11073,-11065,-363,-355
+ShrineSmallEarth,-11003,-10991,-330,-318
+ShrineSmallFire,-10983,-10973,-287,-277
+P_DesertTemple,-11122,-11073,-130,-80
+RLCraft_UndergroundFarm,-10976,-10934,-85,-42
+DinosaurSkull,-11115,-11096,30,41

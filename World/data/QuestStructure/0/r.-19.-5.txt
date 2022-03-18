@@ -1,0 +1,17 @@
+RLCraft_LargeUndergroundTown,-9959,-9822,-2672,-2559
+StonePlantMound3,-9778,-9769,-2849,-2838
+RLCraft_SmallUndergroundSkeleton,-9819,-9811,-2910,-2902
+StonePlantMound4,-9874,-9867,-2940,-2933
+StonePlantMound1,-9957,-9951,-2932,-2926
+StonePlantMound4,-9852,-9845,-2972,-2965
+StonePlantMound1,-9733,-9727,-2956,-2950
+StonePlantMound4,-9755,-9748,-2982,-2975
+StonePlantMound,-9778,-9773,-3009,-3004
+StonePlantMound,-9751,-9746,-3022,-3017
+StonePlantMound,-9834,-9829,-3063,-3058
+ShrineSmallAir,-10005,-9997,-2913,-2905
+AbandonedWoodTower,-10101,-10071,-2953,-2917
+SmallWoodenCottage1,-10126,-10115,-3029,-3023
+StonePlantBoulder,-10135,-10125,-2973,-2963
+ChurchGraveyardRuins,-10207,-10160,-2843,-2800
+MysticalTree2,-10112,-10102,-3063,-3053

@@ -1,0 +1,17 @@
+StonePlantBoulder,-8225,-8215,-3454,-3444
+RLCraft_DecentSpider,-8384,-8384,-3561,-3561
+RLCraft_UndergroundRuin2,-8389,-8382,-3566,-3556
+RLCraft_SmallUndergroundSkeleton,-8435,-8427,-3424,-3416
+StoneBoulder,-8554,-8545,-3485,-3476
+MysticalTree2,-8562,-8552,-3475,-3465
+StonePlantMound3,-8606,-8595,-3492,-3483
+StonePlantMound,-8567,-8562,-3428,-3423
+SmallFortRuinsJapanese,-8645,-8599,-3455,-3409
+StonePlantBoulder,-8672,-8662,-3536,-3526
+SmallAbandonedOutpost,-8661,-8639,-3364,-3334
+StonePlantMound2,-8603,-8590,-3345,-3333
+StonePlantMound1,-8505,-8499,-3322,-3316
+StonePlantMound2,-8616,-8603,-3287,-3275
+StonePlantBoulder,-8597,-8587,-3154,-3144
+StoneLeafMound,-8676,-8667,-3119,-3112
+StonePlantMound3,-8679,-8670,-3104,-3093

@@ -1,0 +1,13 @@
+FallenPalmTree,-9711,-9707,-2687,-2677
+RLCraft_PlainsCamp,-9710,-9671,-2755,-2709
+RLCraft_DecentSpider,-9661,-9661,-2717,-2717
+RLCraft_UndergroundRuin2,-9666,-9656,-2719,-2712
+P_WizardTower,-9628,-9598,-2703,-2673
+StoneLeafMound,-9648,-9639,-2863,-2856
+StonePlantMound4,-9678,-9671,-2928,-2921
+StonePlantBoulder,-9632,-9622,-2839,-2829
+StonePlantMound3,-9692,-9683,-2989,-2978
+DinosaurSkeleton,-9614,-9568,-2855,-2846
+StoneLeafMound,-9594,-9585,-2760,-2753
+StoneBoulder,-9577,-9568,-2926,-2917
+StonePlantMound2,-9734,-9721,-3070,-3058

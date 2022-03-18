@@ -1,0 +1,3 @@
+RLCraft_BasicZombie,-9231,-9231,-891,-891
+RLCraft_UndergroundRuin1,-9234,-9225,-897,-888
+RLCraft_SmallUndergroundSkeleton,-9434,-9426,-867,-859

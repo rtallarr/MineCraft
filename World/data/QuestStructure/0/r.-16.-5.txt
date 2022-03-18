@@ -1,0 +1,6 @@
+StoneBoulder,-8633,-8624,-3067,-3058
+BrickHenge,-8704,-8688,-3038,-3022
+StonePlantMound,-8687,-8682,-3016,-3011
+BrickHenge,-8632,-8616,-2951,-2935
+StoneLeafMound,-8622,-8613,-2880,-2873
+StonePlantMound2,-8632,-8620,-2869,-2856

@@ -1,0 +1,8 @@
+RLCraft_SmallUndergroundSkeleton,-9875,-9867,-678,-670
+ShrineSmallFire,-9890,-9880,-626,-616
+RLCraft_DecentSpider,-9918,-9918,-724,-724
+RLCraft_UndergroundRuin3,-9923,-9915,-726,-718
+RLCraft_SmallUndergroundSkeleton,-9969,-9961,-862,-854
+ShrineSmallAir,-10107,-10099,-894,-886
+ShrineSmallFire,-10146,-10136,-770,-760
+BigClockworkSite,-10215,-10180,-1043,-998

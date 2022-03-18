@@ -1,0 +1,15 @@
+BabylonTower,-9257,-9195,-1235,-1171
+RLCraft_DecentSpider,-9232,-9232,-1088,-1088
+RLCraft_UndergroundRuin3,-9234,-9226,-1091,-1083
+RLCraft_DecentWitch,-9251,-9251,-1472,-1472
+RLCraft_UndergroundRuin2,-9253,-9246,-1477,-1467
+StonePlantMound4,-9260,-9253,-1449,-1442
+RLCraft_DecentZombie,-9335,-9335,-1353,-1353
+RLCraft_UndergroundRuin2,-9340,-9330,-1355,-1348
+RLCraft_DecentCaveSpider,-9222,-9222,-1042,-1042
+RLCraft_UndergroundRuin2,-9227,-9217,-1044,-1037
+RLCraft_SmallUndergroundSkeleton,-9327,-9319,-1120,-1112
+RLCraft_BasicWitch,-9336,-9336,-1045,-1045
+RLCraft_UndergroundRuin1,-9342,-9333,-1051,-1042
+DesertBeacon,-9377,-9371,-1455,-1449
+DinosaurSkeleton,-9463,-9417,-1052,-1043

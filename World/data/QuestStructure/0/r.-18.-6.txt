@@ -1,0 +1,17 @@
+SmallWoodenCottage,-9262,-9251,-3445,-3437
+ElvenPond,-9266,-9236,-3405,-3376
+StonePlantMound2,-9333,-9320,-3266,-3254
+SmallWoodenCottage,-9450,-9442,-3337,-3326
+RLCraft_DecentWitch,-9421,-9421,-3298,-3298
+RLCraft_UndergroundRuin3,-9427,-9419,-3301,-3293
+StoneIceBoulder2,-9479,-9470,-3527,-3518
+StoneLeafMound,-9494,-9485,-3383,-3376
+DinosaurSkull,-9524,-9505,-3438,-3427
+StoneIceBoulder2,-9578,-9569,-3457,-3448
+SmallOutpost,-9635,-9613,-3557,-3527
+StoneIceBoulder2,-9642,-9633,-3463,-3454
+StoneIceBoulder3,-9654,-9644,-3526,-3516
+RLCraft_DecentSpider,-9685,-9685,-3388,-3388
+RLCraft_UndergroundRuin2,-9687,-9680,-3393,-3383
+StoneLeafMound,-9578,-9571,-3278,-3269
+StoneIceBoulder3,-9699,-9689,-3576,-3566

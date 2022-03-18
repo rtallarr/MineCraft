@@ -14,6 +14,12 @@
 -2712 84 -2724 -2703 91 -2715 WoodHouse2_Ruined.tml
 -2670 29 -3285 -2662 36 -3277 LargeNetherHouse.tml
 -2654 14 -2798 -2646 21 -2790 LargeNetherHouse.tml
+-940 33 -229 -935 44 -220 VanillaVillageChurch-r.tml
+-931 36 -149 -923 43 -141 LargeNetherHouse.tml
+-854 43 -301 -845 50 -293 WoodHouse_Ruined.tml
+-816 30 -139 -806 41 -129 DoomHouse.tml
+-808 118 -165 -796 213 -153 Tower-nether.tml
+-733 29 -199 -723 35 -191 VanillaVillageForge-r.tml
 -716 30 -965 -706 45 -955 DoomTower.tml
 -715 30 -767 -706 36 -759 NetherShrine.tml
 -689 74 -665 -681 81 -657 LargeNetherHouse.tml

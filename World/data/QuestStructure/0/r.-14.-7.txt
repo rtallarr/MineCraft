@@ -1,0 +1,3 @@
+StonePlantMound,-7643,-7638,-3615,-3610
+ShrineSmallFire,-7596,-7586,-3662,-3652
+RLCraft_SmallUndergroundSkeleton,-7517,-7509,-3722,-3714

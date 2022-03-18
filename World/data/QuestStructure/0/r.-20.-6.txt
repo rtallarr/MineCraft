@@ -1,0 +1,8 @@
+StonePlantMound3,-10543,-10532,-3089,-3080
+ShrineSmallFire,-10635,-10625,-3127,-3117
+StoneLeafMound,-10595,-10586,-3140,-3133
+StonePlantMound3,-10535,-10526,-3128,-3117
+StonePlantMound1,-10613,-10607,-3144,-3138
+RLCraft_DecentWitch,-10660,-10660,-3168,-3168
+RLCraft_UndergroundRuin3,-10666,-10658,-3171,-3163
+StoneBoulder,-10720,-10711,-3196,-3187

@@ -1,0 +1,15 @@
+StonePlantBoulder,-10761,-10751,-2743,-2733
+StoneLeafMound,-10773,-10766,-2890,-2881
+RLCraft_DecentSkeleton,-10777,-10777,-2993,-2993
+RLCraft_UndergroundRuin2,-10782,-10772,-2998,-2991
+StonePlantMound4,-10828,-10821,-2881,-2874
+StonePlantMound2,-10823,-10811,-2766,-2753
+StonePlantMound4,-10854,-10847,-2829,-2822
+RLCraft_xKOSMOS42,-10885,-10859,-3044,-3015
+StonePlantMound2,-10878,-10865,-2714,-2702
+StoneLeafMound,-10873,-10866,-2653,-2644
+StonePlantMound2,-10969,-10956,-2635,-2623
+StonePlantMound3,-10904,-10895,-2613,-2602
+StoneLeafMound,-10833,-10824,-2619,-2612
+StonePlantBoulder,-10760,-10750,-2576,-2566
+StonePlantMound,-10965,-10960,-2569,-2564

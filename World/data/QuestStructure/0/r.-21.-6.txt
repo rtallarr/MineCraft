@@ -1,0 +1,3 @@
+SmallWoodenCottage,-10791,-10780,-3079,-3071
+UndergroundTreeoid,-10828,-10805,-3127,-3101
+StonePlantMound1,-10783,-10777,-3217,-3211

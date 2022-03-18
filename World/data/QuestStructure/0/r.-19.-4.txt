@@ -1,0 +1,14 @@
+RLCraft_DecentZombie,-10222,-10222,-2264,-2264
+RLCraft_UndergroundRuin3,-10224,-10216,-2267,-2259
+RLCraft_DecentSkeleton,-10230,-10230,-2150,-2150
+RLCraft_UndergroundRuin3,-10232,-10224,-2155,-2147
+TribalJungleHead,-10147,-10137,-2244,-2234
+P_WizardTower,-10085,-10055,-2463,-2433
+DinosaurSkull,-9991,-9980,-2331,-2312
+RLCraft_DecentWitch,-9990,-9990,-2406,-2406
+RLCraft_UndergroundRuin2,-9992,-9985,-2411,-2401
+P_MayanTemple2,-10019,-9951,-2570,-2471
+ShrineSmallFire,-9840,-9830,-2180,-2170
+RLCraft_DecentSkeleton,-9823,-9823,-2265,-2265
+RLCraft_UndergroundRuin3,-9826,-9818,-2271,-2263
+ShrineSmallEarth,-9763,-9751,-2207,-2195

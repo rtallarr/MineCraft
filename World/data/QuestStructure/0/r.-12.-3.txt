@@ -1,0 +1,7 @@
+ShrineSmallAir,-6618,-6610,-2016,-2008
+UndergroundCultChamber,-6588,-6546,-2005,-1973
+ShrineSmallWater,-6634,-6626,-1975,-1967
+RLCraft_DecentZombie,-6563,-6563,-1936,-1936
+RLCraft_UndergroundRuin2,-6568,-6558,-1938,-1931
+RLCraft_DecentCaveSpider,-6633,-6633,-1939,-1939
+RLCraft_UndergroundRuin3,-6636,-6628,-1945,-1937
