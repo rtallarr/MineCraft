@@ -164,9 +164,9 @@ listAllfishraw
 listAllfishcooked
 cropSeaweed
 mushroomAny
+tallow
 buttonWood
 gemEnderBiotite
-tallow
 stoneBasalt
 stoneMarble
 stoneLimestone
