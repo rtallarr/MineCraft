@@ -15,3 +15,7 @@ RLCraft_DecentSkeleton,-5135,-5135,-4993,-4993
 RLCraft_UndergroundRuin3,-5140,-5132,-4995,-4987
 StoneIceBoulder3,-5260,-5250,-5041,-5031
 StoneIceBoulder1,-5318,-5308,-5031,-5021
+StoneIceBoulder3,-5348,-5338,-5044,-5034
+StoneIceBoulder3,-5336,-5326,-5113,-5103
+StoneIceBoulder2,-5390,-5381,-5084,-5075
+StoneIceBoulder1,-5367,-5357,-5083,-5073

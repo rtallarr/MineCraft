@@ -1,0 +1,13 @@
+RLCraft_DecentWitch,-7090,-7090,-6194,-6194
+RLCraft_UndergroundRuin3,-7093,-7085,-6196,-6188
+P_WizardTower,-6944,-6914,-6183,-6153
+WoodWallRemains,-6874,-6846,-6196,-6188
+RLCraft_BasicSpider,-6900,-6900,-6205,-6205
+RLCraft_UndergroundRuin1,-6903,-6894,-6208,-6199
+SmallClockworkSite,-6920,-6898,-6234,-6215
+MeteorSite,-6910,-6895,-6282,-6252
+ShrineSmallFire,-6862,-6852,-6459,-6449
+ShrineSmallAir,-6755,-6747,-6489,-6481
+RLCraft_DecentWitch,-6818,-6818,-6622,-6622
+RLCraft_UndergroundRuin3,-6824,-6816,-6627,-6619
+BrickHenge,-6743,-6727,-6658,-6642

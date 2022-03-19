@@ -86,12 +86,6 @@ advanced-fishing:custom_fish_hook
 advanced-fishing:lava_fish_hook
 advanced-fishing:fireproof_item
 aquaculture:custom_fish_hook
-quark:stoneling
-quark:archaeologist
-quark:foxhound
-quark:pirate
-quark:crab
-quark:chest_passenger
 quark:flat_item_frame
 quark:leash_knot
 quark:colored_item_frame
@@ -99,6 +93,12 @@ quark:glass_item_frame
 quark:dragon_breath_bottle
 quark:soul_powder
 quark:parrot_egg
+quark:stoneling
+quark:archaeologist
+quark:foxhound
+quark:pirate
+quark:crab
+quark:chest_passenger
 mujmajnkraftsbettersurvival:entityflyingspear
 betternether:firefly
 bountifulbaubles:grenade

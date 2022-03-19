@@ -1,0 +1,6 @@
+RLCraft_FriendlyOutpost,-5939,-5900,-8782,-8714
+StoneIceBoulder3,-6031,-6021,-8739,-8729
+MeteorSite,-6052,-6022,-8885,-8870
+StoneIceBoulder2,-6031,-6022,-8916,-8907
+RLCraft_DecentSpider,-5957,-5957,-8907,-8907
+RLCraft_UndergroundRuin2,-5959,-5952,-8912,-8902

@@ -1,0 +1,5 @@
+StonePlantBoulder,-4990,-4980,-474,-464
+StonePlantMound2,-4847,-4835,-505,-492
+SmallOutpost,-4750,-4728,-348,-318
+SmallWoodenCottage1,-4632,-4626,-474,-463
+SmallFortRuins,-4625,-4595,-513,-481

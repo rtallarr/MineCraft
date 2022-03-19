@@ -1,0 +1,16 @@
+StonePlantMound4,-6693,-6686,-7211,-7204
+StoneBoulder,-6807,-6798,-7219,-7210
+StoneBoulder,-6816,-6807,-7244,-7235
+StoneBoulder,-6685,-6676,-7245,-7236
+StoneLeafMound,-6769,-6762,-7264,-7255
+StonePlantMound2,-6745,-6733,-7272,-7259
+RLCraft_FriendlyOutpost,-6792,-6724,-7272,-7233
+ClayWaterMound,-6712,-6705,-7299,-7291
+StonePlantBoulder,-6671,-6661,-7303,-7293
+StonePlantMound4,-6688,-6681,-7343,-7336
+StonePlantMound3,-6714,-6705,-7371,-7360
+RLCraft_SmallUndergroundSkeleton,-6745,-6737,-7400,-7392
+RLCraft_SmallUndergroundSkeleton,-6796,-6788,-7433,-7425
+StoneLeafMound,-6759,-6750,-7483,-7476
+P_VillageFarmhouse,-6908,-6896,-7565,-7553
+UndergroundTreeoid,-6743,-6720,-7592,-7566

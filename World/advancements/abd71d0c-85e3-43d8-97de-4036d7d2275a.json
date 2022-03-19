@@ -615,6 +615,7 @@
       "skeleton": "2022-02-17 13:30:54 -0300",
       "husk": "2022-02-21 01:17:57 -0300",
       "blaze": "2022-03-01 18:19:53 -0300",
+      "evoker": "2022-03-19 03:49:02 -0300",
       "zombie": "2022-02-17 11:27:53 -0300",
       "cave_spider": "2022-02-18 15:20:15 -0300",
       "silverfish": "2022-03-01 16:50:11 -0300",
@@ -653,6 +654,12 @@
   "mujmajnkraftsbettersurvival:crossbow": {
     "criteria": {
       "has_string": "2022-02-17 12:27:59 -0300"
+    },
+    "done": true
+  },
+  "defiledlands:main/book_wyrm_breed": {
+    "criteria": {
+      "breed_book_wyrm": "2022-03-19 01:03:01 -0300"
     },
     "done": true
   },
@@ -1460,6 +1467,12 @@
   "minecraft:recipes/decorations/slime": {
     "criteria": {
       "has_at_least_9_slime_ball": "2022-02-20 17:06:00 -0300"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/book_wyrm_analyzer": {
+    "criteria": {
+      "has_the_recipe": "2022-03-19 00:50:41 -0300"
     },
     "done": true
   },

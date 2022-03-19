@@ -1,0 +1,4 @@
+DesertWatchtower,-7250,-7240,-5487,-5477
+P_VillageLibrary,-7301,-7285,-5311,-5292
+UndergroundCultChamber,-7210,-7168,-5644,-5612
+StonePlantMound2,-7385,-7372,-5622,-5610

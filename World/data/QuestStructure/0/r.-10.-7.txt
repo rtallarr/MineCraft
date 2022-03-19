@@ -29,3 +29,14 @@ RLCraft_BasicSkeleton,-5217,-5217,-3641,-3641
 RLCraft_UndergroundRuin1,-5223,-5214,-3647,-3638
 DinosaurSkull,-5239,-5220,-3672,-3661
 DinosaurSkull,-5264,-5245,-3730,-3719
+StoneMazeEndChest,-5629,-5627,-4090,-4088
+StoneMazePath,-5632,-5630,-4096,-4094
+StoneMazePathBig,-5629,-5621,-4099,-4091
+StoneMazeSpiderRoom,-5629,-5624,-4084,-4079
+StoneMazePath,-5632,-5630,-4075,-4073
+StoneMazePath,-5629,-5627,-4075,-4073
+StoneMazePath,-5626,-5624,-4075,-4073
+StoneMazePath,-5623,-5621,-4075,-4073
+StoneMazeEndChest,-5623,-5621,-4078,-4076
+RLCraft_DecentSkeleton,-5607,-5607,-4093,-4093
+RLCraft_UndergroundRuin2,-5612,-5605,-4098,-4088

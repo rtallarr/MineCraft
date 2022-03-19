@@ -21,3 +21,4 @@ VillageTriplets,-2005,-1991,-4275,-4261
 RLCraft_SmallUndergroundSkeleton,-1987,-1979,-4379,-4371
 RLCraft_BasicSpider,-2002,-2002,-4350,-4350
 RLCraft_UndergroundRuin1,-2005,-1996,-4353,-4344
+StoneIceBoulder3,-1901,-1891,-4612,-4602

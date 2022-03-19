@@ -34,3 +34,8 @@ StoneLeafMound,-3556,-3547,-1965,-1958
 StoneLeafMound,-3558,-3551,-1807,-1798
 RLCraft_BasicZombie,-3581,-3581,-1909,-1909
 RLCraft_UndergroundRuin1,-3587,-3578,-1915,-1906
+ClayWaterMound1,-3575,-3564,-1599,-1589
+StonePlantMound1,-3562,-3556,-1583,-1577
+StonePlantBoulder,-3522,-3512,-1577,-1567
+RLCraft_DecentCaveSpider,-3520,-3520,-1557,-1557
+RLCraft_UndergroundRuin2,-3525,-3515,-1562,-1555

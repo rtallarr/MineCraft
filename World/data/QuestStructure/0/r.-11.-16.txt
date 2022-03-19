@@ -1,0 +1,5 @@
+ShrineSmallFire,-5941,-5931,-8202,-8192
+DinosaurSkeleton,-5709,-5700,-8245,-8199
+RLCraft_UndergroundFarm,-5730,-5688,-8510,-8467
+ShrineSmallWater,-5723,-5715,-8522,-8514
+SmallWoodenCottage1,-6021,-6015,-8679,-8668

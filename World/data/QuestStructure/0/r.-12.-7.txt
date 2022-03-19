@@ -52,3 +52,5 @@ StonePlantMound2,-6437,-6424,-3700,-3688
 UndergroundCrypt,-6490,-6462,-3786,-3772
 RLCraft_DecentZombie,-6250,-6250,-3989,-3989
 RLCraft_UndergroundRuin2,-6255,-6245,-3994,-3987
+StoneBoulder,-6232,-6223,-4060,-4051
+RLCraft_SmallUndergroundSkeleton,-6463,-6455,-4057,-4049

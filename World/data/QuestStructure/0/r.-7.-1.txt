@@ -1,0 +1,13 @@
+DinosaurSkeleton,-3994,-3985,-574,-528
+SmallWoodenCottage1,-3784,-3778,-590,-579
+RLCraft_PlainsCamp,-3861,-3822,-612,-566
+StonePlantMound,-3778,-3773,-607,-602
+RLCraft_BasicCaveSpider,-3981,-3981,-642,-642
+RLCraft_UndergroundRuin1,-3987,-3978,-645,-636
+ShrineSmallFire,-4019,-4009,-689,-679
+DinosaurSkeleton,-3819,-3810,-989,-943
+SmallAbandonedMine,-3858,-3843,-981,-956
+SmallWoodenCottage,-3847,-3839,-999,-988
+RLCraft_SmallUndergroundSkeleton,-3828,-3820,-1024,-1016
+DinosaurSkeleton,-3834,-3825,-1046,-1000
+RLCraft_SmallUndergroundSkeleton,-3861,-3853,-1008,-1000

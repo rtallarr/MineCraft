@@ -1,0 +1,13 @@
+RLCraft_DecentCaveSpider,-5573,-5573,-988,-988
+RLCraft_UndergroundRuin3,-5578,-5570,-994,-986
+StonePlantMound,-5314,-5309,-990,-985
+StonePlantMound1,-5363,-5357,-965,-959
+StonePlantMound1,-5344,-5338,-945,-939
+RLCraft_DecentCaveSpider,-5310,-5310,-927,-927
+RLCraft_UndergroundRuin3,-5316,-5308,-930,-922
+SmallAbandonedMine,-5270,-5245,-938,-923
+MysticalTree2,-5238,-5228,-936,-926
+RLCraft_BasicZombie,-5150,-5150,-851,-851
+RLCraft_UndergroundRuin1,-5153,-5144,-857,-848
+P_SmallShip,-5306,-5300,-656,-636
+P_SmallShip,-5246,-5226,-606,-600

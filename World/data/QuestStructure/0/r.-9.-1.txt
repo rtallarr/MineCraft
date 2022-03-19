@@ -1,0 +1,17 @@
+StonePlantMound,-5090,-5085,-900,-895
+StonePlantMound2,-5092,-5080,-701,-688
+StonePlantMound1,-5066,-5060,-625,-619
+StoneBoulder,-5041,-5032,-576,-567
+DinosaurSkeleton,-5031,-4985,-828,-819
+ShrineSmallFire,-5001,-4991,-867,-857
+StonePlantMound2,-4979,-4967,-616,-603
+RLCraft_SmallUndergroundSkeleton,-4957,-4949,-568,-560
+SmallWoodenCottage,-4950,-4939,-833,-825
+StonePlantMound1,-4912,-4906,-805,-799
+RLCraft_PlainsCamp,-4934,-4895,-564,-518
+SmallWoodenCottage,-4899,-4891,-798,-787
+WoodThorn,-4810,-4799,-714,-703
+StoneBoulder,-4865,-4856,-613,-604
+StonePlantMound3,-4854,-4845,-747,-736
+RLCraft_SmallUndergroundSkeleton,-4670,-4662,-644,-636
+StonePlantMound,-4613,-4608,-572,-567

@@ -1,0 +1,16 @@
+UndergroundCrypt,-6541,-6527,-6709,-6681
+PeacefulCrypt,-6424,-6408,-6724,-6700
+VillageHouseRich,-6628,-6613,-6826,-6807
+VillageTriplets,-6600,-6586,-6812,-6798
+RLCraft_Vineyard,-6611,-6591,-6847,-6819
+VillageLargeLibrary,-6576,-6557,-6843,-6823
+SeasonsGreenhouse,-6576,-6564,-6864,-6854
+StoneLeafMound,-6635,-6626,-6871,-6864
+P_VillageFarmhouse,-6576,-6564,-6882,-6870
+SeasonsGreenhouse,-6563,-6553,-6882,-6870
+VillageForgeLarge,-6541,-6529,-6902,-6886
+StonePlantMound1,-6568,-6562,-6905,-6899
+StoneBoulder,-6634,-6625,-6964,-6955
+StonePlantMound2,-6647,-6635,-6996,-6983
+StonePlantMound,-6565,-6560,-7077,-7072
+RLCraft_SmallUndergroundSkeleton,-6656,-6648,-7117,-7109

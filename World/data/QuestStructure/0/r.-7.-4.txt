@@ -341,3 +341,5 @@ StoneMazePath,-3696,-3694,-2161,-2159
 StoneMazePath,-3696,-3694,-2164,-2162
 StoneMazePagoda,-3729,-3682,-2173,-2126
 PeacefulCrypt,-3727,-3703,-2061,-2045
+StonePlantMound,-3840,-3835,-2113,-2108
+StonePlantMound1,-3996,-3990,-2103,-2097
