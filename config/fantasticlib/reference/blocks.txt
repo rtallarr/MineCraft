@@ -468,9 +468,6 @@ rustic:ironwoodroot
 rustic:ironwoodbranch
 rustic:ironwoodbranchx
 rustic:leaves0
-quark:glowstone_dust_block
-quark:gunpowder_block
-quark:black_ash
 quark:chute
 quark:sugar_block
 quark:redstone_randomizer
@@ -480,6 +477,9 @@ quark:ender_watcher
 quark:redstone_inductor
 quark:obsidian_pressure_plate
 quark:rain_detector
+quark:glowstone_dust_block
+quark:gunpowder_block
+quark:black_ash
 quark:sandstone_new
 quark:sandstone_bricks_stairs
 quark:red_sandstone_bricks_stairs

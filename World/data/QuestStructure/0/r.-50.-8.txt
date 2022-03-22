@@ -1,0 +1,11 @@
+StoneIceBoulder2,-25672,-25663,-4588,-4579
+IceThorn2,-25736,-25726,-4553,-4541
+ShrineSmallFire,-25728,-25718,-4493,-4483
+StoneIceBoulder2,-25756,-25747,-4538,-4529
+RLCraft_UndergroundFarm,-25842,-25800,-4388,-4345
+RLCraft_DecentSkeleton,-25882,-25882,-4553,-4553
+RLCraft_UndergroundRuin3,-25884,-25876,-4558,-4550
+StoneIceBoulder2,-25912,-25903,-4356,-4347
+StoneIceBoulder,-25919,-25910,-4521,-4511
+RLCraft_SmallTown,-25960,-25889,-4549,-4474
+SmallAbandonedMine,-25964,-25949,-4427,-4402

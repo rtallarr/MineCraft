@@ -20,3 +20,6 @@ StoneIceBoulder3,-13273,-13263,-3175,-3165
 RLCraft_DecentSpider,-13296,-13296,-3186,-3186
 RLCraft_UndergroundRuin2,-13301,-13291,-3188,-3181
 DinosaurSkull,-13311,-13300,-3259,-3240
+P_Tent,-13016,-13007,-3087,-3078
+UndergroundCultChamber,-13166,-13124,-3102,-3070
+StoneIceBoulder,-13251,-13242,-3086,-3076

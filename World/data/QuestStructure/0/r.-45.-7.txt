@@ -1,0 +1,10 @@
+RLCraft_BasicZombie,-23045,-23045,-4087,-4087
+RLCraft_UndergroundRuin1,-23051,-23042,-4093,-4084
+StonePlantMound1,-23141,-23135,-4066,-4060
+StonePlantMound4,-23304,-23297,-4055,-4048
+StonePlantMound,-23308,-23303,-4018,-4013
+StonePlantMound2,-23200,-23188,-3992,-3979
+ClayWaterMound,-23321,-23313,-3995,-3988
+StonePlantMound2,-23227,-23215,-3972,-3959
+UndergroundCrypt,-23200,-23172,-3975,-3961
+StonePlantMound2,-23260,-23247,-3979,-3967

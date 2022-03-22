@@ -1,0 +1,3 @@
+ShrineSmallFire,-22204,-22194,-4116,-4106
+StoneBoulder,-22240,-22231,-4123,-4114
+ShrineSmallFire,-22454,-22444,-4124,-4114

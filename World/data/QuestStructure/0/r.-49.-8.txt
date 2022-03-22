@@ -1,0 +1,16 @@
+RLCraft_BasicSkeleton,-25141,-25141,-4330,-4330
+RLCraft_UndergroundRuin1,-25147,-25138,-4333,-4324
+StoneIceBoulder3,-25152,-25142,-4560,-4550
+RLCraft_SmallUndergroundSkeleton,-25199,-25191,-4296,-4288
+StoneIceBoulder1,-25275,-25265,-4580,-4570
+BlazeSpawnerCrystal,-25246,-25240,-4345,-4339
+IceThorn,-25277,-25262,-4417,-4391
+StoneIceBoulder3,-25329,-25319,-4536,-4526
+StoneIceBoulder1,-25350,-25340,-4582,-4572
+PeacefulCrypt,-25422,-25398,-4463,-4447
+RLCraft_SmallUndergroundSkeleton,-25468,-25460,-4608,-4600
+RLCraft_DecentCaveSpider,-25453,-25453,-4414,-4414
+RLCraft_UndergroundRuin2,-25458,-25448,-4419,-4412
+ShrineSmallEarth,-25483,-25471,-4389,-4377
+RLCraft_BasicSkeleton,-25519,-25519,-4461,-4461
+RLCraft_UndergroundRuin1,-25525,-25516,-4464,-4455

@@ -344,6 +344,7 @@
   "defiledlands:main/discover_all_biomes": {
     "criteria": {
       "hills_defiled": "2022-02-18 12:03:49 -0300",
+      "forest_tenebra": "2022-03-22 18:51:41 -0300",
       "ice_plains_defiled": "2022-03-06 23:13:24 -0300"
     },
     "done": false

@@ -86,3 +86,4 @@ BlazeSpawnerCrystal,-21411,-21405,-3775,-3769
 StonePlantBoulder,-21433,-21423,-3766,-3756
 PeacefulCrypt,-21489,-21465,-3713,-3697
 DesertBeacon,-21376,-21370,-3589,-3583
+ShrineSmallFire,-21096,-21086,-3646,-3636

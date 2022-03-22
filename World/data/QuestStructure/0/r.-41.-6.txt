@@ -6,3 +6,7 @@ RLCraft_SmallUndergroundSkeleton,-21342,-21334,-3153,-3145
 DinosaurSkeleton,-21262,-21253,-3176,-3130
 VillageTriplets,-21194,-21180,-3434,-3420
 DinosaurSkull,-21206,-21195,-3213,-3194
+VillageWoodMill,-21162,-21146,-3431,-3418
+WoodWallRemains,-21158,-21130,-3510,-3502
+VillageSavannaStonemason,-21142,-21126,-3434,-3419
+VillageMarketplace,-21140,-21126,-3411,-3397

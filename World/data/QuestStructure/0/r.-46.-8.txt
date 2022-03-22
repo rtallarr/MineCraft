@@ -1,0 +1,8 @@
+StoneBoulder,-23661,-23652,-4403,-4394
+RLCraft_SmallUndergroundSkeleton,-23674,-23666,-4417,-4409
+StoneLeafMound,-23676,-23669,-4302,-4293
+StonePlantBoulder,-23694,-23684,-4304,-4294
+StonePlantMound3,-23730,-23721,-4464,-4453
+ShrineSmallFire,-24024,-24014,-4398,-4388
+RLCraft_BasicCaveSpider,-24011,-24011,-4599,-4599
+RLCraft_UndergroundRuin1,-24014,-24005,-4602,-4593

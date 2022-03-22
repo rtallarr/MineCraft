@@ -1,0 +1,6 @@
+RLCraft_DecentCaveSpider,-22902,-22902,-4248,-4248
+RLCraft_UndergroundRuin2,-22904,-22897,-4253,-4243
+RLCraft_DecentSkeleton,-22948,-22948,-4293,-4293
+RLCraft_UndergroundRuin2,-22953,-22943,-4298,-4291
+RLCraft_SmallUndergroundSkeleton,-22976,-22968,-4315,-4307
+RLCraft_SmallUndergroundSkeleton,-22813,-22805,-4356,-4348

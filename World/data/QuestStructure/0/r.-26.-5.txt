@@ -1,0 +1,7 @@
+MeteorSite,-13356,-13326,-2853,-2838
+IceThorn4,-13484,-13468,-3008,-2982
+RLCraft_DecentZombie,-13488,-13488,-2974,-2974
+RLCraft_UndergroundRuin3,-13490,-13482,-2979,-2971
+RLCraft_DecentZombie,-13645,-13645,-2926,-2926
+RLCraft_UndergroundRuin2,-13650,-13640,-2931,-2924
+P_Tent,-13727,-13718,-2964,-2955

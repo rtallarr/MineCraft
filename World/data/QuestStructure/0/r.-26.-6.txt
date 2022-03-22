@@ -11,3 +11,9 @@ RLCraft_SmallUndergroundSkeleton,-13500,-13492,-3298,-3290
 StoneIceBoulder1,-13570,-13560,-3572,-3562
 IceThorn1,-13616,-13600,-3419,-3398
 StoneIceBoulder,-13651,-13642,-3536,-3526
+StoneIceBoulder1,-13430,-13420,-3085,-3075
+DinosaurSkull,-13452,-13433,-3181,-3170
+StoneIceBoulder,-13535,-13525,-3119,-3110
+RLCraft_DecentZombie,-13640,-13640,-3117,-3117
+RLCraft_UndergroundRuin3,-13642,-13634,-3120,-3112
+RLCraft_SmallUndergroundSkeleton,-13416,-13408,-3196,-3188

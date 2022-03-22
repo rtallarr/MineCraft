@@ -1,0 +1,9 @@
+RLCraft_DecentWitch,-12954,-12954,-2894,-2894
+RLCraft_UndergroundRuin3,-12956,-12948,-2897,-2889
+MeteorSite,-13092,-13077,-2930,-2900
+UndergroundTreeoid,-13109,-13086,-3026,-3000
+IceThorn1,-13137,-13116,-3041,-3025
+RLCraft_DecentSpider,-13276,-13276,-2969,-2969
+RLCraft_UndergroundRuin2,-13278,-13271,-2974,-2964
+RLCraft_DecentZombie,-13277,-13277,-2929,-2929
+RLCraft_UndergroundRuin2,-13279,-13272,-2934,-2924

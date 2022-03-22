@@ -1,0 +1,16 @@
+SmallFortRuins,-22548,-22516,-3905,-3875
+RLCraft_cryo_bit,-22562,-22537,-4049,-4024
+RLCraft_SmallUndergroundSkeleton,-22630,-22622,-3855,-3847
+RLCraft_DecentSpider,-22585,-22585,-3811,-3811
+RLCraft_UndergroundRuin3,-22591,-22583,-3814,-3806
+MeteorSite,-22609,-22594,-3801,-3771
+UndergroundCultChamber,-22771,-22729,-4066,-4034
+RLCraft_DecentWitch,-22793,-22793,-3892,-3892
+RLCraft_UndergroundRuin2,-22798,-22791,-3897,-3887
+PeacefulCrypt,-22764,-22748,-3786,-3762
+RLCraft_BasicZombie,-22840,-22840,-3862,-3862
+RLCraft_UndergroundRuin1,-22843,-22834,-3868,-3859
+ShrineSmallAir,-22857,-22849,-4051,-4043
+RLCraft_DecentZombie,-22968,-22968,-4004,-4004
+RLCraft_UndergroundRuin3,-22973,-22965,-4010,-4002
+ShrineSmallAir,-23040,-23032,-4087,-4079

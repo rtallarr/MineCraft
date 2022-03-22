@@ -1,0 +1,10 @@
+WoodWallRemains,-22061,-22033,-3982,-3974
+RLCraft_Airtes,-22070,-22055,-4094,-4079
+RLCraft_DecentSpider,-22129,-22129,-3986,-3986
+RLCraft_UndergroundRuin2,-22134,-22124,-3991,-3984
+RLCraft_SmallUndergroundSkeleton,-22138,-22130,-4060,-4052
+SmallWoodenCottage,-22168,-22157,-4022,-4014
+WoodWallRemains,-22231,-22223,-3982,-3954
+RLCraft_SmallUndergroundSkeleton,-22243,-22235,-3872,-3864
+RLCraft_SmallUndergroundSkeleton,-22254,-22246,-3861,-3853
+AbandonedWoodTower,-22505,-22469,-3760,-3730
