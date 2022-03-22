@@ -1,0 +1,11 @@
+StonePlantMound1,-18192,-18186,-3587,-3581
+StoneBoulder,-18312,-18303,-3610,-3601
+StoneLeafMound,-18082,-18073,-3598,-3591
+P_VillageFarmhouse,-18157,-18145,-3625,-3613
+RLCraft_DecentZombie,-18259,-18259,-3651,-3651
+RLCraft_UndergroundRuin2,-18264,-18257,-3656,-3646
+StoneBoulder,-18284,-18275,-3658,-3649
+P_MayanTemple4,-18460,-18362,-3656,-3558
+StoneLeafMound,-18117,-18110,-3721,-3712
+RLCraft_DecentZombie,-18282,-18282,-3723,-3723
+RLCraft_UndergroundRuin3,-18288,-18280,-3728,-3720

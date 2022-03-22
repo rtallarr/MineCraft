@@ -1,0 +1,3 @@
+StoneBoulder,-21510,-21501,-3997,-3988
+RLCraft_PlainsCamp,-21540,-21494,-3858,-3819
+StoneBoulder,-21529,-21520,-3947,-3938

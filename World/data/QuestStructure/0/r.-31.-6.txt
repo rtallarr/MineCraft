@@ -1,0 +1,13 @@
+StoneIceBoulder,-15893,-15884,-3347,-3337
+ShrineSmallEarth,-15908,-15896,-3497,-3485
+RLCraft_BasicSkeleton,-15924,-15924,-3463,-3463
+RLCraft_UndergroundRuin1,-15930,-15921,-3469,-3460
+ShrineSmallFire,-16017,-16007,-3420,-3410
+StoneIceBoulder1,-16069,-16059,-3450,-3440
+StoneIceBoulder2,-16063,-16054,-3465,-3456
+DinosaurSkull,-16247,-16228,-3354,-3343
+ShrineSmallEarth,-16276,-16264,-3553,-3541
+RLCraft_SmallUndergroundSkeleton,-16300,-16292,-3455,-3447
+StoneIceBoulder3,-16376,-16366,-3340,-3330
+StoneIceBoulder,-16235,-16225,-3225,-3216
+MeteorSite,-16246,-16231,-3197,-3167

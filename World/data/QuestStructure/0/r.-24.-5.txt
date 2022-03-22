@@ -1,0 +1,4 @@
+StonePlantMound4,-12435,-12428,-3059,-3052
+StonePlantMound,-12502,-12497,-3051,-3046
+StonePlantMound1,-12508,-12502,-3060,-3054
+OldWatchtower,-12541,-12529,-3060,-3047

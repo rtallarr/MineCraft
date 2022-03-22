@@ -1,0 +1,12 @@
+RLCraft_SmallUndergroundSkeleton,-9895,-9887,-3593,-3585
+StoneMazePath,-10098,-10096,-3588,-3586
+StoneMazeEndChest,-10095,-10093,-3588,-3586
+StoneMazePathBig,-10089,-10081,-3588,-3580
+StoneMazePath,-10101,-10099,-3588,-3586
+StoneMazePath,-10104,-10102,-3588,-3586
+StoneMazePath,-10104,-10102,-3585,-3583
+StoneMazePath,-10080,-10078,-3585,-3583
+StoneMazePath,-10077,-10075,-3585,-3583
+StoneMazePath,-10080,-10078,-3588,-3586
+StoneMazeEndChest,-10074,-10072,-3585,-3583
+StoneMazePath,-10077,-10075,-3588,-3586

@@ -10,3 +10,10 @@ StonePlantBoulder,-3598,-3588,-1206,-1196
 StonePlantMound4,-3624,-3617,-1479,-1472
 StonePlantMound3,-3596,-3585,-1333,-1324
 ShrineSmallFire,-3827,-3817,-1506,-1496
+RLCraft_BasicWitch,-4080,-4080,-1485,-1485
+RLCraft_UndergroundRuin1,-4086,-4077,-1488,-1479
+ShrineSmallAir,-4064,-4056,-1483,-1475
+UndergroundCultChamber,-3964,-3922,-1507,-1475
+RLCraft_DecentSkeleton,-3931,-3931,-1394,-1394
+RLCraft_UndergroundRuin2,-3936,-3926,-1396,-1389
+UndergroundCrypt,-4106,-4078,-1221,-1207

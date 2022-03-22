@@ -62,3 +62,6 @@ StoneIceBoulder3,-4877,-4867,-5458,-5448
 RLCraft_SmallUndergroundSkeleton,-4905,-4897,-5597,-5589
 ShrineSmallAir,-4909,-4901,-5544,-5536
 StoneIceBoulder,-4936,-4927,-5636,-5626
+RLCraft_DecentSkeleton,-5011,-5011,-5432,-5432
+RLCraft_UndergroundRuin3,-5014,-5006,-5438,-5430
+RLCraft_SmallUndergroundSkeleton,-5116,-5108,-5416,-5408

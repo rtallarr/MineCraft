@@ -1,0 +1,15 @@
+P_WitchDungeon,-15407,-15390,-3322,-3288
+StoneIceBoulder2,-15395,-15386,-3337,-3328
+RLCraft_SmallUndergroundSkeleton,-15473,-15465,-3299,-3291
+RLCraft_SmallUndergroundSkeleton,-15521,-15513,-3566,-3558
+StoneIceBoulder3,-15571,-15561,-3493,-3483
+ElvenPond,-15590,-15560,-3336,-3307
+RLCraft_BasicSpider,-15647,-15647,-3503,-3503
+RLCraft_UndergroundRuin1,-15653,-15644,-3509,-3500
+SmallAbandonedMine,-15696,-15681,-3529,-3504
+StoneIceBoulder2,-15706,-15697,-3518,-3509
+StoneIceBoulder2,-15722,-15713,-3377,-3368
+StoneIceBoulder2,-15733,-15724,-3298,-3289
+RLCraft_Airtes,-15747,-15732,-3407,-3392
+StoneIceBoulder,-15764,-15754,-3358,-3349
+SpiderPit,-15804,-15795,-3357,-3347

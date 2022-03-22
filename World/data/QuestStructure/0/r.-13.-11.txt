@@ -21,3 +21,5 @@ RLCraft_SmallUndergroundSkeleton,-6824,-6816,-6129,-6121
 StonePlantBoulder,-6760,-6750,-6148,-6138
 RLCraft_DecentZombie,-6706,-6706,-6139,-6139
 RLCraft_UndergroundRuin2,-6711,-6701,-6144,-6137
+StoneLeafMound,-6682,-6675,-5671,-5662
+StonePlantBoulder,-6791,-6781,-5664,-5654

@@ -1,0 +1,5 @@
+BlazeSpawnerCrystal,-18599,-18593,-3715,-3709
+RLCraft_DecentSpider,-18692,-18692,-3693,-3693
+RLCraft_UndergroundRuin3,-18695,-18687,-3695,-3687
+RLCraft_BasicWitch,-18692,-18692,-3604,-3604
+RLCraft_UndergroundRuin1,-18698,-18689,-3610,-3601

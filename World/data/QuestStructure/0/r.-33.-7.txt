@@ -1,0 +1,12 @@
+StoneMazePathBig,-17407,-17399,-3622,-3614
+StoneMazeStudy,-17407,-17399,-3613,-3599
+StoneMazePath,-17407,-17405,-3607,-3605
+StoneMazeFountain,-17410,-17402,-3637,-3629
+StoneMazePath,-17407,-17405,-3628,-3626
+StoneMazePath,-17407,-17405,-3625,-3623
+StoneMazeEndChest,-17401,-17399,-3634,-3632
+StoneMazePath,-17404,-17402,-3628,-3626
+StoneMazePath,-17404,-17402,-3625,-3623
+StoneMazeEndChest,-17401,-17399,-3625,-3623
+StoneMazePath,-17401,-17399,-3628,-3626
+StoneMazeEndChest,-17401,-17399,-3631,-3629

@@ -62,3 +62,5 @@ RLCraft_UndergroundRuin3,-3636,-3628,-1571,-1563
 StoneLeafMound,-3786,-3779,-1610,-1601
 P_RuinedHouse,-3675,-3650,-1617,-1600
 StonePlantBoulder,-3665,-3655,-1632,-1622
+RLCraft_DecentSkeleton,-3987,-3987,-1634,-1634
+RLCraft_UndergroundRuin3,-3989,-3981,-1637,-1629

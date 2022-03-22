@@ -1,0 +1,5 @@
+RLCraft_BasicSpider,-21473,-21473,-3062,-3062
+RLCraft_UndergroundRuin1,-21476,-21467,-3068,-3059
+P_DesertTemple,-21416,-21367,-2967,-2917
+RLCraft_FriendlyOutpost,-21327,-21259,-2894,-2855
+RLCraft_UndergroundFarm,-21398,-21355,-2869,-2827

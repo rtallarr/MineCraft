@@ -607,6 +607,7 @@
     "criteria": {
       "zombie_pigman": "2022-02-20 18:50:00 -0300",
       "stray": "2022-02-21 00:36:26 -0300",
+      "shulker": "2022-03-21 19:38:27 -0300",
       "wither_skeleton": "2022-02-20 19:26:19 -0300",
       "zombie_villager": "2022-02-17 21:04:05 -0300",
       "slime": "2022-02-23 17:56:28 -0300",
@@ -1350,6 +1351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2022-03-21 19:38:34 -0300"
+    },
+    "done": true
+  },
   "defiledlands:recipes/tools/scarlite_razor": {
     "criteria": {
       "has_material": "2022-02-18 15:50:30 -0300"
@@ -1718,6 +1725,7 @@
       "bread": "2022-02-17 11:23:34 -0300",
       "golden_apple": "2022-02-20 19:09:29 -0300",
       "cookie": "2022-02-18 13:53:58 -0300",
+      "rotten_flesh": "2022-03-22 00:50:04 -0300",
       "raw_cod": "2022-03-04 21:32:00 -0300",
       "cooked_chicken": "2022-02-17 23:45:09 -0300",
       "enchanted_golden_apple": "2022-03-06 16:49:04 -0300",
@@ -2546,6 +2554,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2022-02-17 23:21:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2022-03-21 19:38:06 -0300"
     },
     "done": true
   },

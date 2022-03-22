@@ -1,0 +1,4 @@
+StonePlantMound,-11958,-11953,-3073,-3068
+DinosaurSkeleton,-12149,-12103,-3064,-3055
+StonePlantMound3,-12051,-12040,-3056,-3047
+ClayWaterMound1,-12088,-12077,-3035,-3025

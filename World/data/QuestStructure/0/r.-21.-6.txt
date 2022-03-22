@@ -1,3 +1,16 @@
 SmallWoodenCottage,-10791,-10780,-3079,-3071
 UndergroundTreeoid,-10828,-10805,-3127,-3101
 StonePlantMound1,-10783,-10777,-3217,-3211
+StonePlantMound,-10755,-10750,-3319,-3314
+P_WitchDungeon,-10892,-10875,-3297,-3263
+RLCraft_SmallUndergroundSkeleton,-10979,-10971,-3345,-3337
+RLCraft_BasicSpider,-11014,-11014,-3339,-3339
+RLCraft_UndergroundRuin1,-11020,-11011,-3345,-3336
+RLCraft_DecentSkeleton,-11079,-11079,-3404,-3404
+RLCraft_UndergroundRuin2,-11081,-11074,-3409,-3399
+RLCraft_4Towers,-11133,-11073,-3427,-3375
+WoodWallRemains,-11195,-11167,-3480,-3472
+IceThorn3,-11176,-11162,-3180,-3166
+PeacefulCrypt,-11186,-11170,-3181,-3157
+IceThorn4,-11228,-11212,-3218,-3192
+RLCraft_cryo_bit,-11261,-11236,-3582,-3557

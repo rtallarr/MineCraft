@@ -1,0 +1,17 @@
+SmallAbandonedMine,-14862,-14847,-3447,-3422
+RLCraft_DecentWitch,-14871,-14871,-3412,-3412
+RLCraft_UndergroundRuin2,-14876,-14869,-3417,-3407
+P_TreeDungeon,-14912,-14870,-3521,-3476
+StoneIceBoulder2,-15027,-15018,-3395,-3386
+RLCraft_DecentZombie,-15062,-15062,-3332,-3332
+RLCraft_UndergroundRuin2,-15064,-15057,-3337,-3327
+UndergroundCrypt,-15124,-15110,-3441,-3413
+ShrineSmallAir,-15117,-15109,-3337,-3329
+RLCraft_SmallUndergroundSkeleton,-15134,-15126,-3545,-3537
+PeacefulCrypt,-15192,-15176,-3378,-3354
+SmallWoodenCottage1,-15183,-15177,-3318,-3307
+RLCraft_LargeUndergroundTown,-15291,-15178,-3504,-3367
+P_IceSkeletonLookout,-15239,-15229,-3313,-3303
+RLCraft_SmallUndergroundSkeleton,-15290,-15282,-3544,-3536
+RLCraft_BasicSkeleton,-15336,-15336,-3352,-3352
+RLCraft_UndergroundRuin1,-15342,-15333,-3355,-3346

@@ -15,3 +15,7 @@ StoneBoulder,-4865,-4856,-613,-604
 StonePlantMound3,-4854,-4845,-747,-736
 RLCraft_SmallUndergroundSkeleton,-4670,-4662,-644,-636
 StonePlantMound,-4613,-4608,-572,-567
+DinosaurSkull,-4691,-4680,-870,-851
+StonePlantMound4,-4788,-4781,-1011,-1004
+StoneBoulder,-4807,-4798,-923,-914
+P_Tent,-4928,-4919,-1014,-1005

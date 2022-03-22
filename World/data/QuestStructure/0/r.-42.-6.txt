@@ -1,0 +1,6 @@
+P_DesertTemple,-21625,-21575,-3290,-3241
+SmallFortRuinsJapanese,-21577,-21531,-3509,-3463
+PeacefulCrypt,-21620,-21596,-3517,-3501
+DesertBeacon,-21659,-21653,-3360,-3354
+RLCraft_BasicWitch,-21679,-21679,-3233,-3233
+RLCraft_UndergroundRuin1,-21685,-21676,-3236,-3227

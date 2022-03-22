@@ -1,0 +1,9 @@
+ElvenPond,-5896,-5867,-9428,-9398
+StoneIceBoulder1,-6095,-6085,-9501,-9491
+RLCraft_DecentWitch,-6099,-6099,-9543,-9543
+RLCraft_UndergroundRuin3,-6102,-6094,-9545,-9537
+ShrineSmallAir,-5847,-5839,-9627,-9619
+StoneIceBoulder,-5842,-5833,-9639,-9629
+StoneIceBoulder2,-5895,-5886,-9671,-9662
+MeteorSite,-5829,-5814,-9641,-9611
+StoneIceBoulder3,-5767,-5757,-9613,-9603

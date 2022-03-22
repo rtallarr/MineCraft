@@ -9,3 +9,5 @@ PeacefulCrypt,-5067,-5051,-5905,-5881
 RLCraft_DecentSpider,-4780,-4780,-5893,-5893
 RLCraft_UndergroundRuin2,-4785,-4775,-5895,-5888
 RLCraft_SmallUndergroundSkeleton,-4868,-4860,-5945,-5937
+RLCraft_BasicCaveSpider,-5106,-5106,-5654,-5654
+RLCraft_UndergroundRuin1,-5112,-5103,-5657,-5648

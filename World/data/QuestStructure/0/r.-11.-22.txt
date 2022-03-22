@@ -1,0 +1,12 @@
+StonePlantMound,-6023,-6018,-11560,-11555
+UnnaturalCrater,-6016,-5976,-11571,-11531
+StonePlantMound1,-6024,-6018,-11469,-11463
+StoneBoulder,-5898,-5889,-11626,-11617
+StonePlantMound4,-5935,-5928,-11632,-11625
+StonePlantMound3,-5886,-5877,-11681,-11670
+BlazeSpawnerCrystal,-5714,-5708,-11712,-11706
+StoneLeafMound,-5944,-5937,-11727,-11718
+StoneLeafMound,-5954,-5947,-11757,-11748
+SmallAbandonedMine,-5950,-5935,-11756,-11731
+P_SpookyHouse,-6053,-6013,-11734,-11708
+RLCraft_SmallUndergroundSkeleton,-6061,-6053,-11636,-11628

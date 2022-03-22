@@ -1,0 +1,3 @@
+UndergroundCultChamber,-6104,-6062,-5734,-5702
+ShrineSmallWater,-6016,-6008,-5923,-5915
+ShrineSmallWater,-5825,-5817,-5819,-5811

@@ -4,3 +4,9 @@ MeteorSite,-6052,-6022,-8885,-8870
 StoneIceBoulder2,-6031,-6022,-8916,-8907
 RLCraft_DecentSpider,-5957,-5957,-8907,-8907
 RLCraft_UndergroundRuin2,-5959,-5952,-8912,-8902
+RLCraft_BasicZombie,-5960,-5960,-8942,-8942
+RLCraft_UndergroundRuin1,-5966,-5957,-8948,-8939
+IceThorn4,-5856,-5830,-8979,-8963
+DinosaurSkeleton,-6064,-6018,-8969,-8960
+RLCraft_SmallUndergroundSkeleton,-5822,-5814,-9162,-9154
+StoneIceBoulder3,-6141,-6131,-9130,-9120

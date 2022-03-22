@@ -1,0 +1,13 @@
+P_Tent,-13331,-13322,-3225,-3216
+RLCraft_BasicZombie,-13356,-13356,-3312,-3312
+RLCraft_UndergroundRuin1,-13359,-13350,-3315,-3306
+StoneIceBoulder,-13419,-13410,-3410,-3400
+RLCraft_DecentSkeleton,-13417,-13417,-3338,-3338
+RLCraft_UndergroundRuin3,-13423,-13415,-3341,-3333
+StonePlantMound4,-13447,-13440,-3527,-3520
+ShrineSmallEarth,-13465,-13453,-3402,-3390
+StoneIceBoulder,-13471,-13462,-3361,-3351
+RLCraft_SmallUndergroundSkeleton,-13500,-13492,-3298,-3290
+StoneIceBoulder1,-13570,-13560,-3572,-3562
+IceThorn1,-13616,-13600,-3419,-3398
+StoneIceBoulder,-13651,-13642,-3536,-3526

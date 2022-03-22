@@ -99,3 +99,11 @@ RLCraft_SmallUndergroundSkeleton,-4760,-4752,-1823,-1815
 StonePlantMound1,-4757,-4751,-1687,-1681
 StoneLeafMound,-4745,-4738,-1703,-1694
 RLCraft_4Towers,-4771,-4711,-1894,-1842
+MeteorSite,-4677,-4662,-1840,-1810
+StonePlantMound,-4797,-4792,-1947,-1942
+StoneBoulder,-4753,-4744,-1945,-1936
+StonePlantMound,-4712,-4707,-1932,-1927
+StoneLeafMound,-4669,-4662,-1943,-1934
+StoneBoulder,-4613,-4604,-1863,-1854
+StonePlantBoulder,-4635,-4625,-1977,-1967
+SmallWoodenCottage2,-4723,-4715,-2004,-1996

@@ -1,0 +1,8 @@
+BlazeSpawnerCrystal,-21492,-21486,-3450,-3444
+MeteorSite,-21446,-21431,-3371,-3341
+SmallAbandonedMine,-21416,-21391,-3344,-3329
+ShrineSmallFire,-21230,-21220,-3292,-3282
+RLCraft_SmallUndergroundSkeleton,-21342,-21334,-3153,-3145
+DinosaurSkeleton,-21262,-21253,-3176,-3130
+VillageTriplets,-21194,-21180,-3434,-3420
+DinosaurSkull,-21206,-21195,-3213,-3194
