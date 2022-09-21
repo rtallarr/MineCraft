@@ -191,3 +191,8 @@ StoneMazeBig,-14285,-14238,-3375,-3328
 StoneIceBoulder1,-14061,-14051,-3579,-3569
 SmallWoodenCottage2,-14116,-14108,-3585,-3577
 MeteorSite,-14313,-14283,-3380,-3365
+RLCraft_BasicSkeleton,-13842,-13842,-3206,-3206
+RLCraft_UndergroundRuin1,-13848,-13839,-3212,-3203
+SmallAbandonedMine,-14144,-14119,-3160,-3145
+RLCraft_DecentZombie,-14175,-14175,-3190,-3190
+RLCraft_UndergroundRuin3,-14178,-14170,-3192,-3184

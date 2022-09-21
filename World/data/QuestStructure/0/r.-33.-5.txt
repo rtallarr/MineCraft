@@ -1,0 +1,6 @@
+StoneBoulder,-17281,-17272,-3073,-3064
+RLCraft_cryo_bit,-17365,-17340,-3075,-3050
+StonePlantMound,-17283,-17278,-3041,-3036
+StoneBoulder,-17338,-17329,-2997,-2988
+StonePlantBoulder,-17275,-17265,-2959,-2949
+CorruptedEnderTree,-17241,-17228,-2974,-2963

@@ -1,0 +1,4 @@
+StonePlantMound1,-3555,-3549,-987,-981
+RLCraft_BasicWitch,-3571,-3571,-657,-657
+RLCraft_UndergroundRuin1,-3574,-3565,-663,-654
+ShrineSmallAir,-3490,-3482,-684,-676

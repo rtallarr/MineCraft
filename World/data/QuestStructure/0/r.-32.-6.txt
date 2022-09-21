@@ -22,3 +22,12 @@ StonePlantMound1,-16703,-16697,-3565,-3559
 StonePlantMound,-16852,-16847,-3378,-3373
 StonePlantMound2,-16885,-16873,-3373,-3360
 StonePlantMound2,-16901,-16888,-3334,-3322
+ShrineSmallAir,-16446,-16438,-3112,-3104
+RLCraft_SmallUndergroundSkeleton,-16520,-16512,-3167,-3159
+IceThorn3,-16687,-16673,-3134,-3120
+PirateChest,-16696,-16692,-3074,-3070
+StoneLeafMound,-16753,-16746,-3225,-3216
+DinosaurSkeleton,-16791,-16745,-3229,-3220
+StonePlantMound4,-16835,-16828,-3087,-3080
+SmallFortRuins,-16859,-16827,-3215,-3185
+StonePlantMound1,-16853,-16847,-3122,-3116

@@ -24,6 +24,7 @@
 -715 30 -767 -706 36 -759 NetherShrine.tml
 -689 74 -665 -681 81 -657 LargeNetherHouse.tml
 -616 11 -907 -605 20 -895 StoneHouse_Ruined.tml
+-578 92 -222 -569 99 -213 WoodHouse2_Ruined.tml
 -560 81 -365 -548 126 -353 TowerMedium.tml
 -545 12 -577 -535 21 -565 StoneHouseMruined.tml
 -488 19 -678 -479 30 -673 VanillaVillageChurch-r.tml

@@ -15,3 +15,13 @@ P_IceSkeletonLookout,-15239,-15229,-3313,-3303
 RLCraft_SmallUndergroundSkeleton,-15290,-15282,-3544,-3536
 RLCraft_BasicSkeleton,-15336,-15336,-3352,-3352
 RLCraft_UndergroundRuin1,-15342,-15333,-3355,-3346
+StoneIceBoulder1,-14854,-14844,-3207,-3197
+StoneIceBoulder2,-14987,-14978,-3257,-3248
+StoneIceBoulder3,-15101,-15091,-3164,-3154
+RLCraft_FriendlyOutpost,-15085,-15046,-3154,-3086
+P_WitchDungeon,-15142,-15108,-3227,-3210
+StoneIceBoulder1,-15144,-15134,-3082,-3072
+SmallAbandonedOutpost,-15240,-15218,-3224,-3194
+StoneIceBoulder1,-15297,-15287,-3226,-3216
+DinosaurSkull,-15343,-15324,-3147,-3136
+SmallOutpost,-15347,-15317,-3247,-3225

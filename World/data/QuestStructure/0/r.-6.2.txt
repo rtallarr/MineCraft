@@ -1,0 +1,5 @@
+StonePlantMound,-3193,-3188,1079,1084
+RLCraft_DecentSkeleton,-3242,-3242,1101,1101
+RLCraft_UndergroundRuin3,-3247,-3239,1099,1107
+RLCraft_BasicWitch,-3269,-3269,1189,1189
+RLCraft_UndergroundRuin1,-3275,-3266,1186,1195

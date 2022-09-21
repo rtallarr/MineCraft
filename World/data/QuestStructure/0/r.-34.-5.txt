@@ -1,0 +1,4 @@
+StonePlantMound4,-17580,-17573,-2998,-2991
+RLCraft_DecentSpider,-17625,-17625,-3037,-3037
+RLCraft_UndergroundRuin2,-17627,-17620,-3042,-3032
+DinosaurSkull,-17915,-17904,-3058,-3039

@@ -72,3 +72,9 @@ StonePlantMound3,-4069,-4060,134,145
 MeteorSite,-3833,-3818,-446,-416
 PeacefulCrypt,-3719,-3703,-450,-426
 SmallAbandonedMine,-3696,-3671,-289,-274
+WoodWallRemains,-3656,-3628,-412,-404
+StonePlantMound,-3653,-3648,-322,-317
+StonePlantBoulder,-3635,-3625,-320,-310
+StonePlantMound3,-3629,-3620,-326,-315
+RLCraft_BasicSkeleton,-3612,-3612,151,151
+RLCraft_UndergroundRuin1,-3615,-3606,148,157

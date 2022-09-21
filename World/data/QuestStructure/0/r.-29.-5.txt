@@ -1,0 +1,6 @@
+StoneIceBoulder1,-14896,-14886,-2955,-2945
+StoneIceBoulder1,-15093,-15083,-3065,-3055
+StoneIceBoulder,-15019,-15009,-2948,-2939
+IceThorn,-15202,-15187,-2960,-2934
+StoneIceBoulder3,-15064,-15054,-2913,-2903
+StoneIceBoulder1,-15278,-15268,-3012,-3002

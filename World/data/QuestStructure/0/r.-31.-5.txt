@@ -1,0 +1,6 @@
+PeacefulCrypt,-15958,-15934,-3022,-3006
+ShrineSmallFire,-16153,-16143,-2991,-2981
+RLCraft_DecentCaveSpider,-16282,-16282,-3064,-3064
+RLCraft_UndergroundRuin3,-16285,-16277,-3070,-3062
+RLCraft_DecentWitch,-16315,-16315,-3059,-3059
+RLCraft_UndergroundRuin3,-16321,-16313,-3064,-3056

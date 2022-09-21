@@ -7,3 +7,12 @@ P_TreeDungeon,-18636,-18594,-3497,-3452
 RLCraft_DecentCaveSpider,-18729,-18729,-3560,-3560
 RLCraft_UndergroundRuin2,-18731,-18724,-3565,-3555
 RLCraft_SmallUndergroundSkeleton,-18784,-18776,-3502,-3494
+RLCraft_SmallUndergroundSkeleton,-18437,-18429,-3096,-3088
+RLCraft_DecentWitch,-18466,-18466,-3124,-3124
+RLCraft_UndergroundRuin3,-18469,-18461,-3130,-3122
+RLCraft_BasicSpider,-18489,-18489,-3150,-3150
+RLCraft_UndergroundRuin1,-18492,-18483,-3153,-3144
+RLCraft_DecentSkeleton,-18496,-18496,-3299,-3299
+RLCraft_UndergroundRuin3,-18502,-18494,-3304,-3296
+FallenPalmTree,-18612,-18608,-3318,-3308
+RLCraft_SmallTown,-18713,-18642,-3187,-3112

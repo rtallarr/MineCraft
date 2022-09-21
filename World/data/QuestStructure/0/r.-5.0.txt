@@ -1,0 +1,13 @@
+StonePlantMound,-2958,-2953,167,172
+P_SmallShip,-2935,-2929,237,257
+RLCraft_SmallUndergroundSkeleton,-2856,-2848,228,236
+StonePlantMound3,-2793,-2782,274,283
+StoneLeafMound,-2771,-2764,316,325
+StonePlantMound1,-2750,-2744,249,255
+DinosaurSkull,-2614,-2595,288,299
+StonePlantMound3,-2838,-2827,238,247
+RLCraft_BasicSkeleton,-2794,-2794,210,210
+RLCraft_UndergroundRuin1,-2797,-2788,207,216
+StonePlantMound2,-2691,-2679,165,178
+StonePlantBoulder,-2678,-2668,172,182
+SmallAbandonedMine,-2664,-2649,113,138

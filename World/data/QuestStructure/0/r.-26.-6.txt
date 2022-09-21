@@ -17,3 +17,6 @@ StoneIceBoulder,-13535,-13525,-3119,-3110
 RLCraft_DecentZombie,-13640,-13640,-3117,-3117
 RLCraft_UndergroundRuin3,-13642,-13634,-3120,-3112
 RLCraft_SmallUndergroundSkeleton,-13416,-13408,-3196,-3188
+RLCraft_BasicCaveSpider,-13771,-13771,-3188,-3188
+RLCraft_UndergroundRuin1,-13774,-13765,-3191,-3182
+P_Tent,-13532,-13523,-3215,-3206

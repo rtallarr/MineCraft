@@ -11,3 +11,7 @@ SmallWoodenCottage,-3847,-3839,-999,-988
 RLCraft_SmallUndergroundSkeleton,-3828,-3820,-1024,-1016
 DinosaurSkeleton,-3834,-3825,-1046,-1000
 RLCraft_SmallUndergroundSkeleton,-3861,-3853,-1008,-1000
+RLCraft_SmallUndergroundSkeleton,-3635,-3627,-937,-929
+ShrineSmallFire,-3659,-3649,-737,-727
+RLCraft_DecentSpider,-3584,-3584,-561,-561
+RLCraft_UndergroundRuin3,-3590,-3582,-564,-556

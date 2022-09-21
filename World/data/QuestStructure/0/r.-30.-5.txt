@@ -1,0 +1,4 @@
+StoneIceBoulder,-15380,-15371,-3036,-3026
+StoneIceBoulder1,-15434,-15424,-3049,-3039
+StoneIceBoulder2,-15428,-15419,-2988,-2979
+RLCraft_SmallUndergroundSkeleton,-15827,-15819,-3017,-3009

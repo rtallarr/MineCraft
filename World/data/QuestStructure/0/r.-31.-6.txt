@@ -11,3 +11,17 @@ RLCraft_SmallUndergroundSkeleton,-16300,-16292,-3455,-3447
 StoneIceBoulder3,-16376,-16366,-3340,-3330
 StoneIceBoulder,-16235,-16225,-3225,-3216
 MeteorSite,-16246,-16231,-3197,-3167
+StoneIceBoulder3,-15877,-15867,-3202,-3192
+StoneIceBoulder1,-15899,-15889,-3110,-3100
+StoneIceBoulder3,-15997,-15987,-3091,-3081
+RLCraft_LargeUndergroundTown,-16003,-15890,-3165,-3028
+StoneIceBoulder2,-15987,-15978,-3218,-3209
+ShrineSmallFire,-16025,-16015,-3272,-3262
+RLCraft_BasicWitch,-16035,-16035,-3271,-3271
+RLCraft_UndergroundRuin1,-16038,-16029,-3277,-3268
+RLCraft_DecentZombie,-16101,-16101,-3246,-3246
+RLCraft_UndergroundRuin3,-16106,-16098,-3248,-3240
+RLCraft_BasicCaveSpider,-16126,-16126,-3147,-3147
+RLCraft_UndergroundRuin1,-16132,-16123,-3153,-3144
+ShrineSmallFire,-16153,-16143,-3257,-3247
+StoneIceBoulder,-16305,-16295,-3096,-3087
